@@ -25,3 +25,27 @@ framework:
 # here. `/project-settings --local <key>=<value>` writes there; `/project-settings <key>=<value>`
 # edits this file. See `.claude/docs/config-resolution.md` for the full
 # precedence order.
+
+# Craque Manager — motor configurado ao trazer o jogo para o repositório.
+engine:
+  name: "Godot"
+  version: "4.5"
+  language: "GDScript"
+  rendering: "Compatibility"
+  physics: "none"            # física da bola é própria, em src/ball_physics.gd
+
+specialists:
+  code: "godot-gdscript-specialist"
+  shader: "godot-shader-specialist"
+  ui: "godot-specialist"
+  additional: ["godot-gdextension-specialist"]
+
+platform:
+  targets: [Mobile, PC]
+  primary_input: "Touch"
+  touch_support: "Full"
+
+commands:
+  run: "godot --path . --windowed --resolution 1280x720"
+  smoke: "godot --headless --quit-after 5"
+  test: "godot --headless --path . res://tests/run_tests.tscn"

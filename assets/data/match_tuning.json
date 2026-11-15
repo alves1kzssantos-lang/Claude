@@ -1,0 +1,72 @@
+{
+	"_sobre": "Números da partida. Mude aqui sem mexer no código. Medidas em metros e segundos.",
+	"bola": {
+		"gravidade": 9.8,
+		"atrito_grama": 0.9,
+		"arrasto_ar": 0.12,
+		"quique": 0.45,
+		"raio": 0.11
+	},
+	"passe": {
+		"velocidade_rasteiro_min": 13.0,
+		"velocidade_rasteiro_max": 24.0,
+		"altura_passe_alto": 4.2,
+		"altura_cruzamento": 3.4,
+		"erro_base_graus": 1.5,
+		"erro_por_ponto_faltando": 0.09,
+		"erro_pressao_graus": 4.0,
+		"distancia_pressao": 3.0,
+		"alcance_corte_pe": 0.85,
+		"alcance_corte_cabeca": 1.25,
+		"altura_max_corte_pe": 0.9,
+		"altura_max_corte_cabeca": 2.3,
+		"chance_dominio_alto": 0.82,
+		"toque_longo_segundos": 0.35,
+		"reacao_corte": 0.18,
+		"chance_corte_base": 0.4
+	},
+	"chute": {
+		"velocidade_min": 16.0,
+		"velocidade_max": 31.0,
+		"subida_por_forca": 3.4,
+		"erro_base_graus": 1.2,
+		"erro_por_ponto_faltando": 0.1,
+		"erro_por_forca_graus": 3.0,
+		"erro_cabeceio_graus": 5.0,
+		"velocidade_cabeceio": 14.0,
+		"arraste_para_forca_maxima_px": 260.0,
+		"chance_travar": 0.22
+	},
+	"goleiro": {
+		"reacao_base": 0.12,
+		"reacao_por_ponto_faltando": 0.004,
+		"velocidade_base": 1.0,
+		"velocidade_por_ponto": 0.02,
+		"alcance_lateral": 1.15,
+		"alcance_alto": 2.55,
+		"chance_espalmar_canto_alto": 0.55
+	},
+	"zaga": {
+		"profundidade_linha": 10.0,
+		"linha_minima": 6.0,
+		"linha_maxima": 30.0,
+		"compactacao": 0.62,
+		"deslocar_para_bola": 0.35,
+		"distancia_cobertura": 2.4
+	},
+	"arbitro": {
+		"chance_falta_no_bote": 0.2,
+		"chance_amarelo_na_falta": 0.19,
+		"chance_vermelho_direto": 0.006,
+		"chance_vantagem": 0.35,
+		"faltas_por_minuto_por_time": 0.13,
+		"chance_impedimento_ataque_simulado": 0.12,
+		"chance_penalti_ataque_simulado": 0.014,
+		"chance_gol_penalti_simulado": 0.76,
+		"perda_forca_expulsao": 0.12,
+		"jogos_suspensao_vermelho": 1,
+		"distancia_falta_direta": 30.0,
+		"vitoria_bote_base": 0.2,
+		"cuidado_com_amarelo": 0.75
+	}
+}
