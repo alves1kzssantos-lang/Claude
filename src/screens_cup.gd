@@ -350,6 +350,7 @@ func cup_results(root: Control, arg) -> void:
 	var is_next: bool = bool(a.get("next", false))
 	var sname := stage_title(c, stage)
 	m.head(str(c["name"]), "Resultados • " + sname, not is_next)
+	m.bare()
 	var th := theme_for(str(c["name"]))
 	var full := _stage(root, th)
 	var cont := func():
@@ -479,6 +480,7 @@ func cup(root: Control, arg) -> void:
 		Cups.ensure_draw(ci)
 	var sub := "Campeão: %s" % Game.club_name(champ) if champ >= 0 else format_text(c)
 	m.head(str(c["name"]), sub, not is_next)
+	m.bare()
 	var th := theme_for(str(c["name"]))
 	var full := _stage(root, th)
 	var played_any: bool = int(c["next"]) > 0

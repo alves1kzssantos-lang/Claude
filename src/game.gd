@@ -158,7 +158,7 @@ func new_career(i: int, coach: Dictionary, club_id: int, league_idx: int = 0, ye
 		# elenco do datapack (elencos.csv), se existir para este clube
 		var ros: Array = DataPack.roster([info[0], cname])
 		if ros.size() < 11:
-			ros = real_roster(info[0])
+			ros = real_roster(info[0], str(World.LEAGUES[league_idx]["name"]))
 		var have := {}
 		if ros.size() >= 11:
 			for r in ros:
@@ -219,7 +219,7 @@ func guest_club(li: int, ci: int) -> int:
 	S["clubs"].append({"id": cid, "name": DataPack.club_name(li, ci, info[0]), "short": info[1], "c1": info[2], "c2": info[3],
 		"str": info[4], "li": li, "ci": ci, "guest": true, "formation": "4-3-3", "xi": [], "titles": 0,
 		"pts": 0, "j": 0, "v": 0, "e": 0, "d": 0, "gp": 0, "gc": 0})
-	var ros: Array = real_roster(info[0])
+	var ros: Array = real_roster(info[0], str(World.LEAGUES[li]["name"]))
 	var have := {}
 	if ros.size() >= 11:
 		for r in ros:
@@ -371,17 +371,29 @@ func club_name(cid: int) -> String:
 # ------------------------------------------------------------ jogadores
 ## Elenco real do clube (assets/data/rosters_real.json), no formato
 ## [nome, posição, idade, nota, país]. Vazio se o clube não tiver elenco real.
-func real_roster(club_name: String) -> Array:
+## Elenco real de um clube. Aceita a chave "Liga|Clube" para clubes de mesmo nome em ligas diferentes.
+func real_roster(club_name: String, league_name: String = "") -> Array:
 	if _real.is_empty():
 		var path := "res://assets/data/rosters_real.json"
 		if FileAccess.file_exists(path):
 			var d = JSON.parse_string(FileAccess.get_file_as_string(path))
 			if typeof(d) == TYPE_DICTIONARY:
 				_real = d
+		# elencos por liga feitos a partir do datapack (assets/data/rosters/*.json) completam/substituem
+		var dir := DirAccess.open("res://assets/data/rosters")
+		if dir != null:
+			for fn in dir.get_files():
+				if not fn.ends_with(".json"):
+					continue
+				var dd = JSON.parse_string(FileAccess.get_file_as_string("res://assets/data/rosters/" + fn))
+				if typeof(dd) == TYPE_DICTIONARY:
+					for k in dd.keys():
+						_real[k] = dd[k]
 		if _real.is_empty():
 			_real = {"_": []}
 	var out: Array = []
-	for r in _real.get(club_name, []):
+	var key: String = league_name + "|" + club_name
+	for r in _real.get(key, _real.get(club_name, [])):
 		out.append([r[0], r[1], int(r[2]), int(r[3]), ""])
 	return out
 

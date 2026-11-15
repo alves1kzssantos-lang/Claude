@@ -1,0 +1,5806 @@
+{
+ "Real Madrid": [
+  [
+   "Thibaut Courtois",
+   "GOL",
+   33,
+   89
+  ],
+  [
+   "Andriy Lunin",
+   "GOL",
+   26,
+   79
+  ],
+  [
+   "Fran González",
+   "GOL",
+   20,
+   62
+  ],
+  [
+   "Daniel Carvajal",
+   "LD",
+   33,
+   84
+  ],
+  [
+   "Alexander-Arnold",
+   "LD",
+   26,
+   86
+  ],
+  [
+   "Éder Militão",
+   "ZAG",
+   27,
+   85
+  ],
+  [
+   "Antonio Rüdiger",
+   "ZAG",
+   32,
+   86
+  ],
+  [
+   "Dean Huijsen",
+   "ZAG",
+   20,
+   80
+  ],
+  [
+   "Raúl Asencio",
+   "ZAG",
+   22,
+   77
+  ],
+  [
+   "David Alaba",
+   "ZAG",
+   33,
+   80
+  ],
+  [
+   "Álvaro Carreras",
+   "LE",
+   22,
+   80
+  ],
+  [
+   "Fran García",
+   "LE",
+   26,
+   77
+  ],
+  [
+   "Ferland Mendy",
+   "LE",
+   30,
+   80
+  ],
+  [
+   "A. Tchouaméni",
+   "VOL",
+   25,
+   84
+  ],
+  [
+   "Federico Valverde",
+   "MEI",
+   27,
+   88
+  ],
+  [
+   "Jude Bellingham",
+   "MEI",
+   22,
+   89
+  ],
+  [
+   "Eduardo Camavinga",
+   "VOL",
+   22,
+   83
+  ],
+  [
+   "Dani Ceballos",
+   "MEI",
+   29,
+   79
+  ],
+  [
+   "Arda Güler",
+   "MEI",
+   20,
+   81
+  ],
+  [
+   "F. Mastantuono",
+   "PD",
+   18,
+   75
+  ],
+  [
+   "Brahim Díaz",
+   "PD",
+   26,
+   80
+  ],
+  [
+   "Rodrygo",
+   "PD",
+   24,
+   85
+  ],
+  [
+   "Vinicius Junior",
+   "PE",
+   25,
+   89
+  ],
+  [
+   "Kylian Mbappé",
+   "AC",
+   26,
+   91
+  ],
+  [
+   "Gonzalo García",
+   "AC",
+   21,
+   72
+  ],
+  [
+   "Endrick",
+   "AC",
+   19,
+   77
+  ]
+ ],
+ "Barcelona": [
+  [
+   "Joan García",
+   "GOL",
+   24,
+   82
+  ],
+  [
+   "Marc ter Stegen",
+   "GOL",
+   33,
+   85
+  ],
+  [
+   "Wojciech Szczęsny",
+   "GOL",
+   35,
+   81
+  ],
+  [
+   "Jules Koundé",
+   "LD",
+   26,
+   85
+  ],
+  [
+   "Eric García",
+   "ZAG",
+   24,
+   79
+  ],
+  [
+   "Pau Cubarsí",
+   "ZAG",
+   18,
+   82
+  ],
+  [
+   "Ronald Araújo",
+   "ZAG",
+   26,
+   83
+  ],
+  [
+   "A. Christensen",
+   "ZAG",
+   29,
+   79
+  ],
+  [
+   "Gerard Martín",
+   "LE",
+   23,
+   76
+  ],
+  [
+   "Alejandro Balde",
+   "LE",
+   21,
+   82
+  ],
+  [
+   "Jofre Torrents",
+   "LE",
+   18,
+   62
+  ],
+  [
+   "Marc Casadó",
+   "VOL",
+   22,
+   77
+  ],
+  [
+   "Frenkie de Jong",
+   "VOL",
+   28,
+   85
+  ],
+  [
+   "Marc Bernal",
+   "VOL",
+   18,
+   70
+  ],
+  [
+   "Pedri",
+   "MEI",
+   22,
+   89
+  ],
+  [
+   "Gavi",
+   "MEI",
+   21,
+   82
+  ],
+  [
+   "Fermín López",
+   "MEI",
+   22,
+   80
+  ],
+  [
+   "Dani Olmo",
+   "MEI",
+   27,
+   84
+  ],
+  [
+   "Lamine Yamal",
+   "PD",
+   18,
+   89
+  ],
+  [
+   "Roony Bardghji",
+   "PD",
+   19,
+   70
+  ],
+  [
+   "Raphinha",
+   "PE",
+   28,
+   88
+  ],
+  [
+   "Marcus Rashford",
+   "PE",
+   27,
+   81
+  ],
+  [
+   "Ferran Torres",
+   "AC",
+   25,
+   80
+  ],
+  [
+   "R. Lewandowski",
+   "AC",
+   37,
+   86
+  ]
+ ],
+ "Atlético de Madrid": [
+  [
+   "Jan Oblak",
+   "GOL",
+   32,
+   87
+  ],
+  [
+   "Juan Musso",
+   "GOL",
+   31,
+   77
+  ],
+  [
+   "Salvi Esquivel",
+   "GOL",
+   20,
+   60
+  ],
+  [
+   "Marcos Llorente",
+   "LD",
+   30,
+   82
+  ],
+  [
+   "Nahuel Molina",
+   "LD",
+   27,
+   80
+  ],
+  [
+   "Robin Le Normand",
+   "ZAG",
+   28,
+   81
+  ],
+  [
+   "José Giménez",
+   "ZAG",
+   30,
+   81
+  ],
+  [
+   "Dávid Hancko",
+   "ZAG",
+   27,
+   80
+  ],
+  [
+   "Clément Lenglet",
+   "ZAG",
+   30,
+   77
+  ],
+  [
+   "Marc Pubill",
+   "ZAG",
+   22,
+   74
+  ],
+  [
+   "Matteo Ruggeri",
+   "LE",
+   23,
+   77
+  ],
+  [
+   "Javi Galán",
+   "LE",
+   30,
+   76
+  ],
+  [
+   "Koke",
+   "VOL",
+   33,
+   81
+  ],
+  [
+   "Pablo Barrios",
+   "VOL",
+   22,
+   80
+  ],
+  [
+   "Johnny Cardoso",
+   "VOL",
+   23,
+   78
+  ],
+  [
+   "Conor Gallagher",
+   "MEI",
+   25,
+   81
+  ],
+  [
+   "Álex Baena",
+   "MEI",
+   24,
+   83
+  ],
+  [
+   "Thiago Almada",
+   "MEI",
+   24,
+   81
+  ],
+  [
+   "Giuliano Simeone",
+   "PD",
+   22,
+   78
+  ],
+  [
+   "Nico González",
+   "PE",
+   27,
+   80
+  ],
+  [
+   "Antoine Griezmann",
+   "AC",
+   34,
+   84
+  ],
+  [
+   "Julián Alvarez",
+   "AC",
+   25,
+   86
+  ],
+  [
+   "Alexander Sørloth",
+   "AC",
+   29,
+   82
+  ],
+  [
+   "Giacomo Raspadori",
+   "AC",
+   25,
+   79
+  ]
+ ],
+ "Athletic Bilbao": [
+  [
+   "Unai Simón",
+   "GOL",
+   28,
+   84
+  ],
+  [
+   "Álex Padilla",
+   "GOL",
+   21,
+   72
+  ],
+  [
+   "Ander Iru",
+   "GOL",
+   19,
+   58
+  ],
+  [
+   "Óscar de Marcos",
+   "LD",
+   36,
+   75
+  ],
+  [
+   "Iñigo Lekue",
+   "LD",
+   32,
+   74
+  ],
+  [
+   "Andoni Gorosabel",
+   "LD",
+   29,
+   75
+  ],
+  [
+   "Jesús Areso",
+   "LD",
+   26,
+   77
+  ],
+  [
+   "Dani Vivian",
+   "ZAG",
+   26,
+   81
+  ],
+  [
+   "Aitor Paredes",
+   "ZAG",
+   25,
+   78
+  ],
+  [
+   "Yeray Álvarez",
+   "ZAG",
+   30,
+   79
+  ],
+  [
+   "Aymeric Laporte",
+   "ZAG",
+   31,
+   82
+  ],
+  [
+   "Yuri Berchiche",
+   "LE",
+   35,
+   74
+  ],
+  [
+   "Adama Boiro",
+   "LE",
+   23,
+   72
+  ],
+  [
+   "de Galarreta",
+   "VOL",
+   32,
+   78
+  ],
+  [
+   "Mikel Jauregizar",
+   "VOL",
+   22,
+   77
+  ],
+  [
+   "Mikel Vesga",
+   "VOL",
+   32,
+   75
+  ],
+  [
+   "Beñat Prados",
+   "VOL",
+   24,
+   76
+  ],
+  [
+   "Oihan Sancet",
+   "MEI",
+   25,
+   82
+  ],
+  [
+   "Unai Gómez",
+   "MEI",
+   22,
+   74
+  ],
+  [
+   "Iñaki Williams",
+   "PD",
+   31,
+   81
+  ],
+  [
+   "Nico Williams",
+   "PE",
+   23,
+   85
+  ],
+  [
+   "Álex Berenguer",
+   "PE",
+   30,
+   78
+  ],
+  [
+   "Robert Navarro",
+   "PE",
+   23,
+   75
+  ],
+  [
+   "Gorka Guruzeta",
+   "AC",
+   28,
+   79
+  ],
+  [
+   "Maroan Sannadi",
+   "AC",
+   24,
+   72
+  ]
+ ],
+ "Villarreal": [
+  [
+   "Luiz Júnior",
+   "GOL",
+   24,
+   77
+  ],
+  [
+   "Diego Conde",
+   "GOL",
+   27,
+   76
+  ],
+  [
+   "Arnau Tenas",
+   "GOL",
+   24,
+   74
+  ],
+  [
+   "Juan Foyth",
+   "LD",
+   27,
+   78
+  ],
+  [
+   "Santiago Mouriño",
+   "LD",
+   23,
+   76
+  ],
+  [
+   "Renato Veiga",
+   "ZAG",
+   22,
+   78
+  ],
+  [
+   "Rafa Marín",
+   "ZAG",
+   23,
+   77
+  ],
+  [
+   "Logan Costa",
+   "ZAG",
+   24,
+   78
+  ],
+  [
+   "Willy Kambwala",
+   "ZAG",
+   20,
+   75
+  ],
+  [
+   "Pau Navarro",
+   "ZAG",
+   20,
+   70
+  ],
+  [
+   "Sergi Cardona",
+   "LE",
+   26,
+   77
+  ],
+  [
+   "Alfonso Pedraza",
+   "LE",
+   29,
+   78
+  ],
+  [
+   "Thomas Partey",
+   "VOL",
+   32,
+   81
+  ],
+  [
+   "Pape Gueye",
+   "VOL",
+   26,
+   78
+  ],
+  [
+   "Santi Comesaña",
+   "VOL",
+   21,
+   76
+  ],
+  [
+   "Dani Parejo",
+   "MEI",
+   36,
+   80
+  ],
+  [
+   "Alberto Moleiro",
+   "MEI",
+   21,
+   78
+  ],
+  [
+   "Nicolas Pépé",
+   "PD",
+   30,
+   79
+  ],
+  [
+   "Tajon Buchanan",
+   "PD",
+   26,
+   76
+  ],
+  [
+   "Ilias Akhomach",
+   "PD",
+   21,
+   74
+  ],
+  [
+   "Manor Solomon",
+   "PE",
+   26,
+   75
+  ],
+  [
+   "Gerard Moreno",
+   "AC",
+   33,
+   80
+  ],
+  [
+   "Ayoze Pérez",
+   "AC",
+   32,
+   80
+  ],
+  [
+   "G. Mikautadze",
+   "AC",
+   24,
+   77
+  ],
+  [
+   "Tani Oluwaseyi",
+   "AC",
+   25,
+   72
+  ]
+ ],
+ "Real Betis": [
+  [
+   "Pau López",
+   "GOL",
+   30,
+   78
+  ],
+  [
+   "Álvaro Valles",
+   "GOL",
+   28,
+   75
+  ],
+  [
+   "Adrián",
+   "GOL",
+   38,
+   71
+  ],
+  [
+   "Héctor Bellerín",
+   "LD",
+   30,
+   77
+  ],
+  [
+   "Aitor Ruibal",
+   "LD",
+   29,
+   75
+  ],
+  [
+   "Ángel Ortiz",
+   "LD",
+   21,
+   68
+  ],
+  [
+   "Natan",
+   "ZAG",
+   24,
+   77
+  ],
+  [
+   "Diego Llorente",
+   "ZAG",
+   32,
+   77
+  ],
+  [
+   "Marc Bartra",
+   "ZAG",
+   34,
+   74
+  ],
+  [
+   "Valentín Gómez",
+   "ZAG",
+   22,
+   74
+  ],
+  [
+   "Ricardo Rodríguez",
+   "LE",
+   33,
+   76
+  ],
+  [
+   "Junior Firpo",
+   "LE",
+   29,
+   75
+  ],
+  [
+   "Marc Roca",
+   "VOL",
+   28,
+   79
+  ],
+  [
+   "Sergi Altimira",
+   "VOL",
+   24,
+   75
+  ],
+  [
+   "Nelson Deossa",
+   "VOL",
+   25,
+   74
+  ],
+  [
+   "Pablo Fornals",
+   "MEI",
+   29,
+   79
+  ],
+  [
+   "Isco",
+   "MEI",
+   33,
+   82
+  ],
+  [
+   "Giovani Lo Celso",
+   "MEI",
+   29,
+   81
+  ],
+  [
+   "Antony",
+   "PD",
+   25,
+   80
+  ],
+  [
+   "Pablo García",
+   "PD",
+   19,
+   68
+  ],
+  [
+   "Abde Ezzalzouli",
+   "PE",
+   24,
+   79
+  ],
+  [
+   "Rodrigo Riquelme",
+   "PE",
+   25,
+   75
+  ],
+  [
+   "Cucho Hernández",
+   "AC",
+   26,
+   78
+  ],
+  [
+   "Chimy Ávila",
+   "AC",
+   31,
+   75
+  ],
+  [
+   "Cédric Bakambu",
+   "AC",
+   34,
+   74
+  ]
+ ],
+ "Real Sociedad": [
+  [
+   "Álex Remiro",
+   "GOL",
+   30,
+   82
+  ],
+  [
+   "Unai Marrero",
+   "GOL",
+   24,
+   72
+  ],
+  [
+   "Aitor Fraga",
+   "GOL",
+   21,
+   62
+  ],
+  [
+   "Jon Aramburu",
+   "LD",
+   23,
+   76
+  ],
+  [
+   "Álvaro Odriozola",
+   "LD",
+   29,
+   73
+  ],
+  [
+   "Igor Zubeldia",
+   "ZAG",
+   28,
+   80
+  ],
+  [
+   "Aritz Elustondo",
+   "ZAG",
+   31,
+   75
+  ],
+  [
+   "Duje Caleta-Car",
+   "ZAG",
+   28,
+   76
+  ],
+  [
+   "Jon Martín",
+   "ZAG",
+   19,
+   72
+  ],
+  [
+   "Aihen Muñoz",
+   "LE",
+   28,
+   74
+  ],
+  [
+   "Sergio Gómez",
+   "LE",
+   25,
+   76
+  ],
+  [
+   "Beñat Turrientes",
+   "VOL",
+   23,
+   76
+  ],
+  [
+   "Jon Gorrotxategi",
+   "VOL",
+   23,
+   72
+  ],
+  [
+   "Yangel Herrera",
+   "VOL",
+   27,
+   78
+  ],
+  [
+   "Brais Méndez",
+   "MEI",
+   28,
+   79
+  ],
+  [
+   "Arsen Zakharyan",
+   "MEI",
+   22,
+   77
+  ],
+  [
+   "Luka Sucic",
+   "MEI",
+   22,
+   77
+  ],
+  [
+   "Carlos Soler",
+   "MEI",
+   28,
+   78
+  ],
+  [
+   "Pablo Marín",
+   "MEI",
+   21,
+   72
+  ],
+  [
+   "Takefusa Kubo",
+   "PD",
+   24,
+   82
+  ],
+  [
+   "Ander Barrenetxea",
+   "PE",
+   23,
+   79
+  ],
+  [
+   "Gonçalo Guedes",
+   "PE",
+   28,
+   77
+  ],
+  [
+   "Mikel Oyarzabal",
+   "AC",
+   28,
+   83
+  ],
+  [
+   "Orri Óskarsson",
+   "AC",
+   21,
+   75
+  ],
+  [
+   "Jon Karrikaburu",
+   "AC",
+   23,
+   70
+  ]
+ ],
+ "Sevilla": [
+  [
+   "Orjan Nyland",
+   "GOL",
+   35,
+   76
+  ],
+  [
+   "O. Vlachodimos",
+   "GOL",
+   31,
+   75
+  ],
+  [
+   "Alberto Flores",
+   "GOL",
+   21,
+   62
+  ],
+  [
+   "José Ángel Carmona",
+   "LD",
+   23,
+   75
+  ],
+  [
+   "Juanlu Sánchez",
+   "LD",
+   22,
+   75
+  ],
+  [
+   "Loïc Badé",
+   "ZAG",
+   25,
+   78
+  ],
+  [
+   "Kike Salas",
+   "ZAG",
+   23,
+   74
+  ],
+  [
+   "Marcão",
+   "ZAG",
+   29,
+   76
+  ],
+  [
+   "Tanguy Nianzou",
+   "ZAG",
+   25,
+   74
+  ],
+  [
+   "César Azpilicueta",
+   "ZAG",
+   36,
+   74
+  ],
+  [
+   "Andrés Castrín",
+   "ZAG",
+   21,
+   68
+  ],
+  [
+   "Gabriel Suazo",
+   "LE",
+   28,
+   75
+  ],
+  [
+   "Nemanja Gudelj",
+   "VOL",
+   33,
+   76
+  ],
+  [
+   "Lucien Agoumé",
+   "VOL",
+   23,
+   75
+  ],
+  [
+   "Batista Mendy",
+   "VOL",
+   25,
+   73
+  ],
+  [
+   "Djibril Sow",
+   "MEI",
+   28,
+   76
+  ],
+  [
+   "Joan Jordán",
+   "MEI",
+   31,
+   74
+  ],
+  [
+   "Peque Fernández",
+   "MEI",
+   22,
+   72
+  ],
+  [
+   "Alexis Sánchez",
+   "PD",
+   36,
+   74
+  ],
+  [
+   "Chidera Ejuke",
+   "PE",
+   27,
+   75
+  ],
+  [
+   "Rubén Vargas",
+   "PE",
+   27,
+   77
+  ],
+  [
+   "Alfon González",
+   "PE",
+   26,
+   73
+  ],
+  [
+   "Isaac Romero",
+   "AC",
+   25,
+   74
+  ],
+  [
+   "Akor Adams",
+   "AC",
+   25,
+   76
+  ]
+ ],
+ "Girona": [
+  [
+   "Paulo Gazzaniga",
+   "GOL",
+   33,
+   80
+  ],
+  [
+   "Dominik Livakovic",
+   "GOL",
+   30,
+   79
+  ],
+  [
+   "V. Krapyvtsov",
+   "GOL",
+   20,
+   64
+  ],
+  [
+   "Arnau Martínez",
+   "LD",
+   22,
+   77
+  ],
+  [
+   "Hugo Rincón",
+   "LD",
+   22,
+   72
+  ],
+  [
+   "Alejandro Francés",
+   "ZAG",
+   23,
+   74
+  ],
+  [
+   "David López",
+   "ZAG",
+   35,
+   75
+  ],
+  [
+   "Vitor Reis",
+   "ZAG",
+   19,
+   73
+  ],
+  [
+   "Daley Blind",
+   "ZAG",
+   35,
+   76
+  ],
+  [
+   "Álex Moreno",
+   "LE",
+   32,
+   74
+  ],
+  [
+   "Axel Witsel",
+   "VOL",
+   36,
+   76
+  ],
+  [
+   "Jhon Solís",
+   "VOL",
+   21,
+   72
+  ],
+  [
+   "Iván Martín",
+   "MEI",
+   26,
+   78
+  ],
+  [
+   "Azzedine Ounahi",
+   "MEI",
+   25,
+   78
+  ],
+  [
+   "Thomas Lemar",
+   "MEI",
+   29,
+   77
+  ],
+  [
+   "Viktor Tsygankov",
+   "PD",
+   27,
+   79
+  ],
+  [
+   "Claudio Echeverri",
+   "PD",
+   19,
+   74
+  ],
+  [
+   "Bryan Gil",
+   "PE",
+   24,
+   74
+  ],
+  [
+   "Joel Roca",
+   "PE",
+   20,
+   70
+  ],
+  [
+   "Abel Ruiz",
+   "AC",
+   25,
+   74
+  ],
+  [
+   "Vladyslav Vanat",
+   "AC",
+   23,
+   76
+  ],
+  [
+   "Cristhian Stuani",
+   "AC",
+   38,
+   72
+  ]
+ ],
+ "Valencia": [
+  [
+   "S. Dimitrievski",
+   "GOL",
+   32,
+   77
+  ],
+  [
+   "J. Agirrezabala",
+   "GOL",
+   25,
+   74
+  ],
+  [
+   "Cristian Rivero",
+   "GOL",
+   27,
+   64
+  ],
+  [
+   "Dimitri Foulquier",
+   "LD",
+   32,
+   73
+  ],
+  [
+   "Thierry Correia",
+   "LD",
+   26,
+   72
+  ],
+  [
+   "César Tárrega",
+   "ZAG",
+   23,
+   77
+  ],
+  [
+   "Mouctar Diakhaby",
+   "ZAG",
+   28,
+   75
+  ],
+  [
+   "José Copete",
+   "ZAG",
+   25,
+   74
+  ],
+  [
+   "Eray Cömert",
+   "ZAG",
+   27,
+   72
+  ],
+  [
+   "Unai Núñez",
+   "ZAG",
+   28,
+   75
+  ],
+  [
+   "José Luis Gayà",
+   "LE",
+   30,
+   79
+  ],
+  [
+   "Jesús Vázquez",
+   "LE",
+   22,
+   72
+  ],
+  [
+   "Pepelu",
+   "VOL",
+   27,
+   77
+  ],
+  [
+   "B. Santamaria",
+   "VOL",
+   30,
+   74
+  ],
+  [
+   "Javi Guerra",
+   "MEI",
+   22,
+   78
+  ],
+  [
+   "André Almeida",
+   "MEI",
+   25,
+   76
+  ],
+  [
+   "Filip Ugrinic",
+   "MEI",
+   26,
+   74
+  ],
+  [
+   "Diego López",
+   "PE",
+   23,
+   77
+  ],
+  [
+   "Luis Rioja",
+   "PE",
+   31,
+   75
+  ],
+  [
+   "Arnaut Danjuma",
+   "PE",
+   28,
+   75
+  ],
+  [
+   "Largie Ramazani",
+   "PE",
+   24,
+   73
+  ],
+  [
+   "Hugo Duro",
+   "AC",
+   25,
+   76
+  ],
+  [
+   "Lucas Beltrán",
+   "AC",
+   24,
+   74
+  ],
+  [
+   "Dani Raba",
+   "AC",
+   30,
+   72
+  ]
+ ],
+ "Celta de Vigo": [
+  [
+   "Ionuț Radu",
+   "GOL",
+   28,
+   76
+  ],
+  [
+   "Iván Villar",
+   "GOL",
+   28,
+   72
+  ],
+  [
+   "Marc Vidal",
+   "GOL",
+   25,
+   68
+  ],
+  [
+   "Javi Rueda",
+   "LD",
+   27,
+   72
+  ],
+  [
+   "Óscar Mingueza",
+   "LD",
+   26,
+   78
+  ],
+  [
+   "Carl Starfelt",
+   "ZAG",
+   30,
+   75
+  ],
+  [
+   "Javi Rodríguez",
+   "ZAG",
+   22,
+   73
+  ],
+  [
+   "Carlos Domínguez",
+   "ZAG",
+   24,
+   74
+  ],
+  [
+   "Marcos Alonso",
+   "ZAG",
+   34,
+   76
+  ],
+  [
+   "Yoel Lago",
+   "ZAG",
+   20,
+   68
+  ],
+  [
+   "Sergio Carreira",
+   "LE",
+   24,
+   72
+  ],
+  [
+   "Mihailo Ristic",
+   "LE",
+   30,
+   72
+  ],
+  [
+   "Ilaix Moriba",
+   "VOL",
+   22,
+   76
+  ],
+  [
+   "Fran Beltrán",
+   "VOL",
+   26,
+   76
+  ],
+  [
+   "Damián Rodríguez",
+   "VOL",
+   22,
+   71
+  ],
+  [
+   "Hugo Sotelo",
+   "MEI",
+   21,
+   72
+  ],
+  [
+   "Williot Swedberg",
+   "PD",
+   21,
+   74
+  ],
+  [
+   "Bryan Zaragoza",
+   "PE",
+   24,
+   76
+  ],
+  [
+   "Hugo Álvarez",
+   "PE",
+   22,
+   71
+  ],
+  [
+   "Iago Aspas",
+   "AC",
+   38,
+   79
+  ],
+  [
+   "Borja Iglesias",
+   "AC",
+   32,
+   76
+  ],
+  [
+   "Ferran Jutglà",
+   "AC",
+   26,
+   75
+  ],
+  [
+   "Pablo Durán",
+   "AC",
+   24,
+   72
+  ]
+ ],
+ "Osasuna": [
+  [
+   "Sergio Herrera",
+   "GOL",
+   32,
+   79
+  ],
+  [
+   "Aitor Fernández",
+   "GOL",
+   34,
+   74
+  ],
+  [
+   "D. Stamatakis",
+   "GOL",
+   25,
+   64
+  ],
+  [
+   "Valentin Rosier",
+   "LD",
+   28,
+   74
+  ],
+  [
+   "Iker Benito",
+   "LD",
+   23,
+   68
+  ],
+  [
+   "Sheraldo Becker",
+   "PE",
+   30,
+   72
+  ],
+  [
+   "Flavien Boyomo",
+   "ZAG",
+   23,
+   76
+  ],
+  [
+   "Alejandro Catena",
+   "ZAG",
+   30,
+   78
+  ],
+  [
+   "Jorge Herrando",
+   "ZAG",
+   24,
+   72
+  ],
+  [
+   "Juan Cruz",
+   "LE",
+   33,
+   72
+  ],
+  [
+   "Abel Bretones",
+   "LE",
+   25,
+   73
+  ],
+  [
+   "Lucas Torró",
+   "VOL",
+   30,
+   76
+  ],
+  [
+   "Jon Moncayola",
+   "VOL",
+   27,
+   76
+  ],
+  [
+   "Iker Muñoz",
+   "VOL",
+   22,
+   72
+  ],
+  [
+   "Aimar Oroz",
+   "MEI",
+   24,
+   76
+  ],
+  [
+   "Asier Osambela",
+   "MEI",
+   21,
+   66
+  ],
+  [
+   "Rubén García",
+   "PD",
+   31,
+   75
+  ],
+  [
+   "Kike Barja",
+   "PE",
+   28,
+   72
+  ],
+  [
+   "Moi Gómez",
+   "PE",
+   31,
+   74
+  ],
+  [
+   "Víctor Muñoz",
+   "PE",
+   22,
+   73
+  ],
+  [
+   "Ante Budimir",
+   "AC",
+   34,
+   78
+  ],
+  [
+   "Raúl García",
+   "AC",
+   25,
+   73
+  ]
+ ],
+ "Rayo Vallecano": [
+  [
+   "Augusto Batalla",
+   "GOL",
+   29,
+   78
+  ],
+  [
+   "Dani Cárdenas",
+   "GOL",
+   28,
+   74
+  ],
+  [
+   "Adrián Molina",
+   "GOL",
+   20,
+   58
+  ],
+  [
+   "Andrei Rațiu",
+   "LD",
+   27,
+   77
+  ],
+  [
+   "Iván Balliu",
+   "LD",
+   33,
+   74
+  ],
+  [
+   "Florian Lejeune",
+   "ZAG",
+   34,
+   76
+  ],
+  [
+   "Abdul Mumin",
+   "ZAG",
+   27,
+   74
+  ],
+  [
+   "Luiz Felipe",
+   "ZAG",
+   28,
+   75
+  ],
+  [
+   "Nobel Mendy",
+   "ZAG",
+   20,
+   70
+  ],
+  [
+   "Pep Chavarría",
+   "LE",
+   27,
+   75
+  ],
+  [
+   "Alfonso Espino",
+   "LE",
+   33,
+   73
+  ],
+  [
+   "Óscar Valentín",
+   "VOL",
+   31,
+   76
+  ],
+  [
+   "Pathé Ciss",
+   "VOL",
+   31,
+   75
+  ],
+  [
+   "Unai López",
+   "MEI",
+   29,
+   76
+  ],
+  [
+   "Óscar Trejo",
+   "MEI",
+   37,
+   73
+  ],
+  [
+   "Gerard Gumbau",
+   "MEI",
+   30,
+   73
+  ],
+  [
+   "Isi Palazón",
+   "PD",
+   30,
+   78
+  ],
+  [
+   "Jorge de Frutos",
+   "PD",
+   28,
+   77
+  ],
+  [
+   "Fran Pérez",
+   "PD",
+   23,
+   72
+  ],
+  [
+   "Álvaro García",
+   "PE",
+   33,
+   76
+  ],
+  [
+   "Alemão",
+   "AC",
+   27,
+   73
+  ],
+  [
+   "Sergio Camello",
+   "AC",
+   24,
+   73
+  ],
+  [
+   "Randy Nteka",
+   "AC",
+   28,
+   72
+  ]
+ ],
+ "Mallorca": [
+  [
+   "Leo Román",
+   "GOL",
+   25,
+   77
+  ],
+  [
+   "Lucas Bergström",
+   "GOL",
+   23,
+   73
+  ],
+  [
+   "Iván Cuéllar",
+   "GOL",
+   41,
+   62
+  ],
+  [
+   "Pablo Maffeo",
+   "LD",
+   28,
+   75
+  ],
+  [
+   "Mateu Morey",
+   "LD",
+   25,
+   72
+  ],
+  [
+   "Martin Valjent",
+   "ZAG",
+   30,
+   76
+  ],
+  [
+   "Antonio Raíllo",
+   "ZAG",
+   34,
+   75
+  ],
+  [
+   "Marash Kumbulla",
+   "ZAG",
+   25,
+   74
+  ],
+  [
+   "Johan Mojica",
+   "LE",
+   32,
+   74
+  ],
+  [
+   "Toni Lato",
+   "LE",
+   28,
+   72
+  ],
+  [
+   "Samú Costa",
+   "VOL",
+   25,
+   77
+  ],
+  [
+   "Omar Mascarell",
+   "VOL",
+   32,
+   73
+  ],
+  [
+   "Sergi Darder",
+   "MEI",
+   31,
+   77
+  ],
+  [
+   "Antonio Sánchez",
+   "MEI",
+   28,
+   74
+  ],
+  [
+   "Manu Morlanes",
+   "MEI",
+   26,
+   74
+  ],
+  [
+   "Pablo Torre",
+   "MEI",
+   22,
+   74
+  ],
+  [
+   "Takuma Asano",
+   "PD",
+   30,
+   74
+  ],
+  [
+   "Dani Rodríguez",
+   "PE",
+   37,
+   73
+  ],
+  [
+   "Jan Virgili",
+   "PE",
+   19,
+   70
+  ],
+  [
+   "Vedat Muriqi",
+   "AC",
+   31,
+   78
+  ],
+  [
+   "Cyle Larin",
+   "AC",
+   30,
+   74
+  ],
+  [
+   "Mateo Joseph",
+   "AC",
+   22,
+   71
+  ],
+  [
+   "Abdón Prats",
+   "AC",
+   32,
+   70
+  ]
+ ],
+ "Getafe": [
+  [
+   "David Soria",
+   "GOL",
+   32,
+   79
+  ],
+  [
+   "Jiri Letacek",
+   "GOL",
+   26,
+   70
+  ],
+  [
+   "Jorge Benito",
+   "GOL",
+   19,
+   58
+  ],
+  [
+   "Juan Iglesias",
+   "LD",
+   26,
+   73
+  ],
+  [
+   "Kiko Femenía",
+   "LD",
+   34,
+   72
+  ],
+  [
+   "Dakonam Djené",
+   "ZAG",
+   33,
+   77
+  ],
+  [
+   "Domingos Duarte",
+   "ZAG",
+   30,
+   76
+  ],
+  [
+   "Abdel Abqar",
+   "ZAG",
+   26,
+   74
+  ],
+  [
+   "Diego Rico",
+   "LE",
+   32,
+   73
+  ],
+  [
+   "Davinchi",
+   "LE",
+   18,
+   66
+  ],
+  [
+   "Mauro Arambarri",
+   "VOL",
+   29,
+   78
+  ],
+  [
+   "Yvan Neyou",
+   "VOL",
+   28,
+   72
+  ],
+  [
+   "Luis Milla",
+   "MEI",
+   31,
+   76
+  ],
+  [
+   "Mario Martín",
+   "MEI",
+   21,
+   72
+  ],
+  [
+   "Javi Muñoz",
+   "MEI",
+   30,
+   72
+  ],
+  [
+   "Álex Sola",
+   "PD",
+   26,
+   70
+  ],
+  [
+   "Álex Sancris",
+   "PD",
+   26,
+   70
+  ],
+  [
+   "Adrián Liso",
+   "PE",
+   20,
+   71
+  ],
+  [
+   "Peter Federico",
+   "PE",
+   23,
+   68
+  ],
+  [
+   "Borja Mayoral",
+   "AC",
+   28,
+   76
+  ],
+  [
+   "Juanmi",
+   "AC",
+   32,
+   72
+  ],
+  [
+   "Coba da Costa",
+   "AC",
+   18,
+   63
+  ]
+ ],
+ "Espanyol": [
+  [
+   "Marko Dmitrovic",
+   "GOL",
+   33,
+   78
+  ],
+  [
+   "Ángel Fortuño",
+   "GOL",
+   24,
+   68
+  ],
+  [
+   "Lluis Tarrés",
+   "GOL",
+   20,
+   58
+  ],
+  [
+   "Omar El Hilali",
+   "LD",
+   22,
+   75
+  ],
+  [
+   "Rubén Sánchez",
+   "LD",
+   24,
+   72
+  ],
+  [
+   "Fernando Calero",
+   "ZAG",
+   30,
+   77
+  ],
+  [
+   "Leandro Cabrera",
+   "ZAG",
+   34,
+   76
+  ],
+  [
+   "Clemens Riedel",
+   "ZAG",
+   22,
+   72
+  ],
+  [
+   "Miguel Rubio",
+   "ZAG",
+   27,
+   70
+  ],
+  [
+   "Carlos Romero",
+   "LE",
+   23,
+   76
+  ],
+  [
+   "José Salinas",
+   "LE",
+   27,
+   70
+  ],
+  [
+   "Pol Lozano",
+   "VOL",
+   25,
+   75
+  ],
+  [
+   "Urko González de Zárate",
+   "VOL",
+   24,
+   74
+  ],
+  [
+   "Charles Pickel",
+   "VOL",
+   28,
+   74
+  ],
+  [
+   "Edu Expósito",
+   "MEI",
+   29,
+   76
+  ],
+  [
+   "Ramón Terrats",
+   "MEI",
+   25,
+   73
+  ],
+  [
+   "Jofre Carreras",
+   "PD",
+   24,
+   72
+  ],
+  [
+   "Pere Milla",
+   "PE",
+   32,
+   74
+  ],
+  [
+   "Tyrhys Dolan",
+   "PE",
+   23,
+   73
+  ],
+  [
+   "Javi Puado",
+   "AC",
+   27,
+   78
+  ],
+  [
+   "Roberto Fernández",
+   "AC",
+   23,
+   73
+  ],
+  [
+   "Kike García",
+   "AC",
+   35,
+   73
+  ]
+ ],
+ "Alavés": [
+  [
+   "Antonio Sivera",
+   "GOL",
+   29,
+   78
+  ],
+  [
+   "Raúl Fernández",
+   "GOL",
+   37,
+   70
+  ],
+  [
+   "Jesús Owono",
+   "GOL",
+   24,
+   67
+  ],
+  [
+   "Nahuel Tenaglia",
+   "LD",
+   29,
+   73
+  ],
+  [
+   "Jonny Otto",
+   "LD",
+   31,
+   74
+  ],
+  [
+   "Facundo Garcés",
+   "ZAG",
+   26,
+   74
+  ],
+  [
+   "Jon Pacheco",
+   "ZAG",
+   24,
+   75
+  ],
+  [
+   "Victor Parada",
+   "ZAG",
+   23,
+   70
+  ],
+  [
+   "Moussa Diarra",
+   "ZAG",
+   25,
+   71
+  ],
+  [
+   "Manu Sánchez",
+   "LE",
+   25,
+   72
+  ],
+  [
+   "Youssef Enríquez",
+   "LE",
+   19,
+   63
+  ],
+  [
+   "Antonio Blanco",
+   "VOL",
+   25,
+   76
+  ],
+  [
+   "Ander Guevara",
+   "VOL",
+   28,
+   74
+  ],
+  [
+   "Carlos Benavídez",
+   "VOL",
+   27,
+   71
+  ],
+  [
+   "Denis Suárez",
+   "MEI",
+   31,
+   74
+  ],
+  [
+   "Jon Guridi",
+   "MEI",
+   30,
+   74
+  ],
+  [
+   "Pablo Ibáñez",
+   "MEI",
+   27,
+   72
+  ],
+  [
+   "Calebe",
+   "MEI",
+   25,
+   71
+  ],
+  [
+   "Carlos Vicente",
+   "PD",
+   26,
+   75
+  ],
+  [
+   "Abde Rebbach",
+   "PE",
+   27,
+   70
+  ],
+  [
+   "Toni Martínez",
+   "AC",
+   28,
+   75
+  ],
+  [
+   "Lucas Boyé",
+   "AC",
+   29,
+   76
+  ],
+  [
+   "Mariano Díaz",
+   "AC",
+   32,
+   71
+  ]
+ ],
+ "Levante": [
+  [
+   "Mathew Ryan",
+   "GOL",
+   33,
+   75
+  ],
+  [
+   "Pablo Cuñat",
+   "GOL",
+   23,
+   68
+  ],
+  [
+   "Andrés Fernández",
+   "GOL",
+   38,
+   70
+  ],
+  [
+   "Víctor García",
+   "LD",
+   27,
+   70
+  ],
+  [
+   "Jeremy Toljan",
+   "LD",
+   30,
+   72
+  ],
+  [
+   "Adrián de la Fuente",
+   "ZAG",
+   26,
+   73
+  ],
+  [
+   "Unai Elgezabal",
+   "ZAG",
+   32,
+   72
+  ],
+  [
+   "Matías Moreno",
+   "ZAG",
+   22,
+   72
+  ],
+  [
+   "Alan Matturro",
+   "ZAG",
+   21,
+   71
+  ],
+  [
+   "Diego Pampín",
+   "LE",
+   25,
+   70
+  ],
+  [
+   "Oriol Rey",
+   "VOL",
+   27,
+   72
+  ],
+  [
+   "Kervin Arriaga",
+   "VOL",
+   27,
+   72
+  ],
+  [
+   "Unai Vencedor",
+   "VOL",
+   24,
+   72
+  ],
+  [
+   "Pablo Martínez",
+   "MEI",
+   27,
+   72
+  ],
+  [
+   "Carlos Álvarez",
+   "MEI",
+   22,
+   75
+  ],
+  [
+   "Jon Olasagasti",
+   "MEI",
+   25,
+   71
+  ],
+  [
+   "José Luis Morales",
+   "PD",
+   37,
+   72
+  ],
+  [
+   "Kareem Tunde",
+   "PD",
+   21,
+   66
+  ],
+  [
+   "Roger Brugué",
+   "PE",
+   28,
+   72
+  ],
+  [
+   "Iván Romero",
+   "AC",
+   24,
+   72
+  ],
+  [
+   "Karl Etta Eyong",
+   "AC",
+   22,
+   74
+  ],
+  [
+   "Goduine Koyalipou",
+   "AC",
+   25,
+   70
+  ],
+  [
+   "Carlos Espí",
+   "AC",
+   19,
+   66
+  ]
+ ],
+ "Elche": [
+  [
+   "Matías Dituro",
+   "GOL",
+   38,
+   72
+  ],
+  [
+   "Iñaki Peña",
+   "GOL",
+   26,
+   74
+  ],
+  [
+   "Alejandro Iturbe",
+   "GOL",
+   22,
+   66
+  ],
+  [
+   "Álvaro Núñez",
+   "LD",
+   25,
+   72
+  ],
+  [
+   "Héctor Fort",
+   "LD",
+   19,
+   70
+  ],
+  [
+   "Pedro Bigas",
+   "ZAG",
+   34,
+   71
+  ],
+  [
+   "David Affengruber",
+   "ZAG",
+   24,
+   74
+  ],
+  [
+   "Víctor Chust",
+   "ZAG",
+   25,
+   73
+  ],
+  [
+   "John Chetauya",
+   "ZAG",
+   23,
+   66
+  ],
+  [
+   "Léo Pétrot",
+   "ZAG",
+   28,
+   68
+  ],
+  [
+   "Adrià Pedrosa",
+   "LE",
+   27,
+   72
+  ],
+  [
+   "Marc Aguado",
+   "VOL",
+   25,
+   73
+  ],
+  [
+   "Federico Redondo",
+   "VOL",
+   22,
+   72
+  ],
+  [
+   "Aleix Febas",
+   "MEI",
+   29,
+   73
+  ],
+  [
+   "Martim Neto",
+   "MEI",
+   22,
+   72
+  ],
+  [
+   "Rodrigo Mendoza",
+   "MEI",
+   20,
+   69
+  ],
+  [
+   "Grady Diangana",
+   "PD",
+   27,
+   72
+  ],
+  [
+   "Germán Valera",
+   "PD",
+   23,
+   71
+  ],
+  [
+   "Josan",
+   "PD",
+   35,
+   70
+  ],
+  [
+   "Yago Santiago",
+   "PE",
+   22,
+   68
+  ],
+  [
+   "Rafa Mir",
+   "AC",
+   28,
+   74
+  ],
+  [
+   "André Silva",
+   "AC",
+   29,
+   74
+  ],
+  [
+   "Álvaro Rodríguez",
+   "AC",
+   21,
+   71
+  ],
+  [
+   "El Ghezouani",
+   "AC",
+   23,
+   67
+  ]
+ ],
+ "Real Oviedo": [
+  [
+   "Aarón Escandell",
+   "GOL",
+   30,
+   73
+  ],
+  [
+   "Horațiu Moldovan",
+   "GOL",
+   27,
+   72
+  ],
+  [
+   "Tomeu Nadal",
+   "GOL",
+   35,
+   64
+  ],
+  [
+   "Nacho Vidal",
+   "LD",
+   30,
+   72
+  ],
+  [
+   "Lucas Ahijado",
+   "LD",
+   30,
+   68
+  ],
+  [
+   "David Costas",
+   "ZAG",
+   30,
+   72
+  ],
+  [
+   "Dani Calvo",
+   "ZAG",
+   31,
+   71
+  ],
+  [
+   "Eric Bailly",
+   "ZAG",
+   31,
+   72
+  ],
+  [
+   "David Carmo",
+   "ZAG",
+   26,
+   73
+  ],
+  [
+   "Oier Luengo",
+   "ZAG",
+   27,
+   69
+  ],
+  [
+   "Rahim Alhassane",
+   "LE",
+   22,
+   68
+  ],
+  [
+   "Javi López",
+   "LE",
+   23,
+   70
+  ],
+  [
+   "Kwasi Sibo",
+   "VOL",
+   27,
+   70
+  ],
+  [
+   "S. Colombatto",
+   "VOL",
+   28,
+   73
+  ],
+  [
+   "L. Dendoncker",
+   "VOL",
+   30,
+   73
+  ],
+  [
+   "Alberto Reina",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Luka Ilic",
+   "MEI",
+   26,
+   72
+  ],
+  [
+   "Santi Cazorla",
+   "MEI",
+   40,
+   72
+  ],
+  [
+   "Haissem Hassan",
+   "PD",
+   23,
+   71
+  ],
+  [
+   "Ilyas Chaira",
+   "PE",
+   24,
+   70
+  ],
+  [
+   "Josip Brekalo",
+   "PE",
+   27,
+   72
+  ],
+  [
+   "Federico Viñas",
+   "AC",
+   27,
+   72
+  ],
+  [
+   "Salomón Rondón",
+   "AC",
+   35,
+   74
+  ],
+  [
+   "Álex Forés",
+   "AC",
+   24,
+   68
+  ]
+ ],
+ "Inter": [
+  [
+   "Yann Sommer",
+   "GOL",
+   36,
+   84
+  ],
+  [
+   "Josep Martínez",
+   "GOL",
+   27,
+   75
+  ],
+  [
+   "Di Gennaro",
+   "GOL",
+   37,
+   60
+  ],
+  [
+   "Denzel Dumfries",
+   "LD",
+   29,
+   83
+  ],
+  [
+   "Matteo Darmian",
+   "LD",
+   35,
+   76
+  ],
+  [
+   "Yann Bisseck",
+   "ZAG",
+   24,
+   79
+  ],
+  [
+   "Francesco Acerbi",
+   "ZAG",
+   37,
+   79
+  ],
+  [
+   "Stefan de Vrij",
+   "ZAG",
+   33,
+   80
+  ],
+  [
+   "A. Bastoni",
+   "ZAG",
+   26,
+   86
+  ],
+  [
+   "Manuel Akanji",
+   "ZAG",
+   30,
+   83
+  ],
+  [
+   "Carlos Augusto",
+   "LE",
+   26,
+   77
+  ],
+  [
+   "Federico Dimarco",
+   "LE",
+   27,
+   84
+  ],
+  [
+   "Hakan Çalhanoğlu",
+   "VOL",
+   31,
+   85
+  ],
+  [
+   "Nicolò Barella",
+   "MEI",
+   28,
+   87
+  ],
+  [
+   "H. Mkhitaryan",
+   "MEI",
+   36,
+   80
+  ],
+  [
+   "Piotr Zieliński",
+   "MEI",
+   31,
+   79
+  ],
+  [
+   "Davide Frattesi",
+   "MEI",
+   25,
+   79
+  ],
+  [
+   "Petar Sučić",
+   "MEI",
+   22,
+   77
+  ],
+  [
+   "Andy Diouf",
+   "MEI",
+   22,
+   76
+  ],
+  [
+   "Luis Henrique",
+   "PD",
+   23,
+   75
+  ],
+  [
+   "Lautaro Martínez",
+   "AC",
+   28,
+   88
+  ],
+  [
+   "Marcus Thuram",
+   "AC",
+   28,
+   84
+  ],
+  [
+   "Ange-Yoan Bonny",
+   "AC",
+   22,
+   76
+  ],
+  [
+   "Pio Esposito",
+   "AC",
+   20,
+   72
+  ]
+ ],
+ "Napoli": [
+  [
+   "Alex Meret",
+   "GOL",
+   28,
+   82
+  ],
+  [
+   "Milinković-Savić",
+   "GOL",
+   28,
+   78
+  ],
+  [
+   "Nikita Contini",
+   "GOL",
+   29,
+   62
+  ],
+  [
+   "Di Lorenzo",
+   "LD",
+   32,
+   82
+  ],
+  [
+   "P. Mazzocchi",
+   "LD",
+   30,
+   72
+  ],
+  [
+   "Amir Rrahmani",
+   "ZAG",
+   31,
+   81
+  ],
+  [
+   "A. Buongiorno",
+   "ZAG",
+   26,
+   82
+  ],
+  [
+   "Sam Beukema",
+   "ZAG",
+   27,
+   79
+  ],
+  [
+   "Juan Jesus",
+   "ZAG",
+   34,
+   74
+  ],
+  [
+   "Luca Marianucci",
+   "ZAG",
+   21,
+   68
+  ],
+  [
+   "Mathías Olivera",
+   "LE",
+   28,
+   79
+  ],
+  [
+   "L. Spinazzola",
+   "LE",
+   32,
+   76
+  ],
+  [
+   "Miguel Gutiérrez",
+   "LE",
+   24,
+   77
+  ],
+  [
+   "Stanislav Lobotka",
+   "VOL",
+   30,
+   83
+  ],
+  [
+   "Billy Gilmour",
+   "VOL",
+   24,
+   78
+  ],
+  [
+   "Frank Anguissa",
+   "MEI",
+   29,
+   81
+  ],
+  [
+   "Scott McTominay",
+   "MEI",
+   28,
+   85
+  ],
+  [
+   "Kevin De Bruyne",
+   "MEI",
+   34,
+   86
+  ],
+  [
+   "Eljif Elmas",
+   "MEI",
+   26,
+   77
+  ],
+  [
+   "Matteo Politano",
+   "PD",
+   32,
+   79
+  ],
+  [
+   "David Neres",
+   "PE",
+   28,
+   78
+  ],
+  [
+   "Noa Lang",
+   "PE",
+   26,
+   78
+  ],
+  [
+   "Romelu Lukaku",
+   "AC",
+   32,
+   81
+  ],
+  [
+   "Rasmus Højlund",
+   "AC",
+   22,
+   78
+  ],
+  [
+   "Lorenzo Lucca",
+   "AC",
+   25,
+   74
+  ]
+ ],
+ "Juventus": [
+  [
+   "Di Gregorio",
+   "GOL",
+   28,
+   80
+  ],
+  [
+   "Mattia Perin",
+   "GOL",
+   32,
+   76
+  ],
+  [
+   "Carlo Pinsoglio",
+   "GOL",
+   35,
+   65
+  ],
+  [
+   "Pierre Kalulu",
+   "LD",
+   25,
+   79
+  ],
+  [
+   "João Mário",
+   "LD",
+   25,
+   74
+  ],
+  [
+   "Bremer",
+   "ZAG",
+   28,
+   84
+  ],
+  [
+   "Federico Gatti",
+   "ZAG",
+   27,
+   78
+  ],
+  [
+   "Lloyd Kelly",
+   "ZAG",
+   26,
+   76
+  ],
+  [
+   "Daniele Rugani",
+   "ZAG",
+   31,
+   72
+  ],
+  [
+   "Andrea Cambiaso",
+   "LE",
+   25,
+   81
+  ],
+  [
+   "Juan Cabal",
+   "LE",
+   24,
+   74
+  ],
+  [
+   "Filip Kostic",
+   "LE",
+   32,
+   74
+  ],
+  [
+   "Manuel Locatelli",
+   "VOL",
+   27,
+   81
+  ],
+  [
+   "Khéphren Thuram",
+   "MEI",
+   24,
+   80
+  ],
+  [
+   "Weston McKennie",
+   "MEI",
+   27,
+   78
+  ],
+  [
+   "Teun Koopmeiners",
+   "MEI",
+   27,
+   80
+  ],
+  [
+   "Fabio Miretti",
+   "MEI",
+   22,
+   72
+  ],
+  [
+   "Vasilije Adžić",
+   "MEI",
+   19,
+   68
+  ],
+  [
+   "F. Conceição",
+   "PD",
+   22,
+   81
+  ],
+  [
+   "Edon Zhegrova",
+   "PD",
+   26,
+   80
+  ],
+  [
+   "Kenan Yıldız",
+   "PE",
+   20,
+   84
+  ],
+  [
+   "Dušan Vlahović",
+   "AC",
+   25,
+   81
+  ],
+  [
+   "Jonathan David",
+   "AC",
+   25,
+   81
+  ],
+  [
+   "Loïs Openda",
+   "AC",
+   25,
+   79
+  ],
+  [
+   "Arkadiusz Milik",
+   "AC",
+   31,
+   74
+  ]
+ ],
+ "Milan": [
+  [
+   "Mike Maignan",
+   "GOL",
+   30,
+   86
+  ],
+  [
+   "P. Terracciano",
+   "GOL",
+   35,
+   70
+  ],
+  [
+   "Lorenzo Torriani",
+   "GOL",
+   20,
+   65
+  ],
+  [
+   "Zachary Athekame",
+   "LD",
+   20,
+   68
+  ],
+  [
+   "Fikayo Tomori",
+   "ZAG",
+   27,
+   80
+  ],
+  [
+   "Matteo Gabbia",
+   "ZAG",
+   25,
+   79
+  ],
+  [
+   "S. Pavlović",
+   "ZAG",
+   24,
+   78
+  ],
+  [
+   "Koni De Winter",
+   "ZAG",
+   23,
+   76
+  ],
+  [
+   "David Odogu",
+   "ZAG",
+   19,
+   64
+  ],
+  [
+   "Pervis Estupiñán",
+   "LE",
+   27,
+   79
+  ],
+  [
+   "Davide Bartesaghi",
+   "LE",
+   19,
+   70
+  ],
+  [
+   "Youssouf Fofana",
+   "VOL",
+   26,
+   80
+  ],
+  [
+   "Samuele Ricci",
+   "VOL",
+   24,
+   78
+  ],
+  [
+   "Luka Modrić",
+   "MEI",
+   39,
+   84
+  ],
+  [
+   "Adrien Rabiot",
+   "MEI",
+   30,
+   82
+  ],
+  [
+   "R. Loftus-Cheek",
+   "MEI",
+   29,
+   78
+  ],
+  [
+   "Ardon Jashari",
+   "MEI",
+   23,
+   76
+  ],
+  [
+   "A. Saelemaekers",
+   "PD",
+   26,
+   78
+  ],
+  [
+   "Christian Pulisic",
+   "PD",
+   26,
+   84
+  ],
+  [
+   "Rafael Leão",
+   "PE",
+   26,
+   85
+  ],
+  [
+   "C. Nkunku",
+   "AC",
+   27,
+   80
+  ],
+  [
+   "Santiago Gimenez",
+   "AC",
+   24,
+   79
+  ]
+ ],
+ "Atalanta": [
+  [
+   "Marco Carnesecchi",
+   "GOL",
+   25,
+   81
+  ],
+  [
+   "Marco Sportiello",
+   "GOL",
+   33,
+   72
+  ],
+  [
+   "Francesco Rossi",
+   "GOL",
+   34,
+   62
+  ],
+  [
+   "Raoul Bellanova",
+   "LD",
+   25,
+   77
+  ],
+  [
+   "Davide Zappacosta",
+   "LD",
+   33,
+   74
+  ],
+  [
+   "Isak Hien",
+   "ZAG",
+   26,
+   79
+  ],
+  [
+   "Berat Djimsiti",
+   "ZAG",
+   32,
+   78
+  ],
+  [
+   "Sead Kolasinac",
+   "ZAG",
+   32,
+   76
+  ],
+  [
+   "Giorgio Scalvini",
+   "ZAG",
+   21,
+   78
+  ],
+  [
+   "Odilon Kossounou",
+   "ZAG",
+   24,
+   77
+  ],
+  [
+   "Honest Ahanor",
+   "ZAG",
+   17,
+   66
+  ],
+  [
+   "Nicola Zalewski",
+   "LE",
+   23,
+   76
+  ],
+  [
+   "L. Bernasconi",
+   "LE",
+   22,
+   72
+  ],
+  [
+   "Marten de Roon",
+   "VOL",
+   34,
+   79
+  ],
+  [
+   "Éderson",
+   "VOL",
+   26,
+   81
+  ],
+  [
+   "Yunus Musah",
+   "MEI",
+   22,
+   75
+  ],
+  [
+   "Mario Pašalić",
+   "MEI",
+   30,
+   78
+  ],
+  [
+   "Marco Brescianini",
+   "MEI",
+   25,
+   74
+  ],
+  [
+   "Lazar Samardžić",
+   "MEI",
+   23,
+   75
+  ],
+  [
+   "De Ketelaere",
+   "MEI",
+   24,
+   82
+  ],
+  [
+   "K. Sulemana",
+   "PE",
+   23,
+   74
+  ],
+  [
+   "Ademola Lookman",
+   "PE",
+   27,
+   84
+  ],
+  [
+   "Nikola Krstović",
+   "AC",
+   25,
+   77
+  ],
+  [
+   "Gianluca Scamacca",
+   "AC",
+   26,
+   78
+  ],
+  [
+   "Daniel Maldini",
+   "AC",
+   23,
+   73
+  ]
+ ],
+ "Roma": [
+  [
+   "Mile Svilar",
+   "GOL",
+   26,
+   84
+  ],
+  [
+   "Pierluigi Gollini",
+   "GOL",
+   30,
+   72
+  ],
+  [
+   "Devis Vásquez",
+   "GOL",
+   27,
+   68
+  ],
+  [
+   "Zeki Çelik",
+   "LD",
+   28,
+   75
+  ],
+  [
+   "Wesley",
+   "LD",
+   22,
+   76
+  ],
+  [
+   "Gianluca Mancini",
+   "ZAG",
+   29,
+   80
+  ],
+  [
+   "Evan Ndicka",
+   "ZAG",
+   26,
+   79
+  ],
+  [
+   "Mario Hermoso",
+   "ZAG",
+   30,
+   77
+  ],
+  [
+   "Daniele Ghilardi",
+   "ZAG",
+   22,
+   72
+  ],
+  [
+   "Jan Ziolkowski",
+   "ZAG",
+   20,
+   70
+  ],
+  [
+   "Angeliño",
+   "LE",
+   28,
+   77
+  ],
+  [
+   "K. Tsimikas",
+   "LE",
+   29,
+   75
+  ],
+  [
+   "Bryan Cristante",
+   "VOL",
+   30,
+   78
+  ],
+  [
+   "Manu Koné",
+   "VOL",
+   24,
+   79
+  ],
+  [
+   "Neil El Aynaoui",
+   "VOL",
+   24,
+   75
+  ],
+  [
+   "L. Pellegrini",
+   "MEI",
+   29,
+   79
+  ],
+  [
+   "Niccolò Pisilli",
+   "MEI",
+   21,
+   72
+  ],
+  [
+   "Tommaso Baldanzi",
+   "MEI",
+   22,
+   73
+  ],
+  [
+   "Matías Soulé",
+   "PD",
+   22,
+   79
+  ],
+  [
+   "Paulo Dybala",
+   "PD",
+   31,
+   82
+  ],
+  [
+   "El Shaarawy",
+   "PE",
+   32,
+   74
+  ],
+  [
+   "Leon Bailey",
+   "PE",
+   28,
+   76
+  ],
+  [
+   "Artem Dovbyk",
+   "AC",
+   28,
+   79
+  ],
+  [
+   "Evan Ferguson",
+   "AC",
+   21,
+   75
+  ]
+ ],
+ "Lazio": [
+  [
+   "Ivan Provedel",
+   "GOL",
+   31,
+   80
+  ],
+  [
+   "Christos Mandas",
+   "GOL",
+   24,
+   75
+  ],
+  [
+   "A. Furlanetto",
+   "GOL",
+   23,
+   62
+  ],
+  [
+   "Manuel Lazzari",
+   "LD",
+   31,
+   75
+  ],
+  [
+   "Adam Marusic",
+   "LD",
+   32,
+   75
+  ],
+  [
+   "Alessio Romagnoli",
+   "ZAG",
+   30,
+   79
+  ],
+  [
+   "Mario Gila",
+   "ZAG",
+   24,
+   80
+  ],
+  [
+   "Patric",
+   "ZAG",
+   32,
+   73
+  ],
+  [
+   "O. Provstgaard",
+   "ZAG",
+   22,
+   68
+  ],
+  [
+   "Samuel Gigot",
+   "ZAG",
+   31,
+   70
+  ],
+  [
+   "Nuno Tavares",
+   "LE",
+   25,
+   78
+  ],
+  [
+   "Luca Pellegrini",
+   "LE",
+   26,
+   73
+  ],
+  [
+   "Nicolò Rovella",
+   "VOL",
+   23,
+   79
+  ],
+  [
+   "Danilo Cataldi",
+   "VOL",
+   31,
+   74
+  ],
+  [
+   "Reda Belahyane",
+   "VOL",
+   21,
+   70
+  ],
+  [
+   "Mattéo Guendouzi",
+   "MEI",
+   26,
+   80
+  ],
+  [
+   "F. Dele-Bashiru",
+   "MEI",
+   24,
+   74
+  ],
+  [
+   "Matías Vecino",
+   "MEI",
+   34,
+   73
+  ],
+  [
+   "Gustav Isaksen",
+   "PD",
+   24,
+   77
+  ],
+  [
+   "M. Cancellieri",
+   "PD",
+   23,
+   70
+  ],
+  [
+   "Mattia Zaccagni",
+   "PE",
+   30,
+   80
+  ],
+  [
+   "Pedro",
+   "PE",
+   38,
+   75
+  ],
+  [
+   "Taty Castellanos",
+   "AC",
+   27,
+   79
+  ],
+  [
+   "Boulaye Dia",
+   "AC",
+   28,
+   76
+  ],
+  [
+   "Tijjani Noslin",
+   "AC",
+   26,
+   72
+  ]
+ ],
+ "Fiorentina": [
+  [
+   "De Gea",
+   "GOL",
+   34,
+   83
+  ],
+  [
+   "T. Martinelli",
+   "GOL",
+   19,
+   65
+  ],
+  [
+   "Luca Lezzerini",
+   "GOL",
+   30,
+   64
+  ],
+  [
+   "Dodô",
+   "LD",
+   26,
+   79
+  ],
+  [
+   "Niccolò Fortini",
+   "LD",
+   19,
+   67
+  ],
+  [
+   "Marin Pongracic",
+   "ZAG",
+   27,
+   76
+  ],
+  [
+   "Luca Ranieri",
+   "ZAG",
+   26,
+   77
+  ],
+  [
+   "Pietro Comuzzo",
+   "ZAG",
+   20,
+   77
+  ],
+  [
+   "Pablo Marí",
+   "ZAG",
+   32,
+   74
+  ],
+  [
+   "Mattia Viti",
+   "ZAG",
+   23,
+   70
+  ],
+  [
+   "Robin Gosens",
+   "LE",
+   31,
+   77
+  ],
+  [
+   "Fabiano Parisi",
+   "LE",
+   25,
+   74
+  ],
+  [
+   "R. Mandragora",
+   "VOL",
+   28,
+   77
+  ],
+  [
+   "Hans Nicolussi Caviglia",
+   "VOL",
+   25,
+   72
+  ],
+  [
+   "Nicolò Fagioli",
+   "MEI",
+   24,
+   77
+  ],
+  [
+   "Cher Ndour",
+   "MEI",
+   21,
+   72
+  ],
+  [
+   "Simon Sohm",
+   "MEI",
+   24,
+   74
+  ],
+  [
+   "Jacopo Fazzini",
+   "MEI",
+   22,
+   73
+  ],
+  [
+   "Amir Richardson",
+   "MEI",
+   23,
+   72
+  ],
+  [
+   "A. Gudmundsson",
+   "MEI",
+   28,
+   80
+  ],
+  [
+   "Christian Kouamé",
+   "PE",
+   27,
+   72
+  ],
+  [
+   "Moise Kean",
+   "AC",
+   25,
+   82
+  ],
+  [
+   "Edin Dzeko",
+   "AC",
+   39,
+   76
+  ],
+  [
+   "Roberto Piccoli",
+   "AC",
+   24,
+   76
+  ]
+ ],
+ "Bologna": [
+  [
+   "Lukasz Skorupski",
+   "GOL",
+   34,
+   79
+  ],
+  [
+   "Federico Ravaglia",
+   "GOL",
+   26,
+   72
+  ],
+  [
+   "Massimo Pessina",
+   "GOL",
+   18,
+   62
+  ],
+  [
+   "Emil Holm",
+   "LD",
+   25,
+   76
+  ],
+  [
+   "Nadir Zortea",
+   "LD",
+   26,
+   76
+  ],
+  [
+   "De Silvestri",
+   "LD",
+   37,
+   70
+  ],
+  [
+   "Jhon Lucumí",
+   "ZAG",
+   27,
+   79
+  ],
+  [
+   "Torbjørn Heggem",
+   "ZAG",
+   26,
+   72
+  ],
+  [
+   "Martin Vitík",
+   "ZAG",
+   22,
+   72
+  ],
+  [
+   "Nicolò Casale",
+   "ZAG",
+   27,
+   75
+  ],
+  [
+   "C. Lykogiannis",
+   "LE",
+   32,
+   72
+  ],
+  [
+   "Juan Miranda",
+   "LE",
+   25,
+   75
+  ],
+  [
+   "Remo Freuler",
+   "VOL",
+   33,
+   78
+  ],
+  [
+   "Lewis Ferguson",
+   "MEI",
+   25,
+   78
+  ],
+  [
+   "Tommaso Pobega",
+   "MEI",
+   26,
+   74
+  ],
+  [
+   "Nikola Moro",
+   "MEI",
+   27,
+   74
+  ],
+  [
+   "Giovanni Fabbian",
+   "MEI",
+   22,
+   72
+  ],
+  [
+   "Jens Odgaard",
+   "MEI",
+   26,
+   74
+  ],
+  [
+   "Riccardo Orsolini",
+   "PD",
+   28,
+   80
+  ],
+  [
+   "F. Bernardeschi",
+   "PD",
+   31,
+   74
+  ],
+  [
+   "Jonathan Rowe",
+   "PE",
+   22,
+   76
+  ],
+  [
+   "Nicolò Cambiaghi",
+   "PE",
+   25,
+   74
+  ],
+  [
+   "Benja Domínguez",
+   "PE",
+   22,
+   72
+  ],
+  [
+   "Santiago Castro",
+   "AC",
+   21,
+   78
+  ],
+  [
+   "Ciro Immobile",
+   "AC",
+   35,
+   76
+  ],
+  [
+   "Thijs Dallinga",
+   "AC",
+   24,
+   73
+  ]
+ ],
+ "Torino": [
+  [
+   "Franco Israel",
+   "GOL",
+   25,
+   76
+  ],
+  [
+   "Alberto Paleari",
+   "GOL",
+   32,
+   72
+  ],
+  [
+   "Mihai Popa",
+   "GOL",
+   25,
+   60
+  ],
+  [
+   "Marcus Pedersen",
+   "LD",
+   25,
+   74
+  ],
+  [
+   "Valentino Lazaro",
+   "LD",
+   29,
+   72
+  ],
+  [
+   "Ali Dembélé",
+   "LD",
+   21,
+   66
+  ],
+  [
+   "Guillermo Maripán",
+   "ZAG",
+   31,
+   76
+  ],
+  [
+   "Saúl Coco",
+   "ZAG",
+   28,
+   76
+  ],
+  [
+   "Ardian Ismajli",
+   "ZAG",
+   28,
+   74
+  ],
+  [
+   "Adrien Tamèze",
+   "ZAG",
+   31,
+   73
+  ],
+  [
+   "Adam Masina",
+   "ZAG",
+   31,
+   70
+  ],
+  [
+   "Cristiano Biraghi",
+   "LE",
+   33,
+   72
+  ],
+  [
+   "Cesare Casadei",
+   "MEI",
+   22,
+   74
+  ],
+  [
+   "Ivan Ilić",
+   "MEI",
+   24,
+   76
+  ],
+  [
+   "Gvidas Gineitis",
+   "MEI",
+   21,
+   72
+  ],
+  [
+   "Kristjan Asllani",
+   "VOL",
+   23,
+   75
+  ],
+  [
+   "Tino Anjorin",
+   "MEI",
+   23,
+   70
+  ],
+  [
+   "Nikola Vlašić",
+   "MEI",
+   27,
+   78
+  ],
+  [
+   "Cyril Ngonge",
+   "PD",
+   25,
+   74
+  ],
+  [
+   "Zakaria Aboukhlal",
+   "PD",
+   25,
+   73
+  ],
+  [
+   "Ché Adams",
+   "AC",
+   29,
+   77
+  ],
+  [
+   "Duván Zapata",
+   "AC",
+   34,
+   75
+  ],
+  [
+   "Giovanni Simeone",
+   "AC",
+   30,
+   75
+  ],
+  [
+   "Alieu Njie",
+   "AC",
+   20,
+   66
+  ]
+ ],
+ "Udinese": [
+  [
+   "Maduka Okoye",
+   "GOL",
+   25,
+   77
+  ],
+  [
+   "Răzvan Sava",
+   "GOL",
+   23,
+   73
+  ],
+  [
+   "Daniele Padelli",
+   "GOL",
+   39,
+   62
+  ],
+  [
+   "Kingsley Ehizibue",
+   "LD",
+   30,
+   72
+  ],
+  [
+   "Alessandro Zanoli",
+   "LD",
+   25,
+   72
+  ],
+  [
+   "Thomas Kristensen",
+   "ZAG",
+   23,
+   75
+  ],
+  [
+   "Oumar Solet",
+   "ZAG",
+   25,
+   78
+  ],
+  [
+   "C. Kabasele",
+   "ZAG",
+   34,
+   72
+  ],
+  [
+   "Saba Goglichidze",
+   "ZAG",
+   21,
+   70
+  ],
+  [
+   "Nicolò Bertola",
+   "ZAG",
+   22,
+   68
+  ],
+  [
+   "Hassane Kamara",
+   "LE",
+   31,
+   72
+  ],
+  [
+   "Jordan Zemura",
+   "LE",
+   25,
+   71
+  ],
+  [
+   "Jesper Karlström",
+   "VOL",
+   30,
+   76
+  ],
+  [
+   "Sandi Lovrić",
+   "MEI",
+   27,
+   74
+  ],
+  [
+   "J. Ekkelenkamp",
+   "MEI",
+   25,
+   74
+  ],
+  [
+   "Arthur Atta",
+   "MEI",
+   22,
+   76
+  ],
+  [
+   "Oier Zarraga",
+   "MEI",
+   26,
+   70
+  ],
+  [
+   "Jakub Piotrowski",
+   "MEI",
+   28,
+   73
+  ],
+  [
+   "Lennon Miller",
+   "MEI",
+   19,
+   70
+  ],
+  [
+   "Nicolò Zaniolo",
+   "PD",
+   26,
+   76
+  ],
+  [
+   "Iker Bravo",
+   "AC",
+   20,
+   70
+  ],
+  [
+   "Keinan Davis",
+   "AC",
+   27,
+   75
+  ],
+  [
+   "Adam Buksa",
+   "AC",
+   29,
+   71
+  ],
+  [
+   "Idrissa Gueye",
+   "AC",
+   25,
+   68
+  ]
+ ],
+ "Genoa": [
+  [
+   "Nicola Leali",
+   "GOL",
+   32,
+   76
+  ],
+  [
+   "Daniele Sommariva",
+   "GOL",
+   28,
+   66
+  ],
+  [
+   "Benjamin Siegrist",
+   "GOL",
+   33,
+   66
+  ],
+  [
+   "B. Norton-Cuffy",
+   "LD",
+   21,
+   73
+  ],
+  [
+   "Stefano Sabelli",
+   "LD",
+   32,
+   70
+  ],
+  [
+   "A. Marcandalli",
+   "ZAG",
+   23,
+   70
+  ],
+  [
+   "Johan Vásquez",
+   "ZAG",
+   26,
+   76
+  ],
+  [
+   "Leo Ostigård",
+   "ZAG",
+   25,
+   74
+  ],
+  [
+   "Sebastian Otoa",
+   "ZAG",
+   21,
+   68
+  ],
+  [
+   "Mattia Bani",
+   "ZAG",
+   31,
+   70
+  ],
+  [
+   "Aarón Martín",
+   "LE",
+   28,
+   74
+  ],
+  [
+   "Mikael Ellertsson",
+   "LE",
+   23,
+   70
+  ],
+  [
+   "Morten Frendrup",
+   "VOL",
+   24,
+   76
+  ],
+  [
+   "Patrizio Masini",
+   "MEI",
+   24,
+   72
+  ],
+  [
+   "R. Malinovskyi",
+   "MEI",
+   32,
+   75
+  ],
+  [
+   "Morten Thorsby",
+   "MEI",
+   29,
+   72
+  ],
+  [
+   "Nicolae Stanciu",
+   "MEI",
+   32,
+   74
+  ],
+  [
+   "Jean Onana",
+   "MEI",
+   25,
+   71
+  ],
+  [
+   "Valentín Carboni",
+   "MEI",
+   20,
+   70
+  ],
+  [
+   "Junior Messias",
+   "PD",
+   34,
+   72
+  ],
+  [
+   "Vitinha",
+   "PE",
+   25,
+   74
+  ],
+  [
+   "Maxwel Cornet",
+   "PE",
+   28,
+   72
+  ],
+  [
+   "Jeff Ekhator",
+   "AC",
+   19,
+   70
+  ],
+  [
+   "Lorenzo Colombo",
+   "AC",
+   23,
+   72
+  ],
+  [
+   "Caleb Ekuban",
+   "AC",
+   31,
+   70
+  ]
+ ],
+ "Como": [
+  [
+   "Jean Butez",
+   "GOL",
+   30,
+   78
+  ],
+  [
+   "Mauro Vigorito",
+   "GOL",
+   35,
+   66
+  ],
+  [
+   "Nikola Čavlina",
+   "GOL",
+   23,
+   62
+  ],
+  [
+   "Mërgim Vojvoda",
+   "LD",
+   30,
+   74
+  ],
+  [
+   "I. Van der Brempt",
+   "LD",
+   23,
+   72
+  ],
+  [
+   "Ivan Smolcic",
+   "LD",
+   24,
+   72
+  ],
+  [
+   "Marc Oliver Kempf",
+   "ZAG",
+   30,
+   75
+  ],
+  [
+   "Diego Carlos",
+   "ZAG",
+   32,
+   76
+  ],
+  [
+   "Edoardo Goldaniga",
+   "ZAG",
+   31,
+   70
+  ],
+  [
+   "Jacobo Ramón",
+   "ZAG",
+   20,
+   72
+  ],
+  [
+   "Álex Valle",
+   "LE",
+   21,
+   74
+  ],
+  [
+   "Alberto Moreno",
+   "LE",
+   33,
+   74
+  ],
+  [
+   "Máximo Perrone",
+   "VOL",
+   22,
+   77
+  ],
+  [
+   "Lucas Da Cunha",
+   "VOL",
+   24,
+   75
+  ],
+  [
+   "Sergi Roberto",
+   "MEI",
+   33,
+   74
+  ],
+  [
+   "Maxence Caqueret",
+   "MEI",
+   25,
+   75
+  ],
+  [
+   "Martin Baturina",
+   "MEI",
+   22,
+   76
+  ],
+  [
+   "Nico Paz",
+   "MEI",
+   21,
+   82
+  ],
+  [
+   "Assane Diao",
+   "PD",
+   20,
+   77
+  ],
+  [
+   "Jayden Addai",
+   "PD",
+   20,
+   70
+  ],
+  [
+   "Nicolas Kühn",
+   "PE",
+   25,
+   74
+  ],
+  [
+   "Jesús Rodríguez",
+   "PE",
+   20,
+   74
+  ],
+  [
+   "Álvaro Morata",
+   "AC",
+   32,
+   77
+  ],
+  [
+   "A. Douvikas",
+   "AC",
+   26,
+   75
+  ]
+ ],
+ "Parma": [
+  [
+   "Zion Suzuki",
+   "GOL",
+   23,
+   77
+  ],
+  [
+   "Edoardo Corvi",
+   "GOL",
+   24,
+   68
+  ],
+  [
+   "Filippo Rinaldi",
+   "GOL",
+   22,
+   62
+  ],
+  [
+   "Enrico Delprato",
+   "LD",
+   25,
+   73
+  ],
+  [
+   "Lautaro Valenti",
+   "ZAG",
+   26,
+   73
+  ],
+  [
+   "A. Circati",
+   "ZAG",
+   21,
+   74
+  ],
+  [
+   "Abdoulaye Ndiaye",
+   "ZAG",
+   23,
+   70
+  ],
+  [
+   "Mariano Troilo",
+   "ZAG",
+   22,
+   70
+  ],
+  [
+   "Mathias Løvik",
+   "LE",
+   21,
+   68
+  ],
+  [
+   "Emanuele Valeri",
+   "LE",
+   27,
+   72
+  ],
+  [
+   "Nahuel Estévez",
+   "VOL",
+   30,
+   70
+  ],
+  [
+   "Mandela Keita",
+   "VOL",
+   23,
+   73
+  ],
+  [
+   "Adrián Bernabé",
+   "MEI",
+   24,
+   75
+  ],
+  [
+   "Oliver Sørensen",
+   "MEI",
+   23,
+   73
+  ],
+  [
+   "Christian Ordóñez",
+   "MEI",
+   21,
+   70
+  ],
+  [
+   "Hernani",
+   "MEI",
+   31,
+   72
+  ],
+  [
+   "Benja Cremaschi",
+   "MEI",
+   20,
+   68
+  ],
+  [
+   "Jacob Ondrejka",
+   "PE",
+   23,
+   70
+  ],
+  [
+   "Pontus Almqvist",
+   "PD",
+   26,
+   72
+  ],
+  [
+   "Mateo Pellegrino",
+   "AC",
+   24,
+   75
+  ],
+  [
+   "Patrick Cutrone",
+   "AC",
+   27,
+   73
+  ],
+  [
+   "Gabriel Strefezza",
+   "PE",
+   28,
+   72
+  ],
+  [
+   "Milan Djuric",
+   "AC",
+   35,
+   70
+  ]
+ ],
+ "Cagliari": [
+  [
+   "Elia Caprile",
+   "GOL",
+   24,
+   77
+  ],
+  [
+   "Giuseppe Ciocci",
+   "GOL",
+   23,
+   62
+  ],
+  [
+   "Alen Sherri",
+   "GOL",
+   28,
+   66
+  ],
+  [
+   "Gabriele Zappa",
+   "LD",
+   26,
+   72
+  ],
+  [
+   "José Luis Palomino",
+   "ZAG",
+   35,
+   72
+  ],
+  [
+   "Yerry Mina",
+   "ZAG",
+   31,
+   72
+  ],
+  [
+   "S. Luperto",
+   "ZAG",
+   29,
+   72
+  ],
+  [
+   "Juan Rodríguez",
+   "ZAG",
+   20,
+   70
+  ],
+  [
+   "Zé Pedro",
+   "ZAG",
+   28,
+   70
+  ],
+  [
+   "Adam Obert",
+   "LE",
+   23,
+   70
+  ],
+  [
+   "Riyad Idrissi",
+   "LE",
+   20,
+   70
+  ],
+  [
+   "Michel Adopo",
+   "VOL",
+   25,
+   73
+  ],
+  [
+   "Antoine Makoumbou",
+   "VOL",
+   27,
+   72
+  ],
+  [
+   "Matteo Prati",
+   "MEI",
+   22,
+   72
+  ],
+  [
+   "Alessandro Deiola",
+   "MEI",
+   30,
+   71
+  ],
+  [
+   "Joseph Liteta",
+   "MEI",
+   21,
+   66
+  ],
+  [
+   "M. Folorunsho",
+   "MEI",
+   27,
+   73
+  ],
+  [
+   "Gianluca Gaetano",
+   "MEI",
+   25,
+   73
+  ],
+  [
+   "Mattia Felici",
+   "PE",
+   24,
+   71
+  ],
+  [
+   "Zito Luvumbo",
+   "PE",
+   23,
+   72
+  ],
+  [
+   "S. Esposito",
+   "AC",
+   23,
+   74
+  ],
+  [
+   "Gennaro Borrelli",
+   "AC",
+   25,
+   72
+  ],
+  [
+   "L. Pavoletti",
+   "AC",
+   36,
+   68
+  ],
+  [
+   "Semih Kılıçsoy",
+   "AC",
+   20,
+   72
+  ],
+  [
+   "Andrea Belotti",
+   "AC",
+   31,
+   72
+  ]
+ ],
+ "Sassuolo": [
+  [
+   "Arijanet Murić",
+   "GOL",
+   27,
+   76
+  ],
+  [
+   "Stefano Turati",
+   "GOL",
+   24,
+   70
+  ],
+  [
+   "Giacomo Satalino",
+   "GOL",
+   26,
+   64
+  ],
+  [
+   "S. Walukiewicz",
+   "LD",
+   25,
+   72
+  ],
+  [
+   "Woyo Coulibaly",
+   "LD",
+   26,
+   72
+  ],
+  [
+   "Tarik Muharemović",
+   "ZAG",
+   22,
+   74
+  ],
+  [
+   "Jay Idzes",
+   "ZAG",
+   25,
+   72
+  ],
+  [
+   "Filippo Romagna",
+   "ZAG",
+   28,
+   70
+  ],
+  [
+   "Fali Candé",
+   "ZAG",
+   27,
+   68
+  ],
+  [
+   "Josh Doig",
+   "LE",
+   23,
+   72
+  ],
+  [
+   "Nicholas Pierini",
+   "PE",
+   27,
+   68
+  ],
+  [
+   "Nemanja Matić",
+   "VOL",
+   37,
+   74
+  ],
+  [
+   "K. Thorstvedt",
+   "MEI",
+   26,
+   74
+  ],
+  [
+   "Luca Lipani",
+   "MEI",
+   20,
+   70
+  ],
+  [
+   "Ismaël Koné",
+   "MEI",
+   23,
+   74
+  ],
+  [
+   "Aster Vranckx",
+   "MEI",
+   22,
+   72
+  ],
+  [
+   "Edoardo Iannoni",
+   "MEI",
+   24,
+   68
+  ],
+  [
+   "Daniel Boloca",
+   "MEI",
+   26,
+   68
+  ],
+  [
+   "Domenico Berardi",
+   "PD",
+   31,
+   79
+  ],
+  [
+   "Cristian Volpato",
+   "PD",
+   21,
+   70
+  ],
+  [
+   "Armand Laurienté",
+   "PE",
+   26,
+   77
+  ],
+  [
+   "Andrea Pinamonti",
+   "AC",
+   26,
+   75
+  ],
+  [
+   "Luca Moro",
+   "AC",
+   24,
+   68
+  ],
+  [
+   "Walid Cheddira",
+   "AC",
+   27,
+   70
+  ]
+ ],
+ "Lecce": [
+  [
+   "Wladimiro Falcone",
+   "GOL",
+   30,
+   77
+  ],
+  [
+   "Christian Früchtl",
+   "GOL",
+   25,
+   66
+  ],
+  [
+   "Jasper Samooja",
+   "GOL",
+   22,
+   62
+  ],
+  [
+   "Danilo Veiga",
+   "LD",
+   23,
+   70
+  ],
+  [
+   "Kialonda Gaspar",
+   "ZAG",
+   28,
+   74
+  ],
+  [
+   "Tiago Gabriel",
+   "ZAG",
+   20,
+   70
+  ],
+  [
+   "Jamil Siebert",
+   "ZAG",
+   23,
+   68
+  ],
+  [
+   "Corrie Ndaba",
+   "ZAG",
+   26,
+   66
+  ],
+  [
+   "Antonino Gallo",
+   "LE",
+   25,
+   72
+  ],
+  [
+   "Ylber Ramadani",
+   "VOL",
+   29,
+   74
+  ],
+  [
+   "Mohamed Kaba",
+   "VOL",
+   24,
+   68
+  ],
+  [
+   "Lassana Coulibaly",
+   "MEI",
+   29,
+   72
+  ],
+  [
+   "Medon Berisha",
+   "MEI",
+   22,
+   70
+  ],
+  [
+   "Balthazar Pierret",
+   "MEI",
+   25,
+   70
+  ],
+  [
+   "Thórir Helgason",
+   "MEI",
+   25,
+   68
+  ],
+  [
+   "Tete Morente",
+   "PD",
+   28,
+   72
+  ],
+  [
+   "Filip Marchwiński",
+   "MEI",
+   23,
+   70
+  ],
+  [
+   "Santiago Pierotti",
+   "PE",
+   24,
+   70
+  ],
+  [
+   "Lameck Banda",
+   "PE",
+   24,
+   72
+  ],
+  [
+   "Riccardo Sottil",
+   "PE",
+   26,
+   70
+  ],
+  [
+   "Konan N’Dri",
+   "PD",
+   25,
+   68
+  ],
+  [
+   "Francesco Camarda",
+   "AC",
+   17,
+   70
+  ],
+  [
+   "Nikola Stulic",
+   "AC",
+   23,
+   71
+  ]
+ ],
+ "Verona": [
+  [
+   "Lorenzo Montipò",
+   "GOL",
+   29,
+   76
+  ],
+  [
+   "Simone Perilli",
+   "GOL",
+   30,
+   66
+  ],
+  [
+   "Giacomo Toniolo",
+   "GOL",
+   21,
+   60
+  ],
+  [
+   "Rafik Belghali",
+   "LD",
+   23,
+   70
+  ],
+  [
+   "A. Bella-Kotchap",
+   "ZAG",
+   23,
+   72
+  ],
+  [
+   "Victor Nelsson",
+   "ZAG",
+   26,
+   73
+  ],
+  [
+   "Nicolás Valentini",
+   "ZAG",
+   24,
+   70
+  ],
+  [
+   "Daniel Oyegoke",
+   "ZAG",
+   22,
+   68
+  ],
+  [
+   "Martin Frese",
+   "LE",
+   27,
+   70
+  ],
+  [
+   "Domagoj Bradarić",
+   "LE",
+   25,
+   70
+  ],
+  [
+   "Suat Serdar",
+   "VOL",
+   28,
+   72
+  ],
+  [
+   "Cheikh Niasse",
+   "VOL",
+   25,
+   70
+  ],
+  [
+   "Antoine Bernede",
+   "MEI",
+   26,
+   70
+  ],
+  [
+   "Abdou Harroui",
+   "MEI",
+   27,
+   72
+  ],
+  [
+   "R. Gagliardini",
+   "MEI",
+   31,
+   70
+  ],
+  [
+   "Jean-Daniel Akpa Akpro",
+   "MEI",
+   33,
+   68
+  ],
+  [
+   "Grigoris Kastanos",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Tomas Suslov",
+   "MEI",
+   23,
+   74
+  ],
+  [
+   "Darko Lazović",
+   "PE",
+   35,
+   68
+  ],
+  [
+   "Giovane",
+   "AC",
+   21,
+   71
+  ],
+  [
+   "Daniel Mosquera",
+   "AC",
+   26,
+   72
+  ],
+  [
+   "Amin Sarr",
+   "AC",
+   24,
+   70
+  ],
+  [
+   "Gift Orban",
+   "AC",
+   23,
+   70
+  ]
+ ],
+ "Pisa": [
+  [
+   "Adrian Semper",
+   "GOL",
+   27,
+   72
+  ],
+  [
+   "Simone Scuffet",
+   "GOL",
+   29,
+   72
+  ],
+  [
+   "Nícolas",
+   "GOL",
+   37,
+   68
+  ],
+  [
+   "Idrissa Touré",
+   "LD",
+   27,
+   70
+  ],
+  [
+   "Arturo Calabresi",
+   "ZAG",
+   29,
+   70
+  ],
+  [
+   "S. Canestrelli",
+   "ZAG",
+   24,
+   72
+  ],
+  [
+   "A. Caracciolo",
+   "ZAG",
+   35,
+   70
+  ],
+  [
+   "Giovanni Bonfanti",
+   "ZAG",
+   22,
+   68
+  ],
+  [
+   "Raúl Albiol",
+   "ZAG",
+   39,
+   70
+  ],
+  [
+   "Samuele Angori",
+   "LE",
+   21,
+   68
+  ],
+  [
+   "Juan Cuadrado",
+   "PD",
+   37,
+   72
+  ],
+  [
+   "Marius Marin",
+   "MEI",
+   26,
+   74
+  ],
+  [
+   "Michel Aebischer",
+   "MEI",
+   28,
+   72
+  ],
+  [
+   "E. Akinsanmiro",
+   "MEI",
+   21,
+   70
+  ],
+  [
+   "Malthe Højholt",
+   "MEI",
+   24,
+   66
+  ],
+  [
+   "İsak Vural",
+   "MEI",
+   20,
+   64
+  ],
+  [
+   "Mehdi Léris",
+   "PD",
+   27,
+   70
+  ],
+  [
+   "Matteo Tramoni",
+   "MEI",
+   25,
+   71
+  ],
+  [
+   "Stefano Moreo",
+   "AC",
+   32,
+   70
+  ],
+  [
+   "M'Bala Nzola",
+   "AC",
+   29,
+   72
+  ],
+  [
+   "Henrik Meister",
+   "AC",
+   21,
+   72
+  ],
+  [
+   "Nicholas Bonfanti",
+   "AC",
+   23,
+   68
+  ],
+  [
+   "G. Piccinini",
+   "MEI",
+   24,
+   66
+  ]
+ ],
+ "Cremonese": [
+  [
+   "Emil Audero",
+   "GOL",
+   28,
+   75
+  ],
+  [
+   "Marco Silvestri",
+   "GOL",
+   34,
+   72
+  ],
+  [
+   "Lapo Nava",
+   "GOL",
+   21,
+   62
+  ],
+  [
+   "Tommaso Barbieri",
+   "LD",
+   23,
+   70
+  ],
+  [
+   "F. Terracciano",
+   "LD",
+   22,
+   70
+  ],
+  [
+   "F. Baschirotto",
+   "ZAG",
+   28,
+   74
+  ],
+  [
+   "Matteo Bianchetti",
+   "ZAG",
+   32,
+   70
+  ],
+  [
+   "F. Ceccherini",
+   "ZAG",
+   33,
+   70
+  ],
+  [
+   "Francesco Folino",
+   "ZAG",
+   23,
+   66
+  ],
+  [
+   "Giuseppe Pezzella",
+   "LE",
+   28,
+   72
+  ],
+  [
+   "Romano Floriani Mussolini",
+   "LD",
+   22,
+   68
+  ],
+  [
+   "Franco Vázquez",
+   "MEI",
+   36,
+   74
+  ],
+  [
+   "Alberto Grassi",
+   "MEI",
+   30,
+   70
+  ],
+  [
+   "Michele Collocolo",
+   "MEI",
+   26,
+   69
+  ],
+  [
+   "Warren Bondo",
+   "VOL",
+   22,
+   70
+  ],
+  [
+   "Martín Payero",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Jari Vandeputte",
+   "PE",
+   29,
+   71
+  ],
+  [
+   "Alessio Zerbin",
+   "PE",
+   26,
+   70
+  ],
+  [
+   "Jeremy Sarmiento",
+   "PE",
+   23,
+   71
+  ],
+  [
+   "F. Bonazzoli",
+   "AC",
+   28,
+   72
+  ],
+  [
+   "Jamie Vardy",
+   "AC",
+   38,
+   76
+  ],
+  [
+   "Antonio Sanabria",
+   "AC",
+   29,
+   73
+  ],
+  [
+   "Manuel De Luca",
+   "AC",
+   27,
+   68
+  ]
+ ]
+}

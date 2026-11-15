@@ -556,7 +556,7 @@ const LEAGUES := [
 		["Palmeiras", "PAL", "127448", "73ac92", 74], ["Corinthians", "COR", "8e7575", "c2bebe", 73],
 		["São Paulo", "SAO", "010101", "ffffff", 73], ["Santos", "SAN", "fffffe", "4469ae", 72],
 		["RB Bragantino", "RBB", "a23454", "d3b49f", 72], ["Mirassol", "MIR", "f8ec13", "8fae31", 71],
-		["Ponte Preta", "PON", "fbfbfb", "000000", 70], ["Guaraní", "GUA", "010002", "f9de04", 70],
+		["Ponte Preta", "PON", "fbfbfb", "000000", 70], ["Guarani", "GUA", "f2f2f2", "0b7a3b", 70],
 		["Novorizontino", "NOV", "020101", "b7b593", 69], ["Botafogo-SP", "BOT", "010101", "a52829", 69],
 		["Ituano", "ITU", "241d1e", "d01b23", 68], ["Velo Clube", "VEL", "e23840", "07ad58", 67],
 		["Noroeste", "NOR", "ff0307", "ffffff", 67], ["Capivariano", "CAP", "fe1014", "fdfffe", 66],

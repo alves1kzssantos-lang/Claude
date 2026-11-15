@@ -1626,25 +1626,39 @@ func _draw_field() -> void:
 ## Devolve [teto, fundo, rede, traves, chave]; só é refeita se a escala mudar.
 func _goal_geo_far(gr: Vector2, bl: Vector2, br: Vector2) -> Array:
 	var key := Vector4(gr.x, bl.y, br.x, s)
-	if not _goal_far.is_empty() and _goal_far[4] == key:
+	if not _goal_far.is_empty() and _goal_far[7] == key:
 		return _goal_far
 	var L := LIFT * s
 	var h := BallPhysics.CROSSBAR
 	var gl := Vector2.ZERO
 	var up := Vector2(0, -h * L)
-	var up_back := Vector2(0, -h * 0.75 * L)
-	var roof := PackedVector2Array([bl + up_back, br + up_back, gr + up, gl + up])
-	var back := PackedVector2Array([bl, br, br + up_back, bl + up_back])
+	var ub := Vector2(0, -h * 0.55 * L)   # rede de fundo mais baixa: o gol fica "em pé", sem caixa alta atrás
+	var roof := PackedVector2Array([bl + ub, br + ub, gr + up, gl + up])
+	var back := PackedVector2Array([bl, br, br + ub, bl + ub])
+	var side_l := PackedVector2Array([gl, bl, bl + ub, gl + up])
+	var side_r := PackedVector2Array([gr, br, br + ub, gr + up])
+	# malha da rede (quadriculada fina) em cada face
 	var net := PackedVector2Array()
-	for i in 15:
-		var k := float(i) / 14.0
-		net.append(bl.lerp(br, k))
-		net.append((bl + up_back).lerp(br + up_back, k))
-		net.append((gl + up).lerp(gr + up, k))
-		net.append((bl + up_back).lerp(br + up_back, k))
+	_mesh(net, bl, br, br + ub, bl + ub, 24, 6)
+	_mesh(net, gl + up, gr + up, br + ub, bl + ub, 24, 3)
+	_mesh(net, gl, bl, bl + ub, gl + up, 3, 6)
+	_mesh(net, gr, br, br + ub, gr + up, 3, 6)
 	var posts := PackedVector2Array([gl, gl + up, gr, gr + up, gl + up, gr + up])
-	_goal_far = [roof, back, net, posts, key]
+	var shadow := PackedVector2Array([gl, gr, gr + Vector2(0.9 * s, 0.35 * s), gl + Vector2(0.9 * s, 0.35 * s)])
+	_goal_far = [roof, back, net, posts, side_l, side_r, shadow, key]
 	return _goal_far
+
+
+## Linhas de uma malha num quadrilátero a-b-c-d (nu colunas, nv linhas).
+func _mesh(out: PackedVector2Array, a: Vector2, b: Vector2, c: Vector2, d: Vector2, nu: int, nv: int) -> void:
+	for i in nu + 1:
+		var u := float(i) / nu
+		out.append(a.lerp(b, u))
+		out.append(d.lerp(c, u))
+	for j in nv + 1:
+		var v := float(j) / nv
+		out.append(a.lerp(d, v))
+		out.append(b.lerp(c, v))
 
 
 ## Gol do fundo da tela (mais longe da câmera), em pé sobre a linha (gy) com a rede atrás
@@ -1653,16 +1667,29 @@ func _goal_geo_far(gr: Vector2, bl: Vector2, br: Vector2) -> Array:
 func _draw_goal_far(gy: float, back: float) -> void:
 	var gl := _w2s(Vector2(-GOAL_HALF, gy))
 	var gr := _w2s(Vector2(GOAL_HALF, gy)) - gl
-	var bl := _w2s(Vector2(-GOAL_HALF, gy + back * 2.0)) - gl
-	var br := _w2s(Vector2(GOAL_HALF, gy + back * 2.0)) - gl
+	var bl := _w2s(Vector2(-GOAL_HALF * 0.96, gy + back * 1.1)) - gl
+	var br := _w2s(Vector2(GOAL_HALF * 0.96, gy + back * 1.1)) - gl
 	if gl.y < -2.0 or gl.y - 4.0 * s > size.y:
 		return   # fora da tela (a base das traves acima do topo, ou o gol todo abaixo)
 	var geo := _goal_geo_far(gr, bl, br)
+	var pw: float = maxf(0.16 * s, 4.0)
 	draw_set_transform(gl)
-	draw_colored_polygon(geo[0], Color(1, 1, 1, 0.12))
-	draw_colored_polygon(geo[1], Color(1, 1, 1, 0.10))
-	draw_multiline(geo[2], NET_COL, 1.0)
-	draw_multiline(geo[3], Color.WHITE, maxf(0.12 * s, 3.0))
+	# sombra das traves no gramado
+	draw_colored_polygon(geo[6], Color(0, 0, 0, 0.16))
+	# fundo da rede escuro e translúcido (dá profundidade), depois a malha branca
+	draw_colored_polygon(geo[1], Color(0.02, 0.06, 0.03, 0.30))
+	draw_colored_polygon(geo[0], Color(0.02, 0.06, 0.03, 0.22))
+	draw_colored_polygon(geo[4], Color(0.02, 0.06, 0.03, 0.18))
+	draw_colored_polygon(geo[5], Color(0.02, 0.06, 0.03, 0.18))
+	draw_multiline(geo[2], Color(1, 1, 1, 0.42), 1.0)
+	# traves: contorno escuro, branco e brilho
+	var p: PackedVector2Array = geo[3]
+	draw_multiline(p, Color(0.1, 0.12, 0.12, 0.55), pw + 3.0)
+	draw_multiline(p, Color.WHITE, pw)
+	for k in [0, 2]:
+		draw_line(p[k] + Vector2(-pw * 0.2, 0), p[k + 1] + Vector2(-pw * 0.2, 0), Color(1, 1, 1, 0.9), maxf(pw * 0.3, 1.0))
+	for q in [p[1], p[3]]:
+		draw_circle(q, pw * 0.55, Color.WHITE)
 	draw_set_transform(Vector2.ZERO)
 
 

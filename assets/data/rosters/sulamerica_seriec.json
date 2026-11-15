@@ -1,0 +1,13260 @@
+{
+"Paysandu": [
+[
+"Matheus Nogueira",
+"GOL",
+25,
+63
+],
+[
+"Gabriel Mesquita",
+"GOL",
+30,
+61
+],
+[
+"Kendrys Silva",
+"GOL",
+22,
+60
+],
+[
+"Matheus Araújo",
+"LD",
+24,
+53
+],
+[
+"Felipe Rodrigues",
+"LD",
+32,
+53
+],
+[
+"Alejandro Andrade",
+"ZAG",
+30,
+59
+],
+[
+"Léo Ferreira",
+"ZAG",
+31,
+56
+],
+[
+"Leandro Dias",
+"ZAG",
+22,
+58
+],
+[
+"Mario Gomes",
+"ZAG",
+24,
+59
+],
+[
+"Bryan Borges",
+"LE",
+24,
+61
+],
+[
+"Danilo Santos",
+"LE",
+23,
+54
+],
+[
+"Leandro Vilela",
+"VOL",
+30,
+62
+],
+[
+"Diego Araujo",
+"VOL",
+21,
+59
+],
+[
+"Kauã Rocha",
+"VOL",
+23,
+55
+],
+[
+"Matheus Vargas",
+"MEI",
+29,
+63
+],
+[
+"Gonçalo Ribeiro",
+"MEI",
+20,
+56
+],
+[
+"Walterson Silva",
+"MEI",
+27,
+56
+],
+[
+"Gonçalo Costa",
+"PD",
+19,
+54
+],
+[
+"Daniel Carvalho",
+"PE",
+30,
+57
+],
+[
+"Nicolas",
+"AC",
+36,
+63
+],
+[
+"João Santos",
+"AC",
+19,
+57
+],
+[
+"Duarte Carvalho",
+"AC",
+29,
+54
+]
+],
+"Guarani": [
+[
+"Arthur Dias",
+"GOL",
+20,
+59
+],
+[
+"Valter Monteiro",
+"GOL",
+31,
+57
+],
+[
+"Agustín Pereira",
+"GOL",
+22,
+57
+],
+[
+"Juliano de Souza",
+"LD",
+31,
+59
+],
+[
+"Henrique Araújo",
+"LD",
+30,
+56
+],
+[
+"António Ribeiro",
+"ZAG",
+24,
+57
+],
+[
+"João Souza",
+"ZAG",
+22,
+58
+],
+[
+"Hugo Pereira",
+"ZAG",
+21,
+58
+],
+[
+"Alexandre Souza",
+"ZAG",
+19,
+55
+],
+[
+"Igor Rodrigues",
+"LE",
+28,
+58
+],
+[
+"Fernando Andrade",
+"LE",
+32,
+54
+],
+[
+"Matheus Bueno",
+"VOL",
+27,
+62
+],
+[
+"Xande Silva",
+"VOL",
+22,
+57
+],
+[
+"Denílson Santos",
+"VOL",
+28,
+56
+],
+[
+"Rodrigo Andrade",
+"MEI",
+31,
+62
+],
+[
+"Simão Rocha",
+"MEI",
+33,
+56
+],
+[
+"Lucas Carvalho",
+"MEI",
+28,
+56
+],
+[
+"Guillermo Pereira",
+"PD",
+28,
+56
+],
+[
+"Pedro Mendes",
+"PE",
+23,
+61
+],
+[
+"Leonardo Oliveira",
+"AC",
+25,
+59
+],
+[
+"Tiago Almeida",
+"AC",
+28,
+59
+],
+[
+"Walter Araujo",
+"AC",
+27,
+60
+]
+],
+"Figueirense": [
+[
+"Wilson",
+"GOL",
+41,
+59
+],
+[
+"Ruan Costa",
+"GOL",
+32,
+59
+],
+[
+"Jaime Santos",
+"GOL",
+29,
+55
+],
+[
+"Dillon De Silva",
+"LD",
+32,
+56
+],
+[
+"Clever Ferreira",
+"LD",
+26,
+56
+],
+[
+"Kauê Souza",
+"ZAG",
+26,
+59
+],
+[
+"Pablo Ferreira",
+"ZAG",
+28,
+57
+],
+[
+"Pedro Gomes",
+"ZAG",
+24,
+57
+],
+[
+"Leandro Ferreira",
+"ZAG",
+20,
+54
+],
+[
+"Tiago Correia",
+"LE",
+26,
+60
+],
+[
+"Aldo Araujo",
+"LE",
+28,
+59
+],
+[
+"Brahian Ferreira",
+"VOL",
+33,
+53
+],
+[
+"Bruno Pereira",
+"VOL",
+21,
+59
+],
+[
+"Pablo Fonseca",
+"VOL",
+19,
+59
+],
+[
+"Ivo Rodrigues",
+"MEI",
+29,
+54
+],
+[
+"Nathan Rodrigues",
+"MEI",
+24,
+53
+],
+[
+"Juan Pinto",
+"MEI",
+23,
+53
+],
+[
+"Isaac Monteiro",
+"PD",
+32,
+59
+],
+[
+"Filip Da Silva",
+"PE",
+31,
+53
+],
+[
+"Gabriel Silva",
+"AC",
+25,
+60
+],
+[
+"Gustavo Almeida",
+"AC",
+24,
+59
+],
+[
+"Julio da Silva",
+"AC",
+24,
+53
+]
+],
+"Brusque": [
+[
+"Santiago Pereira",
+"GOL",
+19,
+52
+],
+[
+"Rodrigo Dias",
+"GOL",
+20,
+57
+],
+[
+"Felipe Santos",
+"GOL",
+33,
+58
+],
+[
+"Marcelo De Lima",
+"LD",
+29,
+54
+],
+[
+"Ryan Santos",
+"LD",
+27,
+52
+],
+[
+"Alemão",
+"ZAG",
+30,
+60
+],
+[
+"Rodrigo Moura",
+"ZAG",
+32,
+55
+],
+[
+"António Gomes",
+"ZAG",
+20,
+58
+],
+[
+"Kennedy Rocha",
+"ZAG",
+20,
+52
+],
+[
+"Stefan Pereira",
+"LE",
+22,
+57
+],
+[
+"Miguel Santos",
+"LE",
+28,
+59
+],
+[
+"Caio Rodrigues",
+"VOL",
+32,
+56
+],
+[
+"Adílio Santos",
+"VOL",
+30,
+55
+],
+[
+"Gustavo Mendes",
+"VOL",
+21,
+57
+],
+[
+"João Correia",
+"MEI",
+24,
+59
+],
+[
+"Ricardo Silva",
+"MEI",
+31,
+53
+],
+[
+"los Santos",
+"MEI",
+28,
+55
+],
+[
+"Filipe Santos",
+"PD",
+26,
+57
+],
+[
+"Douglas Mendes",
+"PE",
+29,
+53
+],
+[
+"Diogo Oliveira",
+"AC",
+27,
+55
+],
+[
+"dos Santos",
+"AC",
+28,
+56
+],
+[
+"Miguel Araujo",
+"AC",
+31,
+55
+]
+],
+"Ypiranga": [
+[
+"Edson Mardden",
+"GOL",
+33,
+59
+],
+[
+"Bruno Moura",
+"GOL",
+32,
+55
+],
+[
+"Lenny Rodrigues",
+"GOL",
+24,
+57
+],
+[
+"João Machado",
+"LD",
+27,
+53
+],
+[
+"Paulo Cardoso",
+"LD",
+32,
+59
+],
+[
+"Diogo Monteiro",
+"ZAG",
+22,
+54
+],
+[
+"Kelvi Gomes",
+"ZAG",
+20,
+55
+],
+[
+"Felipe Andrade",
+"ZAG",
+30,
+58
+],
+[
+"Rodrigo Silva",
+"ZAG",
+26,
+57
+],
+[
+"Marlon Silva",
+"LE",
+28,
+52
+],
+[
+"Alex Souza",
+"LE",
+24,
+59
+],
+[
+"Lucas Machado",
+"VOL",
+29,
+54
+],
+[
+"Pierre da Silva",
+"VOL",
+24,
+56
+],
+[
+"Willian Rocha",
+"VOL",
+26,
+55
+],
+[
+"Raúl Pereira",
+"MEI",
+33,
+55
+],
+[
+"Victor Pereira",
+"MEI",
+30,
+57
+],
+[
+"Beckham Dias",
+"MEI",
+24,
+57
+],
+[
+"Julián Araujo",
+"PD",
+27,
+56
+],
+[
+"Rúben Rocha",
+"PE",
+23,
+56
+],
+[
+"Lucas Marques",
+"AC",
+26,
+59
+],
+[
+"Ryan Andrade",
+"AC",
+30,
+52
+],
+[
+"William Machado",
+"AC",
+23,
+55
+]
+],
+"Caxias do Sul": [
+[
+"Thiago Beltrame",
+"GOL",
+31,
+59
+],
+[
+"Zé Oliveira",
+"GOL",
+32,
+54
+],
+[
+"João Oliveira",
+"GOL",
+21,
+51
+],
+[
+"Vasco Rocha",
+"LD",
+31,
+58
+],
+[
+"G. Nogueira",
+"LD",
+28,
+52
+],
+[
+"Júnior Almeida",
+"ZAG",
+20,
+58
+],
+[
+"Robert Santos",
+"ZAG",
+22,
+54
+],
+[
+"Oscar Obed Pinto",
+"ZAG",
+23,
+55
+],
+[
+"Matías Silva",
+"ZAG",
+28,
+54
+],
+[
+"Dinis Almeida",
+"LE",
+19,
+57
+],
+[
+"Rafael Monteiro",
+"LE",
+25,
+54
+],
+[
+"Thomas Santos",
+"VOL",
+27,
+57
+],
+[
+"Gu Costa",
+"VOL",
+27,
+55
+],
+[
+"Andrusw Araujo",
+"VOL",
+23,
+56
+],
+[
+"Afonso Pinto",
+"MEI",
+33,
+51
+],
+[
+"Da Rocha",
+"MEI",
+26,
+57
+],
+[
+"Gabriel Santos",
+"MEI",
+21,
+56
+],
+[
+"David Costa",
+"PD",
+29,
+51
+],
+[
+"Miguel Almeida",
+"PE",
+29,
+56
+],
+[
+"Thiaguinho",
+"AC",
+30,
+59
+],
+[
+"Bruno Rodrigues",
+"AC",
+33,
+58
+],
+[
+"Ricardo Teixeira",
+"AC",
+29,
+53
+]
+],
+"Floresta": [
+[
+"M. Nascimento",
+"GOL",
+19,
+51
+],
+[
+"Breno Almeida",
+"GOL",
+33,
+52
+],
+[
+"Aldaír Ferreira",
+"GOL",
+26,
+57
+],
+[
+"Joshua Pereira",
+"LD",
+28,
+53
+],
+[
+"Daniel Cardoso",
+"LD",
+31,
+57
+],
+[
+"Claudio Gomes",
+"ZAG",
+27,
+52
+],
+[
+"Tiago Freitas",
+"ZAG",
+23,
+51
+],
+[
+"Mathías Pinto",
+"ZAG",
+26,
+57
+],
+[
+"Matheus Mendes",
+"ZAG",
+30,
+52
+],
+[
+"Yoan Pereira",
+"LE",
+31,
+51
+],
+[
+"João Araújo",
+"LE",
+21,
+54
+],
+[
+"Tiago Rodrigues",
+"VOL",
+25,
+53
+],
+[
+"William Da Rocha",
+"VOL",
+32,
+57
+],
+[
+"Fredi Gomes",
+"VOL",
+20,
+53
+],
+[
+"Alan Lima",
+"MEI",
+33,
+58
+],
+[
+"Samú Costa",
+"MEI",
+25,
+57
+],
+[
+"Matías Almeida",
+"MEI",
+31,
+56
+],
+[
+"Ewandro Costa",
+"PD",
+29,
+51
+],
+[
+"Felipe Silva",
+"PE",
+20,
+56
+],
+[
+"Ítalo",
+"AC",
+28,
+58
+],
+[
+"G. Oliveira",
+"AC",
+26,
+52
+],
+[
+"JP Silva",
+"AC",
+24,
+54
+]
+],
+"Botafogo-PB": [
+[
+"Mota",
+"GOL",
+31,
+58
+],
+[
+"Felipe Vieira",
+"GOL",
+33,
+54
+],
+[
+"João Costa",
+"GOL",
+24,
+53
+],
+[
+"Sérgio Ribeiro",
+"LD",
+21,
+54
+],
+[
+"Juan Silva",
+"LD",
+20,
+50
+],
+[
+"Matheus Dias",
+"ZAG",
+30,
+52
+],
+[
+"Esteban de Lima",
+"ZAG",
+20,
+52
+],
+[
+"S. Ferreira",
+"ZAG",
+25,
+55
+],
+[
+"Guzmán Pereira",
+"ZAG",
+33,
+56
+],
+[
+"Jonathan Costa",
+"LE",
+19,
+50
+],
+[
+"Rolando Batista",
+"LE",
+33,
+56
+],
+[
+"Tiago Ferreira",
+"VOL",
+23,
+55
+],
+[
+"Adrián Almeida",
+"VOL",
+26,
+50
+],
+[
+"Leonard Costa",
+"VOL",
+31,
+52
+],
+[
+"Luka Andrade",
+"MEI",
+31,
+51
+],
+[
+"Gio Almeida",
+"MEI",
+33,
+50
+],
+[
+"Chico da Costa",
+"MEI",
+32,
+55
+],
+[
+"Miguel Nogueira",
+"PD",
+26,
+53
+],
+[
+"Bryan Teixeira",
+"PE",
+19,
+51
+],
+[
+"Ryan Mendes",
+"AC",
+23,
+57
+],
+[
+"Afonso Freitas",
+"AC",
+24,
+54
+],
+[
+"de Almeida",
+"AC",
+21,
+55
+]
+],
+"Confiança": [
+[
+"Marcelo Freitas",
+"GOL",
+31,
+56
+],
+[
+"Nazir Correia",
+"GOL",
+32,
+54
+],
+[
+"Thiago Rodrigues",
+"GOL",
+20,
+56
+],
+[
+"Jordan Mendes",
+"LD",
+31,
+56
+],
+[
+"Marcos Silva",
+"LD",
+32,
+52
+],
+[
+"Joël Monteiro",
+"ZAG",
+28,
+50
+],
+[
+"Maicol Ferreira",
+"ZAG",
+24,
+53
+],
+[
+"Ricardo Santos",
+"ZAG",
+26,
+56
+],
+[
+"Tomás Mendes",
+"ZAG",
+33,
+50
+],
+[
+"Luciano Santos",
+"LE",
+25,
+56
+],
+[
+"Luís Gomes",
+"LE",
+26,
+49
+],
+[
+"Alisson Souza",
+"VOL",
+22,
+55
+],
+[
+"Sergio Araujo",
+"VOL",
+24,
+56
+],
+[
+"Rolando Silva",
+"VOL",
+32,
+56
+],
+[
+"Kauan Rodrigues",
+"MEI",
+32,
+52
+],
+[
+"Lassana Mendes",
+"MEI",
+22,
+53
+],
+[
+"Fábio Gomes",
+"MEI",
+24,
+54
+],
+[
+"Alison Silva",
+"PD",
+27,
+52
+],
+[
+"Kauê Dias",
+"PE",
+29,
+53
+],
+[
+"Alexandre Dias",
+"AC",
+31,
+55
+],
+[
+"Jordão Cardoso",
+"AC",
+22,
+53
+],
+[
+"Djalma Silva",
+"AC",
+26,
+50
+]
+],
+"ABC": [
+[
+"Matheus Inácio",
+"GOL",
+31,
+58
+],
+[
+"Pedro Costa",
+"GOL",
+23,
+54
+],
+[
+"Rui Gomes",
+"GOL",
+23,
+53
+],
+[
+"Ricardo Ribeiro",
+"LD",
+29,
+50
+],
+[
+"André Silva",
+"LD",
+32,
+48
+],
+[
+"Rafa Pinto",
+"ZAG",
+20,
+52
+],
+[
+"Kyanno Silva",
+"ZAG",
+32,
+49
+],
+[
+"João Freitas",
+"ZAG",
+23,
+49
+],
+[
+"Fábio Carvalho",
+"ZAG",
+32,
+50
+],
+[
+"Afonso Silva",
+"LE",
+25,
+49
+],
+[
+"Diogo Barbosa",
+"LE",
+20,
+49
+],
+[
+"Marvin De Lima",
+"VOL",
+25,
+54
+],
+[
+"Marcos Mendes",
+"VOL",
+25,
+54
+],
+[
+"Diego Barbosa",
+"VOL",
+24,
+54
+],
+[
+"Kevin Silva",
+"MEI",
+31,
+55
+],
+[
+"Diogo Ferreira",
+"MEI",
+24,
+48
+],
+[
+"Thiaguinho Santos",
+"MEI",
+30,
+52
+],
+[
+"Henrique Gomes",
+"PD",
+27,
+52
+],
+[
+"Igor Pereira",
+"PE",
+29,
+53
+],
+[
+"Wallyson",
+"AC",
+36,
+57
+],
+[
+"Miguel Oliveira",
+"AC",
+33,
+54
+],
+[
+"Nuno da Costa",
+"AC",
+25,
+48
+]
+],
+"Volta Redonda": [
+[
+"Jean Drosny",
+"GOL",
+31,
+58
+],
+[
+"Aston da Silva",
+"GOL",
+33,
+53
+],
+[
+"Jhonnatan Silva",
+"GOL",
+31,
+49
+],
+[
+"Lucas Vieira",
+"LD",
+27,
+49
+],
+[
+"Álvaro Santos",
+"LD",
+25,
+47
+],
+[
+"Joel Oliveira",
+"ZAG",
+32,
+48
+],
+[
+"Sacha Lima",
+"ZAG",
+24,
+47
+],
+[
+"Filipe Almeida",
+"ZAG",
+26,
+54
+],
+[
+"Alexander Machado",
+"ZAG",
+19,
+52
+],
+[
+"Kelvin Oliveira",
+"LE",
+24,
+49
+],
+[
+"Anderson Silva",
+"LE",
+20,
+50
+],
+[
+"Vinícius Nogueira",
+"VOL",
+24,
+51
+],
+[
+"Francisco Moura",
+"VOL",
+21,
+49
+],
+[
+"Rúben Pereira",
+"VOL",
+23,
+49
+],
+[
+"Luis Jérez Silva",
+"MEI",
+26,
+47
+],
+[
+"C. Andrade",
+"MEI",
+27,
+50
+],
+[
+"Pablo Lima",
+"MEI",
+29,
+49
+],
+[
+"Nicolas Oliveira",
+"PD",
+22,
+54
+],
+[
+"Igor Silva",
+"PE",
+29,
+53
+],
+[
+"Pedrinho",
+"AC",
+28,
+57
+],
+[
+"Álex de Freitas",
+"AC",
+33,
+54
+],
+[
+"José Silva",
+"AC",
+23,
+47
+]
+],
+"CSA": [
+[
+"Dani Silva",
+"GOL",
+24,
+52
+],
+[
+"D'Hidier Pereira",
+"GOL",
+29,
+49
+],
+[
+"Andreas Pereira",
+"GOL",
+21,
+51
+],
+[
+"Bruno Silva",
+"LD",
+28,
+51
+],
+[
+"Óscar Pinto",
+"LD",
+31,
+50
+],
+[
+"Rodri Mendes",
+"ZAG",
+28,
+48
+],
+[
+"Bernardo Oliveira",
+"ZAG",
+31,
+49
+],
+[
+"Marcos Ferreira",
+"ZAG",
+24,
+48
+],
+[
+"Vitor Mendes",
+"ZAG",
+23,
+48
+],
+[
+"Matías Fonseca",
+"LE",
+22,
+49
+],
+[
+"Tomás Rodrigues",
+"LE",
+32,
+48
+],
+[
+"Gustavo Ferreira",
+"VOL",
+31,
+52
+],
+[
+"Iago Dias",
+"VOL",
+27,
+52
+],
+[
+"Cristian Rocha",
+"VOL",
+33,
+47
+],
+[
+"Daniel Rocha",
+"MEI",
+20,
+53
+],
+[
+"Leonan Santos",
+"MEI",
+22,
+52
+],
+[
+"Danny da Costa",
+"MEI",
+19,
+53
+],
+[
+"Evertton Araújo",
+"PD",
+24,
+46
+],
+[
+"Andrey Andrade",
+"PE",
+19,
+47
+],
+[
+"Idalécio Dias",
+"AC",
+32,
+50
+],
+[
+"Rui Monteiro",
+"AC",
+24,
+53
+],
+[
+"Gui Santos",
+"AC",
+21,
+46
+]
+],
+"Itabaiana": [
+[
+"Rafael Santos",
+"GOL",
+32,
+56
+],
+[
+"Lucas Ferreira",
+"GOL",
+26,
+50
+],
+[
+"Jairo Rodrigues",
+"GOL",
+33,
+52
+],
+[
+"Iago Santos",
+"LD",
+29,
+47
+],
+[
+"Radjenio Fonseca",
+"LD",
+27,
+50
+],
+[
+"Pedro Monteiro",
+"ZAG",
+21,
+47
+],
+[
+"Mateo Araujo",
+"ZAG",
+31,
+53
+],
+[
+"Gil Dias",
+"ZAG",
+30,
+53
+],
+[
+"Luan Pereira",
+"ZAG",
+19,
+47
+],
+[
+"Ramon Batista",
+"LE",
+27,
+52
+],
+[
+"Kevin Pereira",
+"LE",
+28,
+47
+],
+[
+"Jorge Rocha",
+"VOL",
+26,
+51
+],
+[
+"Klusner Pereira",
+"VOL",
+23,
+52
+],
+[
+"Nélson Oliveira",
+"VOL",
+26,
+52
+],
+[
+"Lucas Rocha",
+"MEI",
+28,
+49
+],
+[
+"Kauan Pereira",
+"MEI",
+23,
+46
+],
+[
+"Zé Mendes",
+"MEI",
+19,
+46
+],
+[
+"Bernardo Lima",
+"PD",
+25,
+52
+],
+[
+"Luan Dias",
+"PE",
+23,
+48
+],
+[
+"João Vieira",
+"AC",
+27,
+52
+],
+[
+"Ricardo Pereira",
+"AC",
+33,
+51
+],
+[
+"Eduardo Lima",
+"AC",
+21,
+50
+]
+],
+"Ituano": [
+[
+"Jefferson Paulino",
+"GOL",
+34,
+57
+],
+[
+"Leandro Silva",
+"GOL",
+19,
+45
+],
+[
+"William Gomes",
+"GOL",
+21,
+49
+],
+[
+"Alejandro Silva",
+"LD",
+28,
+45
+],
+[
+"Simón Pinto",
+"LD",
+28,
+49
+],
+[
+"Diogo Batista",
+"ZAG",
+31,
+52
+],
+[
+"David Silva",
+"ZAG",
+22,
+49
+],
+[
+"Joaquín Freitas",
+"ZAG",
+31,
+49
+],
+[
+"Albino Gomes",
+"ZAG",
+26,
+49
+],
+[
+"António Silva",
+"LE",
+33,
+45
+],
+[
+"Maxi Araújo",
+"LE",
+23,
+51
+],
+[
+"Sérgio Correia",
+"VOL",
+23,
+48
+],
+[
+"Diogo Dos Santos",
+"VOL",
+32,
+46
+],
+[
+"Ignacio Pereira",
+"VOL",
+28,
+46
+],
+[
+"Kauã Souza",
+"MEI",
+19,
+45
+],
+[
+"Dwann Oliveira",
+"MEI",
+29,
+49
+],
+[
+"Ángel Gomes",
+"MEI",
+24,
+51
+],
+[
+"Diego Rodrigues",
+"PD",
+29,
+47
+],
+[
+"Fernando Costa",
+"PE",
+26,
+51
+],
+[
+"Leozinho",
+"AC",
+30,
+56
+],
+[
+"Miguel Pereira",
+"AC",
+20,
+46
+],
+[
+"André Oliveira",
+"AC",
+26,
+52
+]
+],
+"Maringá": [
+[
+"Dheimison",
+"GOL",
+31,
+56
+],
+[
+"Marlon Santos",
+"GOL",
+27,
+45
+],
+[
+"Rodrigo Santos",
+"GOL",
+25,
+51
+],
+[
+"Pedro Silva",
+"LD",
+33,
+50
+],
+[
+"Jorge Pereira",
+"LD",
+22,
+48
+],
+[
+"Eduardo Moura",
+"ZAG",
+21,
+47
+],
+[
+"Paulo Oliveira",
+"ZAG",
+25,
+49
+],
+[
+"Dixon Pereira",
+"ZAG",
+24,
+45
+],
+[
+"Miguel Teixeira",
+"ZAG",
+23,
+45
+],
+[
+"Melvin Costa",
+"LE",
+30,
+50
+],
+[
+"Pedro Vieira",
+"LE",
+19,
+46
+],
+[
+"Douglas Silva",
+"VOL",
+26,
+46
+],
+[
+"Gonzalo Silva",
+"VOL",
+24,
+46
+],
+[
+"Noah Santos",
+"VOL",
+31,
+45
+],
+[
+"Danilo Pereira",
+"MEI",
+23,
+51
+],
+[
+"Léo Gomes",
+"MEI",
+24,
+47
+],
+[
+"Marcos Pereira",
+"MEI",
+33,
+50
+],
+[
+"Igor Ribeiro",
+"PD",
+31,
+51
+],
+[
+"Vitor Ribeiro",
+"PE",
+21,
+45
+],
+[
+"Ricardo Dias",
+"AC",
+29,
+46
+],
+[
+"André Teixeira",
+"AC",
+19,
+46
+],
+[
+"Filipe Cardoso",
+"AC",
+29,
+51
+]
+],
+"Anápolis": [
+[
+"Raul",
+"GOL",
+30,
+55
+],
+[
+"Ítalo Carvalho",
+"GOL",
+20,
+51
+],
+[
+"Lucas Rodrigues",
+"GOL",
+23,
+51
+],
+[
+"Matis Carvalho",
+"LD",
+22,
+50
+],
+[
+"Nilton Cardoso",
+"LD",
+33,
+46
+],
+[
+"João Mendes",
+"ZAG",
+24,
+48
+],
+[
+"Rafael Barbosa",
+"ZAG",
+31,
+45
+],
+[
+"Ramon Machado",
+"ZAG",
+26,
+50
+],
+[
+"Lucas Oliveira",
+"ZAG",
+32,
+46
+],
+[
+"Bruno Santos",
+"LE",
+31,
+46
+],
+[
+"João Lima",
+"LE",
+24,
+51
+],
+[
+"Gabriel Souza",
+"VOL",
+25,
+47
+],
+[
+"Guilherme Silva",
+"VOL",
+31,
+50
+],
+[
+"Hugo Silva",
+"VOL",
+20,
+49
+],
+[
+"de Oliveira",
+"MEI",
+25,
+51
+],
+[
+"Théo Fonseca",
+"MEI",
+20,
+45
+],
+[
+"Kayky Almeida",
+"MEI",
+27,
+45
+],
+[
+"René Barbosa",
+"PD",
+27,
+46
+],
+[
+"Tobi Sho-Silva",
+"PE",
+19,
+47
+],
+[
+"Juan José Almeida",
+"AC",
+19,
+47
+],
+[
+"Tomás Andrade",
+"AC",
+21,
+46
+],
+[
+"Leonardo Silva",
+"AC",
+28,
+49
+]
+],
+"Tombense": [
+[
+"Felipe Garcia",
+"GOL",
+34,
+55
+],
+[
+"Weslley Santos",
+"GOL",
+27,
+50
+],
+[
+"Adrian Pereira",
+"GOL",
+24,
+49
+],
+[
+"Clauvis Carvalho",
+"LD",
+20,
+45
+],
+[
+"Kauan Santos",
+"LD",
+31,
+46
+],
+[
+"Nuno Santos",
+"ZAG",
+20,
+45
+],
+[
+"Gean Rodrigues",
+"ZAG",
+19,
+49
+],
+[
+"Diego Monteiro",
+"ZAG",
+30,
+45
+],
+[
+"Ronaldo Freitas",
+"ZAG",
+24,
+45
+],
+[
+"Natan Costa",
+"LE",
+20,
+49
+],
+[
+"Nicolas Souza",
+"LE",
+25,
+45
+],
+[
+"Afonso Vieira",
+"VOL",
+29,
+45
+],
+[
+"Fábio Ferreira",
+"VOL",
+20,
+50
+],
+[
+"Miguel Monteiro",
+"VOL",
+33,
+46
+],
+[
+"Tiago Andrade",
+"MEI",
+26,
+48
+],
+[
+"Clau Mendes",
+"MEI",
+24,
+45
+],
+[
+"Joel Silva",
+"MEI",
+26,
+50
+],
+[
+"Eduardo Barbosa",
+"PD",
+24,
+45
+],
+[
+"Bernardo Gomes",
+"PE",
+33,
+49
+],
+[
+"Márcio Silva",
+"AC",
+29,
+46
+],
+[
+"João Pinto",
+"AC",
+30,
+45
+],
+[
+"Juan Pereira",
+"AC",
+29,
+45
+]
+],
+"Amazonas": [
+[
+"Renan",
+"GOL",
+34,
+60
+],
+[
+"Omar Correia",
+"GOL",
+19,
+54
+],
+[
+"Marcelo Pereira",
+"GOL",
+20,
+56
+],
+[
+"Ítalo Silva",
+"LD",
+26,
+58
+],
+[
+"William Carvalho",
+"LD",
+31,
+54
+],
+[
+"Léo Costa",
+"ZAG",
+25,
+55
+],
+[
+"Fábio Vieira",
+"ZAG",
+30,
+53
+],
+[
+"Bernardo Monteiro",
+"ZAG",
+19,
+54
+],
+[
+"Douglas Santos",
+"ZAG",
+28,
+56
+],
+[
+"Pablo Andrade",
+"LE",
+31,
+57
+],
+[
+"Guilherme Gomes",
+"LE",
+24,
+52
+],
+[
+"Diego Torres",
+"VOL",
+31,
+60
+],
+[
+"Gastón Silva",
+"VOL",
+20,
+58
+],
+[
+"Robert Costa",
+"VOL",
+27,
+55
+],
+[
+"Flavio Ribeiro",
+"MEI",
+32,
+58
+],
+[
+"Matías Machado",
+"MEI",
+27,
+51
+],
+[
+"Caio Ribeiro",
+"MEI",
+24,
+53
+],
+[
+"Luís Machado",
+"PD",
+32,
+57
+],
+[
+"Facundo Machado",
+"PE",
+27,
+57
+],
+[
+"Miguel Rodrigues",
+"AC",
+26,
+53
+],
+[
+"Sebastián Pereira",
+"AC",
+29,
+58
+],
+[
+"Rodrigo Souza",
+"AC",
+31,
+53
+]
+],
+"Ferroviária": [
+[
+"Saulo",
+"GOL",
+32,
+60
+],
+[
+"Tiago Dias",
+"GOL",
+25,
+51
+],
+[
+"Fernando Almeida",
+"GOL",
+23,
+55
+],
+[
+"Cláudio Silva",
+"LD",
+21,
+54
+],
+[
+"Carlos Santos",
+"LD",
+24,
+52
+],
+[
+"José Gomes",
+"ZAG",
+20,
+56
+],
+[
+"Júnior Batista",
+"ZAG",
+29,
+51
+],
+[
+"Ricardo Moura",
+"ZAG",
+29,
+56
+],
+[
+"Gui Silva",
+"ZAG",
+26,
+56
+],
+[
+"Gabriel Oliveira",
+"LE",
+21,
+57
+],
+[
+"Yanis da Rocha",
+"LE",
+21,
+53
+],
+[
+"Mateus Machado",
+"VOL",
+32,
+53
+],
+[
+"Roni Santos",
+"VOL",
+26,
+54
+],
+[
+"Paulinho Souza",
+"VOL",
+31,
+55
+],
+[
+"Henrique Oliveira",
+"MEI",
+22,
+56
+],
+[
+"Matheus Silva",
+"MEI",
+21,
+50
+],
+[
+"Sergio Ferreira",
+"MEI",
+21,
+56
+],
+[
+"Kevin Gomes",
+"PD",
+27,
+54
+],
+[
+"Facundo Silva",
+"PE",
+22,
+54
+],
+[
+"Carlão",
+"AC",
+39,
+60
+],
+[
+"Rodrigo Ribeiro",
+"AC",
+26,
+55
+],
+[
+"de Freitas",
+"AC",
+31,
+57
+]
+],
+"Inter de Limeira": [
+[
+"Neguete",
+"GOL",
+30,
+58
+],
+[
+"Kadu Santos",
+"GOL",
+21,
+54
+],
+[
+"Luan Oliveira",
+"GOL",
+29,
+53
+],
+[
+"Pedro Santos",
+"LD",
+33,
+52
+],
+[
+"Matheus Ribeiro",
+"LD",
+20,
+55
+],
+[
+"Alan Pereira",
+"ZAG",
+32,
+50
+],
+[
+"Rafa Rodrigues",
+"ZAG",
+33,
+56
+],
+[
+"Diogo Silva",
+"ZAG",
+30,
+55
+],
+[
+"Federico Pereira",
+"ZAG",
+25,
+51
+],
+[
+"Santiago Costa",
+"LE",
+29,
+53
+],
+[
+"Marcos Pinto",
+"LE",
+26,
+49
+],
+[
+"Matías Ferreira",
+"VOL",
+31,
+55
+],
+[
+"Rui Silva",
+"VOL",
+25,
+54
+],
+[
+"Jhonatan Lima",
+"VOL",
+21,
+54
+],
+[
+"Matheus Oliveira",
+"MEI",
+24,
+52
+],
+[
+"Adriel da Silva",
+"MEI",
+31,
+53
+],
+[
+"Ale Gomes",
+"MEI",
+30,
+51
+],
+[
+"Daniel Rodrigues",
+"PD",
+20,
+56
+],
+[
+"G. Ferreira",
+"PE",
+24,
+50
+],
+[
+"Gabriel Dias",
+"AC",
+30,
+50
+],
+[
+"Gustavo Silva",
+"AC",
+31,
+53
+],
+[
+"Juber Pereira",
+"AC",
+26,
+51
+]
+],
+"Colo Colo": [
+[
+"Brayan Cortés",
+"GOL",
+30,
+70
+],
+[
+"Fernando de Paul",
+"GOL",
+34,
+66
+],
+[
+"Eduardo Villanueva",
+"GOL",
+22,
+58
+],
+[
+"Mauricio Isla",
+"LD",
+38,
+66
+],
+[
+"Óscar Opazo",
+"LD",
+35,
+66
+],
+[
+"Jeyson Rojas",
+"LD",
+23,
+64
+],
+[
+"Emiliano Amor",
+"ZAG",
+30,
+69
+],
+[
+"Alan Saldivia",
+"ZAG",
+22,
+67
+],
+[
+"Jonathan Villagra",
+"ZAG",
+24,
+66
+],
+[
+"Sebastián Vegas",
+"ZAG",
+29,
+68
+],
+[
+"Erick Wiemberg",
+"LE",
+31,
+65
+],
+[
+"Daniel Gutiérrez",
+"LE",
+22,
+64
+],
+[
+"Arturo Vidal",
+"VOL",
+39,
+71
+],
+[
+"Esteban Pavez",
+"VOL",
+35,
+69
+],
+[
+"Víctor Felipe Méndez",
+"VOL",
+26,
+68
+],
+[
+"Tomás Alarcón",
+"VOL",
+27,
+67
+],
+[
+"Claudio Aquino",
+"MEI",
+34,
+70
+],
+[
+"Lucas Cepeda",
+"MEI",
+23,
+70
+],
+[
+"Brahim Díaz",
+"MEI",
+21,
+65
+],
+[
+"Marcos Bolados",
+"PD",
+30,
+67
+],
+[
+"Cristián Zavala",
+"PD",
+26,
+67
+],
+[
+"Francisco Marchant",
+"PE",
+25,
+64
+],
+[
+"Javier Correa",
+"AC",
+33,
+70
+],
+[
+"Salomón Rodríguez",
+"AC",
+25,
+68
+]
+],
+"Universidad de Chile": [
+[
+"Gabriel Castellón",
+"GOL",
+32,
+70
+],
+[
+"Cristopher Toselli",
+"GOL",
+37,
+64
+],
+[
+"Ignacio Sáez",
+"GOL",
+22,
+57
+],
+[
+"Franco Calderón",
+"LD",
+27,
+66
+],
+[
+"Fabián Hormazábal",
+"LD",
+29,
+67
+],
+[
+"Matías Zaldivia",
+"ZAG",
+34,
+68
+],
+[
+"Nicolás Ramírez",
+"ZAG",
+28,
+66
+],
+[
+"Franco Lobos",
+"ZAG",
+25,
+63
+],
+[
+"Felipe Salomoni",
+"ZAG",
+30,
+65
+],
+[
+"Marcelo Morales",
+"LE",
+25,
+66
+],
+[
+"Matías Sepúlveda",
+"LE",
+26,
+66
+],
+[
+"Charles Aránguiz",
+"VOL",
+37,
+70
+],
+[
+"Marcelo Díaz",
+"VOL",
+39,
+66
+],
+[
+"Israel Poblete",
+"VOL",
+30,
+67
+],
+[
+"Javier Altamirano",
+"VOL",
+26,
+67
+],
+[
+"Lucas Assadi",
+"MEI",
+22,
+71
+],
+[
+"Ignacio Vásquez",
+"MEI",
+22,
+62
+],
+[
+"Abraham Flores",
+"MEI",
+26,
+61
+],
+[
+"Leandro Fernández",
+"PD",
+34,
+68
+],
+[
+"Lucas Barrera",
+"PD",
+21,
+61
+],
+[
+"Maximiliano Guerrero",
+"PE",
+25,
+67
+],
+[
+"Lucas Di Yorio",
+"AC",
+29,
+67
+],
+[
+"Rodrigo Contreras",
+"AC",
+30,
+66
+],
+[
+"Nicolás Guerra",
+"AC",
+27,
+65
+]
+],
+"Coquimbo Unido": [
+[
+"Diego Sánchez",
+"GOL",
+38,
+66
+],
+[
+"Matías Cano",
+"GOL",
+29,
+63
+],
+[
+"Luciano Lizana",
+"GOL",
+23,
+56
+],
+[
+"Juan Cornejo",
+"LD",
+34,
+64
+],
+[
+"Elvis Hernández",
+"LD",
+28,
+63
+],
+[
+"Manuel Fernández",
+"ZAG",
+34,
+66
+],
+[
+"Dylan Glaby",
+"ZAG",
+25,
+65
+],
+[
+"Francisco Salinas",
+"ZAG",
+34,
+64
+],
+[
+"Bryan Soto",
+"ZAG",
+24,
+62
+],
+[
+"Benjamín Chandía",
+"LE",
+25,
+63
+],
+[
+"Guillermo Paiva",
+"LE",
+24,
+62
+],
+[
+"Sebastián Galani",
+"VOL",
+28,
+68
+],
+[
+"Diego Coelho",
+"VOL",
+27,
+64
+],
+[
+"Martín Lara",
+"VOL",
+24,
+63
+],
+[
+"Matías Palavecino",
+"VOL",
+28,
+66
+],
+[
+"Alejandro Camargo",
+"MEI",
+28,
+67
+],
+[
+"Andrés Chávez",
+"MEI",
+33,
+66
+],
+[
+"Vicente Álvarez",
+"MEI",
+28,
+61
+],
+[
+"Gabriel Molina",
+"PD",
+19,
+63
+],
+[
+"Francisco Pozzo",
+"PE",
+28,
+65
+],
+[
+"Cristian Bravo",
+"AC",
+25,
+64
+],
+[
+"Luciano Cabral",
+"AC",
+30,
+68
+],
+[
+"Nicolás Johansen",
+"AC",
+26,
+64
+]
+],
+"Palestino": [
+[
+"César Rigamonti",
+"GOL",
+38,
+66
+],
+[
+"Sebastián Pérez",
+"GOL",
+35,
+63
+],
+[
+"Nicolás Avellaneda",
+"GOL",
+23,
+57
+],
+[
+"Cristian Suárez",
+"LD",
+38,
+63
+],
+[
+"Ian Garguez",
+"LD",
+24,
+63
+],
+[
+"Dilan Zúñiga",
+"ZAG",
+29,
+66
+],
+[
+"Antonio Ceza",
+"ZAG",
+30,
+65
+],
+[
+"Vicente Espinoza",
+"ZAG",
+24,
+62
+],
+[
+"Iván Román",
+"ZAG",
+19,
+64
+],
+[
+"Jason León",
+"LE",
+30,
+64
+],
+[
+"Fernando Cornejo",
+"LE",
+30,
+64
+],
+[
+"Agustín Farías",
+"VOL",
+36,
+64
+],
+[
+"Nicolás Meza",
+"VOL",
+22,
+63
+],
+[
+"Martín Rodríguez",
+"VOL",
+31,
+64
+],
+[
+"Joe Abrigo",
+"VOL",
+30,
+66
+],
+[
+"Junior Marabel",
+"MEI",
+26,
+65
+],
+[
+"Ariel Martínez",
+"MEI",
+39,
+63
+],
+[
+"José Herrera",
+"MEI",
+27,
+64
+],
+[
+"Bryan Carvallo",
+"PD",
+29,
+66
+],
+[
+"Fernando Ruiz",
+"PE",
+25,
+62
+],
+[
+"Gonzalo Sosa",
+"AC",
+36,
+64
+],
+[
+"Fernando Cornejo Jr.",
+"AC",
+22,
+58
+],
+[
+"Cristian Insaurralde",
+"AC",
+33,
+63
+]
+],
+"O'Higgins": [
+[
+"Omar Carabalí",
+"GOL",
+28,
+66
+],
+[
+"Nicolás Peranic",
+"GOL",
+40,
+62
+],
+[
+"Ignacio Araya",
+"GOL",
+23,
+56
+],
+[
+"Felipe Ogaz",
+"LD",
+28,
+64
+],
+[
+"Mauricio Ramírez",
+"LD",
+26,
+62
+],
+[
+"Nicolás Garrido",
+"ZAG",
+23,
+64
+],
+[
+"Moisés González",
+"ZAG",
+30,
+64
+],
+[
+"Diego Carrasco",
+"ZAG",
+31,
+63
+],
+[
+"Bastián Yáñez",
+"ZAG",
+24,
+63
+],
+[
+"Juan Fuentes",
+"LE",
+28,
+63
+],
+[
+"Leandro Garate",
+"LE",
+22,
+60
+],
+[
+"Bryan Rabello",
+"VOL",
+31,
+66
+],
+[
+"Felipe Faúndez",
+"VOL",
+23,
+63
+],
+[
+"Martín Sarrafiore",
+"VOL",
+28,
+65
+],
+[
+"Thomas Galdames",
+"VOL",
+27,
+63
+],
+[
+"Arnaldo Castillo",
+"MEI",
+26,
+64
+],
+[
+"Joaquín Tapia",
+"MEI",
+21,
+61
+],
+[
+"Rodrigo Tapia",
+"MEI",
+21,
+59
+],
+[
+"Francisco González",
+"PD",
+25,
+66
+],
+[
+"Wilber Hurtado",
+"PE",
+27,
+61
+],
+[
+"Facundo Castro",
+"AC",
+30,
+65
+],
+[
+"Ignacio Jeraldino",
+"AC",
+30,
+63
+],
+[
+"Matías Catalán",
+"AC",
+28,
+62
+]
+],
+"Audax Italiano": [
+[
+"Tomás Ahumada",
+"GOL",
+26,
+64
+],
+[
+"Joaquín Muñoz",
+"GOL",
+33,
+60
+],
+[
+"Rodrigo Cancino",
+"GOL",
+22,
+55
+],
+[
+"Oliver Rojas",
+"LD",
+28,
+63
+],
+[
+"Tomás Rojas",
+"LD",
+22,
+60
+],
+[
+"Nicolás Fernández",
+"ZAG",
+26,
+64
+],
+[
+"Daniel Piña",
+"ZAG",
+24,
+62
+],
+[
+"Esteban Matus",
+"ZAG",
+22,
+61
+],
+[
+"Gonzalo Garrido",
+"ZAG",
+26,
+61
+],
+[
+"Marcos Peña",
+"LE",
+24,
+60
+],
+[
+"Marcelo Flores",
+"LE",
+21,
+60
+],
+[
+"Michael Fuentes",
+"VOL",
+26,
+64
+],
+[
+"Javier Méndez",
+"VOL",
+24,
+62
+],
+[
+"Gonzalo Collao",
+"VOL",
+28,
+63
+],
+[
+"Hernán Muñoz",
+"VOL",
+30,
+61
+],
+[
+"Leonardo Valencia",
+"MEI",
+34,
+66
+],
+[
+"Matías Campos López",
+"MEI",
+34,
+64
+],
+[
+"Alan Gómez",
+"MEI",
+21,
+58
+],
+[
+"Lautaro Palacios",
+"PD",
+31,
+64
+],
+[
+"Marco Collao",
+"PE",
+23,
+61
+],
+[
+"Sebastián Sáez",
+"AC",
+40,
+63
+],
+[
+"Lucas Passerini",
+"AC",
+30,
+63
+],
+[
+"Ignacio Dellafiori",
+"AC",
+21,
+58
+]
+],
+"Huachipato": [
+[
+"Rodrigo Odriozola",
+"GOL",
+26,
+64
+],
+[
+"Christian Bravo",
+"GOL",
+24,
+56
+],
+[
+"Daykol Romero",
+"GOL",
+25,
+56
+],
+[
+"Nicolás Vargas",
+"LD",
+28,
+63
+],
+[
+"Ignacio Mesías",
+"LD",
+26,
+63
+],
+[
+"Rafael Caroca",
+"ZAG",
+36,
+63
+],
+[
+"Mauricio Sepúlveda",
+"ZAG",
+24,
+64
+],
+[
+"Renzo Malanca",
+"ZAG",
+28,
+63
+],
+[
+"Benjamín Gazzolo",
+"ZAG",
+26,
+62
+],
+[
+"Joaquín Gutiérrez",
+"LE",
+22,
+62
+],
+[
+"Tomás Montero",
+"LE",
+23,
+59
+],
+[
+"Claudio Sepúlveda",
+"VOL",
+33,
+63
+],
+[
+"Santiago Silva",
+"VOL",
+22,
+61
+],
+[
+"Jimmy Martínez",
+"VOL",
+28,
+63
+],
+[
+"Cristián Moreno",
+"VOL",
+30,
+61
+],
+[
+"Julián Brea",
+"MEI",
+25,
+64
+],
+[
+"Thyago Ayala",
+"MEI",
+31,
+55
+],
+[
+"Royner Benítez",
+"MEI",
+28,
+59
+],
+[
+"Maximiliano Rodríguez",
+"PD",
+25,
+63
+],
+[
+"Lionel Altamirano",
+"PE",
+24,
+63
+],
+[
+"Cris Martínez",
+"AC",
+32,
+65
+],
+[
+"Mauricio Morales",
+"AC",
+22,
+60
+],
+[
+"Matías Sanhueza",
+"AC",
+23,
+58
+]
+],
+"Chilean Primera División|Everton": [
+[
+"Ignacio González",
+"GOL",
+36,
+63
+],
+[
+"Franco Díaz",
+"GOL",
+30,
+59
+],
+[
+"Javier Ortíz",
+"GOL",
+20,
+54
+],
+[
+"E. Fernandez",
+"LD",
+32,
+56
+],
+[
+"Pedro Rodríguez",
+"LD",
+21,
+59
+],
+[
+"Ramiro González",
+"ZAG",
+30,
+62
+],
+[
+"Luka Romero",
+"ZAG",
+26,
+59
+],
+[
+"Andrés Salazar",
+"ZAG",
+29,
+57
+],
+[
+"Nibiri Martinez",
+"ZAG",
+23,
+61
+],
+[
+"Benjamín Berríos",
+"LE",
+26,
+61
+],
+[
+"Adrien Pérez",
+"LE",
+29,
+57
+],
+[
+"Cristian Palacios",
+"VOL",
+31,
+62
+],
+[
+"Yunior Pérez",
+"VOL",
+19,
+59
+],
+[
+"Jan Ángulo",
+"VOL",
+26,
+60
+],
+[
+"Aarón Romero",
+"MEI",
+33,
+59
+],
+[
+"Rony Martínez",
+"MEI",
+31,
+57
+],
+[
+"Rubén Rojas",
+"MEI",
+28,
+56
+],
+[
+"Deyron Martínez",
+"PD",
+21,
+61
+],
+[
+"Carlos Rojas",
+"PE",
+31,
+57
+],
+[
+"Rodrigo Holgado",
+"AC",
+30,
+62
+],
+[
+"Hugo Rios",
+"AC",
+23,
+55
+],
+[
+"Valen Gómez",
+"AC",
+23,
+61
+]
+],
+"Cobresal": [
+[
+"Hugo Araya",
+"GOL",
+24,
+58
+],
+[
+"Rodolfo Pizarro",
+"GOL",
+22,
+53
+],
+[
+"Jordan Flores",
+"GOL",
+33,
+57
+],
+[
+"Diego Céspedes",
+"LD",
+30,
+62
+],
+[
+"Christian Moreno",
+"LD",
+27,
+61
+],
+[
+"Franco Bechtholdt",
+"ZAG",
+31,
+63
+],
+[
+"Esteban Valencia",
+"ZAG",
+26,
+61
+],
+[
+"Guillermo Pacheco",
+"ZAG",
+26,
+61
+],
+[
+"Yanniel Hernández",
+"ZAG",
+28,
+57
+],
+[
+"Aaron Astudillo",
+"LE",
+26,
+62
+],
+[
+"Fran García",
+"LE",
+28,
+55
+],
+[
+"Javier Parraguez",
+"VOL",
+30,
+61
+],
+[
+"Cristian Cuevas",
+"VOL",
+30,
+61
+],
+[
+"Christian Herrera",
+"VOL",
+30,
+56
+],
+[
+"Steffan Pino",
+"MEI",
+23,
+62
+],
+[
+"Juan Moreno",
+"MEI",
+26,
+57
+],
+[
+"Daniel Flores",
+"MEI",
+25,
+57
+],
+[
+"Keny Gonzalez",
+"PD",
+31,
+54
+],
+[
+"Iván Ledezma",
+"PE",
+29,
+61
+],
+[
+"Gonzalo Montes",
+"AC",
+30,
+63
+],
+[
+"Diego Ruiz",
+"AC",
+25,
+60
+],
+[
+"Thomas Franco",
+"AC",
+29,
+60
+]
+],
+"Chilean Primera División|Unión": [
+[
+"Alberto López",
+"GOL",
+20,
+52
+],
+[
+"Federico Bravo",
+"GOL",
+27,
+56
+],
+[
+"Josele Martínez",
+"GOL",
+19,
+59
+],
+[
+"Isaac González",
+"LD",
+26,
+56
+],
+[
+"Gerson Torres",
+"LD",
+19,
+54
+],
+[
+"Ignacio Saavedra",
+"ZAG",
+26,
+60
+],
+[
+"Ayrtton López",
+"ZAG",
+28,
+55
+],
+[
+"Hugh Martin",
+"ZAG",
+31,
+53
+],
+[
+"Federico Castro",
+"ZAG",
+29,
+57
+],
+[
+"Alexis Rojas",
+"LE",
+31,
+55
+],
+[
+"Junior Paredes",
+"LE",
+27,
+56
+],
+[
+"Bastián Tapia",
+"VOL",
+22,
+60
+],
+[
+"Gastón Suarez",
+"VOL",
+28,
+57
+],
+[
+"Sebastián López",
+"VOL",
+26,
+58
+],
+[
+"Agus Medina",
+"MEI",
+32,
+58
+],
+[
+"Rafa Ortiz",
+"MEI",
+33,
+53
+],
+[
+"Diego Villalba",
+"MEI",
+21,
+57
+],
+[
+"Duván Zapata",
+"PD",
+24,
+52
+],
+[
+"Kenji Cabrera",
+"PE",
+27,
+57
+],
+[
+"Erick Sánchez",
+"AC",
+20,
+58
+],
+[
+"José Ángel Ayala",
+"AC",
+30,
+58
+],
+[
+"Marcel Céspedes",
+"AC",
+30,
+58
+]
+],
+"Ñublense": [
+[
+"Nicola Pérez",
+"GOL",
+34,
+63
+],
+[
+"Esteban Rodríguez",
+"GOL",
+29,
+52
+],
+[
+"Gonzalo Medina",
+"GOL",
+25,
+58
+],
+[
+"Jovany Campusano",
+"LD",
+27,
+61
+],
+[
+"Jonathan Pérez",
+"LD",
+33,
+58
+],
+[
+"Juan Pablo Gómez",
+"ZAG",
+34,
+62
+],
+[
+"Simón Contreras",
+"ZAG",
+24,
+59
+],
+[
+"Maximiliano Núñez",
+"ZAG",
+24,
+54
+],
+[
+"Luis Riveros",
+"ZAG",
+31,
+58
+],
+[
+"Valentín Vidal",
+"LE",
+25,
+60
+],
+[
+"Lorenzo Reyes",
+"LE",
+34,
+60
+],
+[
+"Bayron Oyarzo",
+"VOL",
+30,
+62
+],
+[
+"Nahuel Molina",
+"VOL",
+22,
+51
+],
+[
+"Ariel Castro",
+"VOL",
+28,
+58
+],
+[
+"Patricio Rubio",
+"MEI",
+36,
+61
+],
+[
+"Dagner Quintero",
+"MEI",
+32,
+57
+],
+[
+"Joel Medina",
+"MEI",
+29,
+58
+],
+[
+"Yerco Oyanedel",
+"PD",
+26,
+60
+],
+[
+"Lucas Vera",
+"PE",
+31,
+55
+],
+[
+"Bernardo Cerezo",
+"AC",
+27,
+60
+],
+[
+"Víctor Dávila",
+"AC",
+27,
+61
+],
+[
+"Víctor López",
+"AC",
+29,
+57
+]
+],
+"Deportes Iquique": [
+[
+"Matías Ayala",
+"GOL",
+28,
+57
+],
+[
+"Edmilson Angulo",
+"GOL",
+30,
+55
+],
+[
+"Joselu Pérez",
+"GOL",
+29,
+51
+],
+[
+"Jair Céspedes",
+"LD",
+25,
+54
+],
+[
+"Javier González",
+"LD",
+22,
+52
+],
+[
+"Diego Orellana",
+"ZAG",
+29,
+61
+],
+[
+"Hans Salinas",
+"ZAG",
+34,
+60
+],
+[
+"Nendali Mendoza",
+"ZAG",
+22,
+56
+],
+[
+"Davinson Sánchez",
+"ZAG",
+31,
+52
+],
+[
+"Matías Blázquez",
+"LE",
+24,
+58
+],
+[
+"Ignacio Gómez",
+"LE",
+32,
+54
+],
+[
+"Rodrigo Herrera",
+"VOL",
+28,
+57
+],
+[
+"Roger Hernández",
+"VOL",
+22,
+52
+],
+[
+"Kevin Castro",
+"VOL",
+19,
+56
+],
+[
+"Álvaro Ramos",
+"MEI",
+33,
+61
+],
+[
+"Misael Llantén",
+"MEI",
+24,
+59
+],
+[
+"Aieko Ortiz",
+"MEI",
+24,
+53
+],
+[
+"Lorenzo González",
+"PD",
+27,
+54
+],
+[
+"Wille Nuñez",
+"PE",
+28,
+51
+],
+[
+"Alejandro Sánchez",
+"AC",
+29,
+51
+],
+[
+"Simón Ramírez",
+"AC",
+28,
+50
+],
+[
+"Adam Bareiro",
+"AC",
+32,
+53
+]
+],
+"Deportes Limache": [
+[
+"Martín Parra",
+"GOL",
+26,
+60
+],
+[
+"Ronnie Fernández",
+"GOL",
+29,
+56
+],
+[
+"Facundo Álvarez",
+"GOL",
+23,
+55
+],
+[
+"Felipe Fritz",
+"LD",
+27,
+58
+],
+[
+"Dilan Rojas",
+"LD",
+30,
+54
+],
+[
+"Daniel Castro",
+"ZAG",
+30,
+59
+],
+[
+"Cristóbal Muñoz",
+"ZAG",
+28,
+58
+],
+[
+"Javier Rojas",
+"ZAG",
+29,
+57
+],
+[
+"Ethan López",
+"ZAG",
+31,
+55
+],
+[
+"Matías Pinto",
+"LE",
+26,
+56
+],
+[
+"Andersson Ortiz",
+"LE",
+19,
+51
+],
+[
+"Juan Leiva",
+"VOL",
+32,
+58
+],
+[
+"Agustín Nadruz",
+"VOL",
+30,
+59
+],
+[
+"Ignacio Rodríguez",
+"VOL",
+27,
+57
+],
+[
+"Daniel Pérez",
+"MEI",
+24,
+57
+],
+[
+"Aldair Rodríguez",
+"MEI",
+21,
+55
+],
+[
+"Aitor López",
+"MEI",
+32,
+52
+],
+[
+"Pablo Aránguiz",
+"PD",
+28,
+58
+],
+[
+"Joaquín Silva",
+"PE",
+23,
+56
+],
+[
+"Pablo Campos",
+"AC",
+32,
+52
+],
+[
+"Braian Ramírez",
+"AC",
+32,
+51
+],
+[
+"Andrés Mendoza",
+"AC",
+23,
+55
+]
+],
+"Dep. La Serena": [
+[
+"Pablo Ruiz",
+"GOL",
+25,
+53
+],
+[
+"Jimmy Álvarez",
+"GOL",
+29,
+50
+],
+[
+"Tito Angulo",
+"GOL",
+32,
+50
+],
+[
+"Bastián Roco",
+"LD",
+22,
+58
+],
+[
+"Diego González",
+"LD",
+29,
+57
+],
+[
+"Francisco Alarcón",
+"ZAG",
+34,
+58
+],
+[
+"Leandro Díaz",
+"ZAG",
+27,
+56
+],
+[
+"M. Guerrero",
+"ZAG",
+19,
+48
+],
+[
+"Franyer Contreras",
+"ZAG",
+24,
+55
+],
+[
+"Matías Marín",
+"LE",
+22,
+56
+],
+[
+"Nicolás Palma",
+"LE",
+23,
+56
+],
+[
+"Emiliano Ramos",
+"VOL",
+28,
+59
+],
+[
+"P. Delgado",
+"VOL",
+26,
+52
+],
+[
+"Diogo Vásquez",
+"VOL",
+19,
+50
+],
+[
+"Felipe Chamorro",
+"MEI",
+24,
+58
+],
+[
+"Leonardo Monje",
+"MEI",
+33,
+58
+],
+[
+"Rotceh Aguilar",
+"MEI",
+31,
+53
+],
+[
+"Bryan Taiva",
+"PD",
+23,
+57
+],
+[
+"Ulises Sánchez",
+"PE",
+32,
+48
+],
+[
+"Elías Romero",
+"AC",
+27,
+52
+],
+[
+"Pascual Ramírez",
+"AC",
+21,
+52
+],
+[
+"Carlos Caicedo",
+"AC",
+29,
+54
+]
+],
+"Atlético Nacional": [
+[
+"David Ospina",
+"GOL",
+38,
+70
+],
+[
+"Harlen Castillo",
+"GOL",
+28,
+64
+],
+[
+"Kevin Cataño",
+"GOL",
+25,
+58
+],
+[
+"Andrés Román",
+"LD",
+30,
+69
+],
+[
+"Simón García",
+"LD",
+25,
+66
+],
+[
+"William Tesillo",
+"ZAG",
+36,
+67
+],
+[
+"Juan Jose Arias",
+"ZAG",
+24,
+67
+],
+[
+"Cristian Zapata",
+"ZAG",
+26,
+64
+],
+[
+"Juan Felipe Aguirre",
+"ZAG",
+23,
+63
+],
+[
+"Joan Castro",
+"LE",
+24,
+66
+],
+[
+"Juan Pablo Torres",
+"LE",
+26,
+64
+],
+[
+"Jorman Campuzano",
+"VOL",
+29,
+69
+],
+[
+"Matheus Uribe",
+"VOL",
+35,
+69
+],
+[
+"Juan Manuel Zapata",
+"VOL",
+22,
+63
+],
+[
+"Edwin Cardona",
+"VOL",
+33,
+70
+],
+[
+"Marino Hinestroza",
+"MEI",
+23,
+70
+],
+[
+"Alfredo Morelos",
+"MEI",
+30,
+70
+],
+[
+"Francisco Ramos",
+"MEI",
+21,
+67
+],
+[
+"Kevin Viveros",
+"PD",
+24,
+67
+],
+[
+"Nelson Deossa",
+"PD",
+26,
+67
+],
+[
+"Andrés Sarmiento",
+"PE",
+27,
+66
+],
+[
+"Dorlan Pabón",
+"AC",
+37,
+66
+],
+[
+"Cristian Barrios",
+"AC",
+27,
+64
+],
+[
+"Guiu Escobar",
+"AC",
+22,
+64
+]
+],
+"Millonarios": [
+[
+"Diego Novoa",
+"GOL",
+36,
+65
+],
+[
+"Álvaro Montero",
+"GOL",
+31,
+72
+],
+[
+"Oldemar Castillo",
+"GOL",
+21,
+60
+],
+[
+"Daniel Ruiz",
+"LD",
+24,
+66
+],
+[
+"Sebastián Valencia",
+"LD",
+25,
+64
+],
+[
+"Andrés Llinás",
+"ZAG",
+28,
+67
+],
+[
+"Jorge Arias",
+"ZAG",
+32,
+64
+],
+[
+"Juan Pablo Vargas",
+"ZAG",
+30,
+67
+],
+[
+"Danovis Banguero",
+"ZAG",
+36,
+62
+],
+[
+"Jhojan Torres",
+"LE",
+23,
+64
+],
+[
+"Omar Bertel",
+"LE",
+26,
+64
+],
+[
+"Mackalister Silva",
+"VOL",
+32,
+68
+],
+[
+"Daniel Cataño",
+"VOL",
+33,
+65
+],
+[
+"David Mackalister Silva",
+"VOL",
+32,
+66
+],
+[
+"Dewar Victoria",
+"VOL",
+26,
+64
+],
+[
+"Leonardo Castro",
+"MEI",
+33,
+67
+],
+[
+"Rodrigo Ureña",
+"MEI",
+32,
+65
+],
+[
+"Nono Gómez",
+"MEI",
+23,
+63
+],
+[
+"Beckham Castro",
+"PD",
+22,
+66
+],
+[
+"Jorge Hurtado",
+"PE",
+32,
+64
+],
+[
+"Radamel Falcao García",
+"AC",
+40,
+68
+],
+[
+"Santiago Giordana",
+"AC",
+30,
+66
+],
+[
+"Jáider Riquett",
+"AC",
+21,
+61
+]
+],
+"Junior": [
+[
+"Mauricio Cuero",
+"GOL",
+22,
+62
+],
+[
+"Santiago Mele",
+"GOL",
+28,
+68
+],
+[
+"Jefersson Martínez",
+"GOL",
+31,
+62
+],
+[
+"Edwin Herrera",
+"LD",
+27,
+65
+],
+[
+"Jhomier Guerrero",
+"LD",
+23,
+62
+],
+[
+"Jermein Peña",
+"ZAG",
+26,
+66
+],
+[
+"Daniel Rivera",
+"ZAG",
+29,
+64
+],
+[
+"Lucas Monzón",
+"ZAG",
+23,
+63
+],
+[
+"Javier Báez",
+"ZAG",
+32,
+63
+],
+[
+"Yairo Moreno",
+"LE",
+30,
+66
+],
+[
+"Nicolás Mantilla",
+"LE",
+22,
+62
+],
+[
+"Didier Moreno",
+"VOL",
+34,
+66
+],
+[
+"José Enamorado",
+"VOL",
+26,
+68
+],
+[
+"Yimmi Chará",
+"VOL",
+35,
+66
+],
+[
+"Bryan Castrillón",
+"VOL",
+26,
+65
+],
+[
+"Fabián Ángel",
+"MEI",
+23,
+64
+],
+[
+"Guillermo Celis",
+"MEI",
+32,
+65
+],
+[
+"Sebastián Molina",
+"MEI",
+20,
+59
+],
+[
+"Ramiro Martínez",
+"PD",
+26,
+61
+],
+[
+"Kevin Pérez",
+"PE",
+23,
+62
+],
+[
+"Carlos Bacca",
+"AC",
+39,
+67
+],
+[
+"Teófilo Gutiérrez",
+"AC",
+41,
+64
+],
+[
+"Steven Rodríguez",
+"AC",
+21,
+61
+]
+],
+"América de Cali": [
+[
+"Jorge Soto",
+"GOL",
+39,
+64
+],
+[
+"Joel Graterol",
+"GOL",
+28,
+67
+],
+[
+"Royner Rojas",
+"GOL",
+31,
+59
+],
+[
+"Juan Pablo Segovia",
+"LD",
+23,
+64
+],
+[
+"Marlon Torres",
+"LD",
+29,
+64
+],
+[
+"Kevin Andrade",
+"ZAG",
+28,
+66
+],
+[
+"Andrés Mosquera Marmolejo",
+"ZAG",
+32,
+63
+],
+[
+"Manuel Rentería",
+"ZAG",
+25,
+62
+],
+[
+"Iván Scarpeta",
+"ZAG",
+26,
+63
+],
+[
+"Cristian Tovar",
+"LE",
+27,
+64
+],
+[
+"Fabián Viáfara",
+"LE",
+24,
+62
+],
+[
+"Rafael Carrascal",
+"VOL",
+33,
+66
+],
+[
+"Juan Portilla",
+"VOL",
+27,
+64
+],
+[
+"Carlos Andrés Sierra",
+"VOL",
+34,
+64
+],
+[
+"Josen Escobar",
+"VOL",
+22,
+63
+],
+[
+"Guillaume Lopez",
+"MEI",
+23,
+62
+],
+[
+"Richard Martínez",
+"MEI",
+29,
+59
+],
+[
+"José Álvarez",
+"MEI",
+19,
+60
+],
+[
+"Jan Carlos Vargas",
+"PD",
+25,
+63
+],
+[
+"Daniel Valencia",
+"PE",
+26,
+62
+],
+[
+"Adrián Ramos",
+"AC",
+40,
+64
+],
+[
+"Luis Ramos",
+"AC",
+27,
+64
+],
+[
+"Tomás Ángel",
+"AC",
+22,
+62
+]
+],
+"Deportes Tolima": [
+[
+"Neto Volpi",
+"GOL",
+33,
+66
+],
+[
+"Alexander Domínguez",
+"GOL",
+38,
+62
+],
+[
+"William Cuesta",
+"GOL",
+30,
+60
+],
+[
+"Junior Hernández",
+"LD",
+30,
+64
+],
+[
+"Brayan Gómez",
+"LD",
+26,
+62
+],
+[
+"Anderson Angulo",
+"ZAG",
+28,
+64
+],
+[
+"Hernán Pertuz",
+"ZAG",
+24,
+62
+],
+[
+"Kevin Rendón",
+"ZAG",
+29,
+62
+],
+[
+"Julián Quiñones",
+"ZAG",
+28,
+61
+],
+[
+"Jeison Angulo",
+"LE",
+29,
+63
+],
+[
+"Dánnovi Quiñónes",
+"LE",
+26,
+60
+],
+[
+"Juan Pablo Nieto",
+"VOL",
+31,
+64
+],
+[
+"Brayan Rovira",
+"VOL",
+29,
+64
+],
+[
+"Juan David Ríos",
+"VOL",
+31,
+62
+],
+[
+"Yhormar Hurtado",
+"MEI",
+25,
+64
+],
+[
+"Cristian Trujillo",
+"MEI",
+25,
+63
+],
+[
+"Javi Ramírez",
+"MEI",
+24,
+58
+],
+[
+"Jersson González",
+"PD",
+27,
+63
+],
+[
+"Johan Caballero",
+"PE",
+28,
+62
+],
+[
+"Yesid Sierra",
+"AC",
+27,
+61
+],
+[
+"Juan Guerrero",
+"AC",
+24,
+57
+],
+[
+"Gerson López",
+"AC",
+26,
+59
+]
+],
+"Primera A|Independiente": [
+[
+"Eder Chaux",
+"GOL",
+33,
+63
+],
+[
+"Jorge González",
+"GOL",
+21,
+61
+],
+[
+"Jhonny González",
+"GOL",
+32,
+56
+],
+[
+"Daniel Londoño",
+"LD",
+29,
+62
+],
+[
+"Jhon Palacios",
+"LD",
+29,
+60
+],
+[
+"Felipe Aguilar",
+"ZAG",
+33,
+63
+],
+[
+"Chema Núñez",
+"ZAG",
+33,
+63
+],
+[
+"Axel Herrera",
+"ZAG",
+20,
+61
+],
+[
+"Darwin Núñez",
+"ZAG",
+19,
+62
+],
+[
+"Cobel Sow García",
+"LE",
+26,
+61
+],
+[
+"Sergio Fernández",
+"LE",
+28,
+58
+],
+[
+"Daniel Torres",
+"VOL",
+36,
+63
+],
+[
+"Gabriel Báez",
+"VOL",
+32,
+60
+],
+[
+"Jean Martínez",
+"VOL",
+29,
+60
+],
+[
+"Baldomero Perlaza",
+"MEI",
+33,
+63
+],
+[
+"Joaquín Soto",
+"MEI",
+32,
+61
+],
+[
+"Emmanuel Sánchez",
+"MEI",
+32,
+60
+],
+[
+"Hiram Muñoz",
+"PD",
+26,
+56
+],
+[
+"Jader Quiñónes",
+"PE",
+30,
+58
+],
+[
+"Luciano Pons",
+"AC",
+34,
+63
+],
+[
+"Tomás Palacios",
+"AC",
+22,
+57
+],
+[
+"Illian Hernández",
+"AC",
+27,
+63
+]
+],
+"Indep. Santa Fe": [
+[
+"Andrés Mosquera",
+"GOL",
+33,
+66
+],
+[
+"Juan Daniel Castellanos",
+"GOL",
+26,
+58
+],
+[
+"Federico Aguerre",
+"GOL",
+30,
+63
+],
+[
+"Elvis Perlaza",
+"LD",
+36,
+63
+],
+[
+"Christian Mafla",
+"LD",
+32,
+62
+],
+[
+"Emanuel Olivera",
+"ZAG",
+34,
+64
+],
+[
+"Víctor Moreno",
+"ZAG",
+29,
+63
+],
+[
+"Juan Pablo Castro",
+"ZAG",
+22,
+60
+],
+[
+"Edu González",
+"ZAG",
+26,
+60
+],
+[
+"Andrés Felipe Ramos",
+"LE",
+25,
+62
+],
+[
+"Edwin Mosquera",
+"LE",
+23,
+61
+],
+[
+"Kilian Toscano",
+"VOL",
+24,
+64
+],
+[
+"Fabián Sambueza",
+"VOL",
+37,
+65
+],
+[
+"Hugo Rodallega",
+"VOL",
+41,
+64
+],
+[
+"Omar Fernández",
+"MEI",
+32,
+64
+],
+[
+"Ewil Murillo",
+"MEI",
+25,
+62
+],
+[
+"Ulices Delgado",
+"MEI",
+21,
+59
+],
+[
+"Harold Rivera",
+"PD",
+30,
+63
+],
+[
+"Axl Ríos",
+"PE",
+28,
+62
+],
+[
+"Franco Fagúndez",
+"AC",
+24,
+61
+],
+[
+"David Torres",
+"AC",
+29,
+62
+],
+[
+"Leomar Mosquera",
+"AC",
+22,
+57
+]
+],
+"Once Caldas": [
+[
+"James Aguirre",
+"GOL",
+34,
+64
+],
+[
+"Juan Felipe Pérez",
+"GOL",
+26,
+58
+],
+[
+"Juan Camilo Zapata",
+"GOL",
+23,
+54
+],
+[
+"Mateo Zuleta",
+"LD",
+23,
+62
+],
+[
+"Jorge Cabezas",
+"LD",
+32,
+62
+],
+[
+"Juan Camilo Castillo",
+"ZAG",
+24,
+62
+],
+[
+"Jorge Cabezas Hurtado",
+"ZAG",
+26,
+60
+],
+[
+"Juan Diego Castillo",
+"ZAG",
+24,
+61
+],
+[
+"Luis Mosquera",
+"ZAG",
+27,
+61
+],
+[
+"Kevin Cuesta",
+"LE",
+31,
+61
+],
+[
+"Jorge Bermúdez",
+"LE",
+23,
+60
+],
+[
+"Sebastián Guzmán",
+"VOL",
+25,
+62
+],
+[
+"Jhon Ruiz",
+"VOL",
+25,
+62
+],
+[
+"Juan Diego Pérez",
+"VOL",
+26,
+60
+],
+[
+"Mateo García",
+"VOL",
+25,
+63
+],
+[
+"Michael Barrios",
+"MEI",
+33,
+64
+],
+[
+"Kevin Ruiz",
+"MEI",
+26,
+61
+],
+[
+"Nicolás Rojas",
+"MEI",
+30,
+62
+],
+[
+"Paolo Romero",
+"PD",
+23,
+55
+],
+[
+"Dayro Moreno",
+"PE",
+40,
+66
+],
+[
+"Juan Diego Gómez",
+"AC",
+24,
+59
+],
+[
+"Raul García",
+"AC",
+19,
+60
+],
+[
+"Brahian Fernández",
+"AC",
+32,
+55
+]
+],
+"Deportivo Cali": [
+[
+"Humberto Acevedo",
+"GOL",
+25,
+62
+],
+[
+"Alejandro Rodríguez",
+"GOL",
+29,
+61
+],
+[
+"Guillermo de Amores",
+"GOL",
+31,
+64
+],
+[
+"Marcos Mina",
+"LD",
+27,
+61
+],
+[
+"Gustavo Torres",
+"LD",
+26,
+60
+],
+[
+"Daniel Moreno",
+"ZAG",
+25,
+62
+],
+[
+"Germán Mera",
+"ZAG",
+34,
+62
+],
+[
+"Jhon Vásquez",
+"ZAG",
+24,
+61
+],
+[
+"José Suárez",
+"ZAG",
+23,
+61
+],
+[
+"Mauricio Arias",
+"LE",
+27,
+60
+],
+[
+"Fáiner Torijano",
+"LE",
+23,
+60
+],
+[
+"Juan Daniel Roa",
+"VOL",
+33,
+63
+],
+[
+"Mateo Castillo",
+"VOL",
+26,
+61
+],
+[
+"Harold Santiago Mosquera",
+"VOL",
+30,
+62
+],
+[
+"Andrés Felipe Colorado",
+"VOL",
+27,
+62
+],
+[
+"Saúl Torres",
+"MEI",
+24,
+57
+],
+[
+"Facundo García",
+"MEI",
+27,
+58
+],
+[
+"Kevin Ray Mendoza",
+"MEI",
+28,
+61
+],
+[
+"Vinicio Muñoz",
+"PD",
+29,
+56
+],
+[
+"Avimiled Rivas",
+"PE",
+28,
+61
+],
+[
+"Juan Ignacio Dinenno",
+"AC",
+31,
+64
+],
+[
+"Kener González",
+"AC",
+25,
+60
+],
+[
+"Facundo Suárez",
+"AC",
+25,
+59
+]
+],
+"Atl. Bucaramanga": [
+[
+"Aldair Quintana",
+"GOL",
+31,
+66
+],
+[
+"Luis Erney Vásquez",
+"GOL",
+28,
+59
+],
+[
+"Jhon Pinillos",
+"GOL",
+25,
+55
+],
+[
+"Carlos Romaña",
+"LD",
+26,
+63
+],
+[
+"Freddy Hinestroza",
+"LD",
+36,
+62
+],
+[
+"Jefferson Mena",
+"ZAG",
+36,
+63
+],
+[
+"Aldair Gutiérrez",
+"ZAG",
+32,
+63
+],
+[
+"Carlos Henao",
+"ZAG",
+29,
+63
+],
+[
+"Andrés Mosquera Gil",
+"ZAG",
+26,
+61
+],
+[
+"Jhon Hinestroza",
+"LE",
+22,
+61
+],
+[
+"Jefry Zapata",
+"LE",
+26,
+61
+],
+[
+"Leonardo Flores",
+"VOL",
+28,
+63
+],
+[
+"Gustavo Charrupí",
+"VOL",
+25,
+62
+],
+[
+"Ulises Giménez",
+"VOL",
+29,
+61
+],
+[
+"Kevin Londoño",
+"MEI",
+25,
+60
+],
+[
+"Abyair Torres",
+"MEI",
+29,
+56
+],
+[
+"Carlo García",
+"MEI",
+25,
+57
+],
+[
+"Fredy Hinestroza",
+"PD",
+37,
+61
+],
+[
+"Junior Martinez",
+"PE",
+32,
+61
+],
+[
+"Leonardo Flores Soto",
+"AC",
+28,
+61
+],
+[
+"Jhonny Vásquez",
+"AC",
+24,
+59
+],
+[
+"Jhon Sánchez",
+"AC",
+29,
+55
+]
+],
+"Deportivo Pereira": [
+[
+"Salvador Ichazo",
+"GOL",
+33,
+63
+],
+[
+"Marcos Moreno",
+"GOL",
+31,
+53
+],
+[
+"Joao Rojas",
+"GOL",
+28,
+57
+],
+[
+"Jhonny Mosquera",
+"LD",
+26,
+60
+],
+[
+"Arley Rodríguez",
+"LD",
+33,
+61
+],
+[
+"Walmer Pacheco",
+"ZAG",
+25,
+60
+],
+[
+"Danny Rosero",
+"ZAG",
+29,
+60
+],
+[
+"Juan José Mezú",
+"ZAG",
+28,
+60
+],
+[
+"Mauricio Castaño",
+"ZAG",
+26,
+59
+],
+[
+"Johan Arango",
+"LE",
+33,
+60
+],
+[
+"Jean Pineda",
+"LE",
+30,
+60
+],
+[
+"Kevin Mier",
+"VOL",
+25,
+61
+],
+[
+"Ánderson Plata",
+"VOL",
+35,
+60
+],
+[
+"Carlos Ramírez",
+"VOL",
+30,
+60
+],
+[
+"Leyser Chaverra",
+"MEI",
+25,
+60
+],
+[
+"Jean Carlos Pineda",
+"MEI",
+30,
+60
+],
+[
+"Lalo Hernández",
+"MEI",
+21,
+59
+],
+[
+"Ángelo Rodríguez",
+"PD",
+36,
+61
+],
+[
+"Juan David Cuesta",
+"PE",
+24,
+58
+],
+[
+"Carlos Darwin Quintero",
+"AC",
+37,
+62
+],
+[
+"Sebastián Rodríguez",
+"AC",
+23,
+57
+],
+[
+"Ronaldo Martínez",
+"AC",
+27,
+57
+]
+],
+"Alianza": [
+[
+"Andy Hernández",
+"GOL",
+21,
+52
+],
+[
+"Rolando González",
+"GOL",
+22,
+56
+],
+[
+"Antonio Soto",
+"GOL",
+20,
+55
+],
+[
+"Alberto González",
+"LD",
+26,
+52
+],
+[
+"Danilo Palacios",
+"LD",
+32,
+57
+],
+[
+"Andrés Pérez",
+"ZAG",
+29,
+58
+],
+[
+"Richard Ortiz",
+"ZAG",
+33,
+55
+],
+[
+"Ozziel Herrera",
+"ZAG",
+21,
+56
+],
+[
+"Unai Pérez",
+"ZAG",
+23,
+53
+],
+[
+"Brian García",
+"LE",
+31,
+56
+],
+[
+"Alfon González",
+"LE",
+20,
+55
+],
+[
+"Ricardo Márquez",
+"VOL",
+27,
+58
+],
+[
+"Daniel Gómez",
+"VOL",
+24,
+56
+],
+[
+"Hermes Angulo",
+"VOL",
+32,
+54
+],
+[
+"Sergio García",
+"MEI",
+27,
+53
+],
+[
+"Benjamin Martin",
+"MEI",
+25,
+55
+],
+[
+"James Rodríguez",
+"MEI",
+26,
+52
+],
+[
+"Igor Torres",
+"PD",
+30,
+55
+],
+[
+"Rudy Muñoz",
+"PE",
+19,
+52
+],
+[
+"Michael Rangel",
+"AC",
+34,
+61
+],
+[
+"Abdiel Castro",
+"AC",
+20,
+52
+],
+[
+"Jeremías Giménez",
+"AC",
+28,
+55
+]
+],
+"Águilas Doradas": [
+[
+"Joan Parra",
+"GOL",
+27,
+56
+],
+[
+"Joao Ortiz",
+"GOL",
+31,
+56
+],
+[
+"Emerson Ruíz",
+"GOL",
+23,
+52
+],
+[
+"Alexander Franco",
+"LD",
+29,
+56
+],
+[
+"Leonardo López",
+"LD",
+30,
+53
+],
+[
+"Alexis Pérez",
+"ZAG",
+32,
+60
+],
+[
+"Rafael García",
+"ZAG",
+19,
+54
+],
+[
+"Rubén Aguilar",
+"ZAG",
+19,
+59
+],
+[
+"Homali Ruiz",
+"ZAG",
+22,
+52
+],
+[
+"Iván Ramírez",
+"LE",
+32,
+54
+],
+[
+"Jefferson Rivera",
+"LE",
+19,
+59
+],
+[
+"Jesús Angulo",
+"VOL",
+20,
+54
+],
+[
+"Miguel Rodríguez",
+"VOL",
+32,
+58
+],
+[
+"Alexander Mendoza",
+"VOL",
+23,
+55
+],
+[
+"Dante Álvarez",
+"MEI",
+21,
+55
+],
+[
+"Luis Cardozo",
+"MEI",
+25,
+59
+],
+[
+"Isaac Díaz",
+"MEI",
+30,
+52
+],
+[
+"Gianni Rodríguez",
+"PD",
+22,
+59
+],
+[
+"Marco Pérez",
+"PE",
+19,
+57
+],
+[
+"Dani Herrera",
+"AC",
+27,
+59
+],
+[
+"Kevin Angulo",
+"AC",
+21,
+56
+],
+[
+"Adriel Ortíz",
+"AC",
+28,
+53
+]
+],
+"Envigado": [
+[
+"Simón Escobar",
+"GOL",
+22,
+53
+],
+[
+"Aron Rodríguez",
+"GOL",
+22,
+51
+],
+[
+"Nelson Muñoz",
+"GOL",
+32,
+53
+],
+[
+"Bryan Romero",
+"LD",
+24,
+52
+],
+[
+"Mati Castillo",
+"LD",
+29,
+52
+],
+[
+"Cruz Medina",
+"ZAG",
+25,
+56
+],
+[
+"Jhoan Martínez",
+"ZAG",
+31,
+52
+],
+[
+"Oscar González",
+"ZAG",
+29,
+56
+],
+[
+"Gonzalo Gómez",
+"ZAG",
+25,
+57
+],
+[
+"Arnau Ortiz",
+"LE",
+32,
+55
+],
+[
+"Gastón Pérez",
+"LE",
+31,
+51
+],
+[
+"Fabricio Vasquez",
+"VOL",
+26,
+52
+],
+[
+"William Molina",
+"VOL",
+23,
+52
+],
+[
+"Pablo Rodríguez",
+"VOL",
+31,
+54
+],
+[
+"Kevin Mantilla",
+"MEI",
+22,
+57
+],
+[
+"Anthony Rodriguez",
+"MEI",
+28,
+55
+],
+[
+"Roberto López",
+"MEI",
+19,
+54
+],
+[
+"Erik López",
+"PD",
+26,
+58
+],
+[
+"Wilbert Hernández",
+"PE",
+32,
+58
+],
+[
+"Duván Vergara",
+"AC",
+28,
+59
+],
+[
+"Germán Díaz",
+"AC",
+24,
+51
+],
+[
+"Derlis Rodríguez",
+"AC",
+22,
+56
+]
+],
+"Boyacá Chicó": [
+[
+"Rogerio Caicedo",
+"GOL",
+27,
+57
+],
+[
+"Santiago Mosquera",
+"GOL",
+19,
+57
+],
+[
+"Julián Fernández",
+"GOL",
+23,
+52
+],
+[
+"Matías Ruiz Díaz",
+"LD",
+27,
+54
+],
+[
+"Pau Torres",
+"LD",
+23,
+54
+],
+[
+"Walter Benítez",
+"ZAG",
+25,
+55
+],
+[
+"Lucas Ruiz",
+"ZAG",
+25,
+53
+],
+[
+"Randy Vega",
+"ZAG",
+24,
+52
+],
+[
+"Nicolás Castro",
+"ZAG",
+26,
+50
+],
+[
+"Gustavo Mendoza",
+"LE",
+20,
+53
+],
+[
+"Bruno Benítez",
+"LE",
+19,
+50
+],
+[
+"Edwar López",
+"VOL",
+28,
+57
+],
+[
+"Johan Ayala",
+"VOL",
+30,
+54
+],
+[
+"Martín Gómez",
+"VOL",
+33,
+51
+],
+[
+"Daniel Angulo",
+"MEI",
+31,
+55
+],
+[
+"Sergi García",
+"MEI",
+25,
+53
+],
+[
+"Anderson Salazar",
+"MEI",
+23,
+55
+],
+[
+"Alexander Díaz",
+"PD",
+27,
+55
+],
+[
+"Dennis Díaz",
+"PE",
+29,
+57
+],
+[
+"Bayron Garcés",
+"AC",
+28,
+58
+],
+[
+"Jeferson Castillo",
+"AC",
+26,
+53
+],
+[
+"Ale Marín",
+"AC",
+29,
+51
+]
+],
+"Llaneros": [
+[
+"Alfredo Rojas",
+"GOL",
+19,
+56
+],
+[
+"Ricardo Chávez",
+"GOL",
+32,
+53
+],
+[
+"Yerover Gómez",
+"GOL",
+33,
+54
+],
+[
+"Elías López",
+"LD",
+28,
+56
+],
+[
+"Sixto Mina",
+"LD",
+24,
+53
+],
+[
+"Enzo Cabrera",
+"ZAG",
+28,
+56
+],
+[
+"Miguel Caicedo",
+"ZAG",
+21,
+53
+],
+[
+"Francisco Álvarez",
+"ZAG",
+22,
+49
+],
+[
+"Gabriel Delgado",
+"ZAG",
+28,
+54
+],
+[
+"Emile Franco",
+"LE",
+31,
+55
+],
+[
+"Alonso Pérez",
+"LE",
+20,
+50
+],
+[
+"Edwin Velasco",
+"VOL",
+32,
+56
+],
+[
+"Williams Riveros",
+"VOL",
+25,
+51
+],
+[
+"Josué Díaz",
+"VOL",
+33,
+49
+],
+[
+"Sebastián Mendoza",
+"MEI",
+32,
+53
+],
+[
+"Carlos Hernández",
+"MEI",
+27,
+56
+],
+[
+"Alfredo García",
+"MEI",
+25,
+50
+],
+[
+"Cayetano Ruiz",
+"PD",
+26,
+54
+],
+[
+"Axel Chávez",
+"PE",
+26,
+56
+],
+[
+"Carlos Aguilar",
+"AC",
+31,
+53
+],
+[
+"Nicolás Báez",
+"AC",
+29,
+53
+],
+[
+"Antú Hernández",
+"AC",
+21,
+55
+]
+],
+"Unión Magdalena": [
+[
+"Sergio Vásquez",
+"GOL",
+24,
+49
+],
+[
+"Alexis Arias",
+"GOL",
+23,
+51
+],
+[
+"Iván Gómez",
+"GOL",
+31,
+52
+],
+[
+"Pol Fernández",
+"LD",
+28,
+54
+],
+[
+"Rodrigo Ramos",
+"LD",
+22,
+49
+],
+[
+"Antony Hernández",
+"ZAG",
+25,
+54
+],
+[
+"Franco Muñoz",
+"ZAG",
+23,
+50
+],
+[
+"Álex Campos",
+"ZAG",
+22,
+56
+],
+[
+"Nery Bareiro",
+"ZAG",
+22,
+50
+],
+[
+"Cooper Sanchez",
+"LE",
+26,
+56
+],
+[
+"Borja Martínez",
+"LE",
+27,
+56
+],
+[
+"Leonel Flores",
+"VOL",
+30,
+50
+],
+[
+"Jon Martín",
+"VOL",
+19,
+52
+],
+[
+"Jhonatan Martínez",
+"VOL",
+33,
+56
+],
+[
+"Fernando Bogado",
+"MEI",
+19,
+50
+],
+[
+"Fernando Torres",
+"MEI",
+27,
+49
+],
+[
+"Franco González",
+"MEI",
+21,
+54
+],
+[
+"Álex Rodríguez",
+"PD",
+19,
+52
+],
+[
+"Agus Moreno",
+"PE",
+20,
+56
+],
+[
+"Dani González",
+"AC",
+22,
+55
+],
+[
+"Miguel González",
+"AC",
+23,
+55
+],
+[
+"Anthony García",
+"AC",
+25,
+51
+]
+],
+"Inter Bogotá": [
+[
+"Marco Acosta",
+"GOL",
+27,
+50
+],
+[
+"Enzo Rodriguez",
+"GOL",
+26,
+54
+],
+[
+"Nicolás Medina",
+"GOL",
+30,
+49
+],
+[
+"Mateo Ramírez",
+"LD",
+26,
+48
+],
+[
+"Jorman Aguilar",
+"LD",
+29,
+53
+],
+[
+"Sergio Suárez",
+"ZAG",
+33,
+54
+],
+[
+"B. Martínez",
+"ZAG",
+20,
+49
+],
+[
+"Allan Rodríguez",
+"ZAG",
+22,
+52
+],
+[
+"Andrey Soto",
+"ZAG",
+23,
+54
+],
+[
+"Alejandro Benítez",
+"LE",
+30,
+50
+],
+[
+"Cristian Mendoza",
+"LE",
+25,
+54
+],
+[
+"Chapa Herrera",
+"VOL",
+27,
+50
+],
+[
+"Jan Moreno",
+"VOL",
+20,
+49
+],
+[
+"Luciano Acosta",
+"VOL",
+28,
+48
+],
+[
+"Rodrigo Gómez",
+"MEI",
+30,
+55
+],
+[
+"Joaquín Fernández",
+"MEI",
+21,
+52
+],
+[
+"Santiago Moreno",
+"MEI",
+27,
+55
+],
+[
+"Marvin Angulo",
+"PD",
+32,
+54
+],
+[
+"Gerson Ríos",
+"PE",
+24,
+48
+],
+[
+"Franco Cabrera",
+"AC",
+30,
+48
+],
+[
+"Bladimir González",
+"AC",
+33,
+54
+],
+[
+"Romer Rojas",
+"AC",
+25,
+50
+]
+],
+"Olimpia": [
+[
+"Gastón Olveira",
+"GOL",
+32,
+67
+],
+[
+"Rodrigo Frutos",
+"GOL",
+28,
+58
+],
+[
+"Bryan Zárate",
+"GOL",
+24,
+56
+],
+[
+"Iván Torres",
+"LD",
+34,
+64
+],
+[
+"Andris Herrera",
+"LD",
+33,
+64
+],
+[
+"Matías Pérez",
+"ZAG",
+26,
+64
+],
+[
+"Ronaldo Dejesús",
+"ZAG",
+25,
+62
+],
+[
+"Adrián Rojas",
+"ZAG",
+21,
+61
+],
+[
+"Adrián Martínez",
+"ZAG",
+32,
+59
+],
+[
+"Iván Leguizamón",
+"LE",
+26,
+64
+],
+[
+"Fernando Cardozo",
+"LE",
+24,
+63
+],
+[
+"Diego Gómez",
+"VOL",
+28,
+66
+],
+[
+"Marcos Gómez",
+"VOL",
+25,
+63
+],
+[
+"Lucas Esquivel",
+"VOL",
+20,
+62
+],
+[
+"Alex Franco",
+"MEI",
+24,
+65
+],
+[
+"Hugo Quintana",
+"MEI",
+23,
+62
+],
+[
+"Renzo López",
+"MEI",
+26,
+64
+],
+[
+"Derlis González",
+"PD",
+32,
+67
+],
+[
+"Facundo Bruera",
+"PE",
+27,
+64
+],
+[
+"Sebastián Ferreira",
+"AC",
+27,
+65
+],
+[
+"Marlos Moreno",
+"AC",
+27,
+65
+],
+[
+"Daniel Álvarez",
+"AC",
+20,
+60
+]
+],
+"Cerro Porteño": [
+[
+"Alexis Martín Arias",
+"GOL",
+33,
+66
+],
+[
+"Jean Fernandes",
+"GOL",
+32,
+64
+],
+[
+"Ángel Martínez",
+"GOL",
+24,
+55
+],
+[
+"Alan Benítez",
+"LD",
+32,
+64
+],
+[
+"Fernando Romero",
+"LD",
+24,
+63
+],
+[
+"Juan José Cáceres",
+"ZAG",
+25,
+64
+],
+[
+"Gustavo Velázquez",
+"ZAG",
+34,
+64
+],
+[
+"Leandro Lozano",
+"ZAG",
+28,
+64
+],
+[
+"Matías Espinoza",
+"ZAG",
+25,
+63
+],
+[
+"Blas Riveros",
+"LE",
+28,
+64
+],
+[
+"Pedro Alvarenga",
+"LE",
+25,
+62
+],
+[
+"Federico Carrizo",
+"VOL",
+34,
+66
+],
+[
+"Damián Bobadilla",
+"VOL",
+24,
+66
+],
+[
+"Wílder Viera",
+"VOL",
+24,
+62
+],
+[
+"Gabriel Aguayo",
+"VOL",
+25,
+62
+],
+[
+"Jonathan Torres",
+"MEI",
+29,
+64
+],
+[
+"Robert Piris da Motta",
+"MEI",
+31,
+64
+],
+[
+"Juan Ramírez",
+"MEI",
+32,
+60
+],
+[
+"Diego Churín",
+"PD",
+36,
+63
+],
+[
+"Cecilio Domínguez",
+"PE",
+31,
+67
+],
+[
+"Diego León",
+"AC",
+29,
+64
+],
+[
+"Juan Iturbe",
+"AC",
+33,
+65
+],
+[
+"Rodrigo López",
+"AC",
+20,
+58
+]
+],
+"Libertad": [
+[
+"Martín Silva",
+"GOL",
+43,
+63
+],
+[
+"Rodrigo Morínigo",
+"GOL",
+26,
+63
+],
+[
+"Jesús Rodríguez",
+"GOL",
+21,
+60
+],
+[
+"Diego Viera",
+"LD",
+34,
+62
+],
+[
+"Néstor Giménez",
+"LD",
+26,
+63
+],
+[
+"Alexis Cantero",
+"ZAG",
+25,
+62
+],
+[
+"Samu Sánchez",
+"ZAG",
+28,
+57
+],
+[
+"Mark Delgado",
+"ZAG",
+22,
+62
+],
+[
+"Luis Sánchez",
+"ZAG",
+31,
+58
+],
+[
+"Óscar Romero",
+"LE",
+32,
+64
+],
+[
+"Néstor Ortiz",
+"LE",
+25,
+61
+],
+[
+"Héctor Villalba",
+"VOL",
+31,
+65
+],
+[
+"Hugo Martínez",
+"VOL",
+25,
+63
+],
+[
+"Lucas Sanabria",
+"VOL",
+24,
+63
+],
+[
+"Rodrigo Rivero",
+"VOL",
+26,
+63
+],
+[
+"Lorenzo Melgarejo",
+"MEI",
+35,
+63
+],
+[
+"Iván Franco",
+"MEI",
+25,
+64
+],
+[
+"Javen Romero",
+"MEI",
+32,
+63
+],
+[
+"Del Castillo",
+"PD",
+30,
+63
+],
+[
+"Óscar Cardozo",
+"PE",
+42,
+60
+],
+[
+"Rubén Lezcano",
+"AC",
+24,
+63
+],
+[
+"F. Martínez",
+"AC",
+23,
+63
+],
+[
+"John Ruiz",
+"AC",
+24,
+56
+]
+],
+"Guaraní": [
+[
+"Jorge Antonio Espínola",
+"GOL",
+25,
+60
+],
+[
+"Gaspar Servio",
+"GOL",
+33,
+64
+],
+[
+"Pablo Correa",
+"GOL",
+24,
+55
+],
+[
+"Raúl Cáceres",
+"LD",
+33,
+62
+],
+[
+"Marcos Cáceres",
+"LD",
+37,
+61
+],
+[
+"Saúl Salcedo",
+"ZAG",
+28,
+63
+],
+[
+"Alejandro Mansilla",
+"ZAG",
+25,
+61
+],
+[
+"Hernán Pellerano",
+"ZAG",
+41,
+58
+],
+[
+"Carlos Fernández",
+"ZAG",
+24,
+60
+],
+[
+"Robert Ayala",
+"LE",
+28,
+61
+],
+[
+"Daniel Muñoz",
+"LE",
+19,
+55
+],
+[
+"Rodney Redes",
+"VOL",
+25,
+63
+],
+[
+"Rodrigo Fernández",
+"VOL",
+29,
+62
+],
+[
+"Matías Rojas Romero",
+"VOL",
+25,
+61
+],
+[
+"Fernando Fernández",
+"VOL",
+33,
+63
+],
+[
+"Jesús Medina",
+"MEI",
+29,
+64
+],
+[
+"Javi López",
+"MEI",
+29,
+62
+],
+[
+"José Hernández",
+"MEI",
+21,
+58
+],
+[
+"Wilfrido Báez",
+"PD",
+26,
+62
+],
+[
+"Jonatan Torres",
+"PE",
+28,
+61
+],
+[
+"Guillermo Benítez",
+"AC",
+25,
+61
+],
+[
+"Juan Bautista Cascini",
+"AC",
+29,
+60
+],
+[
+"Víctor Salazar",
+"AC",
+31,
+57
+]
+],
+"Division Profesional|Nacional": [
+[
+"Santiago Rojas",
+"GOL",
+29,
+61
+],
+[
+"Juan Hurtado",
+"GOL",
+21,
+57
+],
+[
+"Varo Álvarez",
+"GOL",
+20,
+55
+],
+[
+"Edgar González",
+"LD",
+24,
+55
+],
+[
+"Sergio Rodríguez",
+"LD",
+28,
+61
+],
+[
+"Yandri Vásquez",
+"ZAG",
+28,
+60
+],
+[
+"Ventura Gómez",
+"ZAG",
+33,
+59
+],
+[
+"Elvio Vera",
+"ZAG",
+31,
+55
+],
+[
+"Jefferson Mendoza",
+"ZAG",
+30,
+55
+],
+[
+"Ángel Zapata",
+"LE",
+29,
+60
+],
+[
+"Jair Castillo",
+"LE",
+31,
+58
+],
+[
+"Fernando Ovelar",
+"VOL",
+21,
+60
+],
+[
+"Oumar Gonzalez",
+"VOL",
+24,
+57
+],
+[
+"Nicolás Molina",
+"VOL",
+24,
+58
+],
+[
+"Aarón Navarro",
+"MEI",
+22,
+57
+],
+[
+"Tomas Molina",
+"MEI",
+32,
+54
+],
+[
+"Rodrigo Mendoza",
+"MEI",
+22,
+56
+],
+[
+"Aimar Rodríguez",
+"PD",
+29,
+58
+],
+[
+"Sergio Martínez",
+"PE",
+22,
+54
+],
+[
+"Roque Santa Cruz",
+"AC",
+45,
+56
+],
+[
+"Gonzalo Reyes",
+"AC",
+32,
+59
+],
+[
+"Jayson Martínez",
+"AC",
+23,
+57
+]
+],
+"Sportivo Luqueño": [
+[
+"Martín Ferreira",
+"GOL",
+28,
+56
+],
+[
+"Luis Reyes",
+"GOL",
+20,
+59
+],
+[
+"Milton Delgado",
+"GOL",
+19,
+53
+],
+[
+"Rodolfo González",
+"LD",
+26,
+54
+],
+[
+"Alex Sánchez",
+"LD",
+23,
+60
+],
+[
+"Juan Sánchez",
+"ZAG",
+30,
+59
+],
+[
+"Cristhian Vargas",
+"ZAG",
+19,
+53
+],
+[
+"Marcos Fernández",
+"ZAG",
+29,
+53
+],
+[
+"Yosef García",
+"ZAG",
+28,
+53
+],
+[
+"Pedro Hernandez",
+"LE",
+32,
+55
+],
+[
+"Sergio Cortés",
+"LE",
+24,
+55
+],
+[
+"Joel Román",
+"VOL",
+27,
+58
+],
+[
+"Iván Cabrera",
+"VOL",
+20,
+57
+],
+[
+"Ramiro Fernández",
+"VOL",
+22,
+56
+],
+[
+"Víctor Muñoz",
+"MEI",
+24,
+54
+],
+[
+"Ricky Castro",
+"MEI",
+32,
+55
+],
+[
+"Ángel Ortiz",
+"MEI",
+29,
+59
+],
+[
+"Aytor Herrera",
+"PD",
+28,
+60
+],
+[
+"Adri Ruiz",
+"PE",
+19,
+53
+],
+[
+"Emilio Sánchez",
+"AC",
+28,
+57
+],
+[
+"Eliser Quiñónes",
+"AC",
+26,
+53
+],
+[
+"Gabriel Paredes",
+"AC",
+20,
+58
+]
+],
+"Sportivo Trinidense": [
+[
+"L. Fernández",
+"GOL",
+26,
+56
+],
+[
+"Matías Moreno",
+"GOL",
+31,
+57
+],
+[
+"Jorge Pérez",
+"GOL",
+32,
+55
+],
+[
+"José Luís Moreno",
+"LD",
+25,
+53
+],
+[
+"Juanjo Sánchez",
+"LD",
+29,
+56
+],
+[
+"Iván Moreno",
+"ZAG",
+28,
+55
+],
+[
+"Fidel Martínez",
+"ZAG",
+20,
+55
+],
+[
+"Roberto Martín",
+"ZAG",
+23,
+55
+],
+[
+"Damián García",
+"ZAG",
+23,
+53
+],
+[
+"Sebastián Acosta",
+"LE",
+22,
+57
+],
+[
+"Cristian Medina",
+"LE",
+19,
+51
+],
+[
+"Miguel Álvarez",
+"VOL",
+28,
+55
+],
+[
+"Juan Muñoz",
+"VOL",
+33,
+53
+],
+[
+"Wiston Fernández",
+"VOL",
+27,
+51
+],
+[
+"Kevin Contreras",
+"MEI",
+27,
+51
+],
+[
+"Iker Muñoz",
+"MEI",
+25,
+52
+],
+[
+"Robert Chávez",
+"MEI",
+31,
+53
+],
+[
+"Sleider Muñoz",
+"PD",
+33,
+57
+],
+[
+"Gilberto Rivera",
+"PE",
+32,
+51
+],
+[
+"Brian Montenegro",
+"AC",
+32,
+60
+],
+[
+"Sebastián Herrera",
+"AC",
+32,
+57
+],
+[
+"Adolfo González",
+"AC",
+23,
+55
+]
+],
+"2 de Mayo": [
+[
+"Iván Rodríguez",
+"GOL",
+28,
+57
+],
+[
+"Santiago Ruíz",
+"GOL",
+21,
+55
+],
+[
+"Emanuel Diaz",
+"GOL",
+19,
+55
+],
+[
+"Seth Vega",
+"LD",
+31,
+55
+],
+[
+"Gleiker Mendoza",
+"LD",
+22,
+50
+],
+[
+"Ibai González",
+"ZAG",
+29,
+53
+],
+[
+"Ekain Díaz",
+"ZAG",
+33,
+56
+],
+[
+"C. Sepúlveda",
+"ZAG",
+30,
+52
+],
+[
+"Julián Gómez",
+"ZAG",
+22,
+57
+],
+[
+"Javier Suárez",
+"LE",
+24,
+57
+],
+[
+"Lucas Gómez",
+"LE",
+32,
+55
+],
+[
+"Braian Sánchez",
+"VOL",
+26,
+50
+],
+[
+"Andrés López",
+"VOL",
+27,
+56
+],
+[
+"Óscar Quiñónes",
+"VOL",
+21,
+57
+],
+[
+"Víctor Céspedes",
+"MEI",
+19,
+57
+],
+[
+"Felipe Mejía",
+"MEI",
+25,
+54
+],
+[
+"Jorge Martínez",
+"MEI",
+27,
+57
+],
+[
+"Lucas Delgado",
+"PD",
+19,
+52
+],
+[
+"Alexis García",
+"PE",
+28,
+53
+],
+[
+"Keziah Martin",
+"AC",
+27,
+54
+],
+[
+"Marcelo Benítez",
+"AC",
+33,
+56
+],
+[
+"Esnáider Cabezas",
+"AC",
+33,
+53
+]
+],
+"Sportivo Ameliano": [
+[
+"Richard Paredes",
+"GOL",
+27,
+52
+],
+[
+"Félix Espinoza",
+"GOL",
+21,
+49
+],
+[
+"Elián Giménez",
+"GOL",
+31,
+52
+],
+[
+"Stiven Vega",
+"LD",
+19,
+54
+],
+[
+"Guido Herrera",
+"LD",
+26,
+49
+],
+[
+"William Martin",
+"ZAG",
+24,
+56
+],
+[
+"Marlon Díaz",
+"ZAG",
+32,
+52
+],
+[
+"Mariano Díaz",
+"ZAG",
+31,
+52
+],
+[
+"Matías Vásquez",
+"ZAG",
+20,
+55
+],
+[
+"Iker Navarro",
+"LE",
+24,
+55
+],
+[
+"Kellyn Acosta",
+"LE",
+22,
+55
+],
+[
+"Michael López",
+"VOL",
+31,
+54
+],
+[
+"Alan García",
+"VOL",
+21,
+49
+],
+[
+"Luis Martínez",
+"VOL",
+26,
+50
+],
+[
+"Michel Benítez",
+"MEI",
+29,
+54
+],
+[
+"Emerson Hernández",
+"MEI",
+24,
+55
+],
+[
+"Víctor Mejía",
+"MEI",
+25,
+54
+],
+[
+"Juanda Fuentes",
+"PD",
+28,
+52
+],
+[
+"Aldair Ruiz",
+"PE",
+25,
+56
+],
+[
+"Ramón Martínez",
+"AC",
+25,
+58
+],
+[
+"Facundo Rodríguez",
+"AC",
+21,
+51
+],
+[
+"Enso González",
+"AC",
+28,
+51
+]
+],
+"General Caballero": [
+[
+"Juan Espínola",
+"GOL",
+30,
+57
+],
+[
+"Sebastián Salazar",
+"GOL",
+28,
+54
+],
+[
+"Gino Navarro",
+"GOL",
+29,
+53
+],
+[
+"A. Martínez",
+"LD",
+20,
+49
+],
+[
+"Diego Núñez",
+"LD",
+25,
+50
+],
+[
+"Stiven Moreno",
+"ZAG",
+25,
+50
+],
+[
+"Jimar Sánchez",
+"ZAG",
+31,
+49
+],
+[
+"Rafael Mosquera",
+"ZAG",
+28,
+49
+],
+[
+"Julián Rodríguez",
+"ZAG",
+29,
+49
+],
+[
+"José Valencia",
+"LE",
+22,
+54
+],
+[
+"Robin González",
+"LE",
+26,
+50
+],
+[
+"Josuee Herrera",
+"VOL",
+21,
+51
+],
+[
+"Luis Cano",
+"VOL",
+21,
+51
+],
+[
+"Esteban González",
+"VOL",
+26,
+53
+],
+[
+"Gustavo Escobar",
+"MEI",
+26,
+53
+],
+[
+"Lisandro López",
+"MEI",
+32,
+54
+],
+[
+"Pedro Ortiz",
+"MEI",
+27,
+55
+],
+[
+"Mateo Flores",
+"PD",
+21,
+50
+],
+[
+"Denilson Vargas",
+"PE",
+25,
+54
+],
+[
+"Néstor Camacho",
+"AC",
+37,
+57
+],
+[
+"Gabi Torres",
+"AC",
+33,
+52
+],
+[
+"René López",
+"AC",
+33,
+48
+]
+],
+"Recoleta": [
+[
+"Pablo Aguilar",
+"GOL",
+28,
+55
+],
+[
+"Bismar Castro",
+"GOL",
+24,
+51
+],
+[
+"Nicolás Díaz",
+"GOL",
+32,
+52
+],
+[
+"Pedro Díaz",
+"LD",
+26,
+54
+],
+[
+"Bruno Sepúlveda",
+"LD",
+27,
+47
+],
+[
+"Teto Martín",
+"ZAG",
+26,
+53
+],
+[
+"Jorge Luis Gómez",
+"ZAG",
+28,
+48
+],
+[
+"Patrick Ortíz",
+"ZAG",
+30,
+47
+],
+[
+"Martim Duarte",
+"ZAG",
+24,
+47
+],
+[
+"Valentín Sánchez",
+"LE",
+22,
+50
+],
+[
+"Manu Sánchez",
+"LE",
+30,
+51
+],
+[
+"Emilio Rodríguez",
+"VOL",
+19,
+54
+],
+[
+"Cristian Vega",
+"VOL",
+31,
+52
+],
+[
+"Rubén Duarte",
+"VOL",
+33,
+50
+],
+[
+"Yesid Díaz",
+"MEI",
+19,
+50
+],
+[
+"Marc Navarro",
+"MEI",
+23,
+47
+],
+[
+"G. Fernández",
+"MEI",
+25,
+53
+],
+[
+"Moi Gómez",
+"PD",
+31,
+49
+],
+[
+"Fabricio Pérez",
+"PE",
+20,
+47
+],
+[
+"Rodrigo Bogarín",
+"AC",
+28,
+57
+],
+[
+"Martín Giménez",
+"AC",
+33,
+52
+],
+[
+"Gabriel Rodríguez",
+"AC",
+29,
+49
+]
+],
+"Tacuary": [
+[
+"Benjamín García",
+"GOL",
+21,
+52
+],
+[
+"Nicolás Hernández",
+"GOL",
+26,
+52
+],
+[
+"Bryan Flores",
+"GOL",
+23,
+50
+],
+[
+"Ramiro Ríos",
+"LD",
+25,
+51
+],
+[
+"Albert Gomez",
+"LD",
+32,
+52
+],
+[
+"Josef Martínez",
+"ZAG",
+23,
+46
+],
+[
+"Felipe Báez",
+"ZAG",
+21,
+53
+],
+[
+"Edrey Cáceres",
+"ZAG",
+33,
+51
+],
+[
+"Jason Flores",
+"ZAG",
+19,
+49
+],
+[
+"Davis Contreras",
+"LE",
+30,
+46
+],
+[
+"Fabio Sanchez",
+"LE",
+32,
+53
+],
+[
+"Jeison Ayala",
+"VOL",
+24,
+48
+],
+[
+"Hugo Fuentes",
+"VOL",
+32,
+47
+],
+[
+"Danilo Díaz",
+"VOL",
+26,
+52
+],
+[
+"Tomás González",
+"MEI",
+20,
+46
+],
+[
+"Stalin Valencia",
+"MEI",
+21,
+53
+],
+[
+"Adrián Palacios",
+"MEI",
+29,
+53
+],
+[
+"Johan Gómez",
+"PD",
+23,
+48
+],
+[
+"Luis Mina",
+"PE",
+29,
+53
+],
+[
+"Ricardo Garay",
+"AC",
+29,
+55
+],
+[
+"Imanol González",
+"AC",
+27,
+47
+],
+[
+"Sebastián Cabrera",
+"AC",
+26,
+48
+]
+],
+"Universitario": [
+[
+"Sebastián Britos",
+"GOL",
+37,
+66
+],
+[
+"Diego Romero",
+"GOL",
+26,
+60
+],
+[
+"Miguel Vargas",
+"GOL",
+28,
+59
+],
+[
+"Andy Polo",
+"LD",
+31,
+66
+],
+[
+"Aldo Corzo",
+"LD",
+37,
+63
+],
+[
+"Matías Di Benedetto",
+"ZAG",
+33,
+65
+],
+[
+"Anderson Santamaría",
+"ZAG",
+34,
+64
+],
+[
+"Elsar Cruz Martín",
+"ZAG",
+23,
+59
+],
+[
+"José Hurtado",
+"ZAG",
+26,
+62
+],
+[
+"José Carabalí",
+"LE",
+28,
+63
+],
+[
+"César Inga",
+"LE",
+23,
+64
+],
+[
+"Martín Pérez Guedes",
+"VOL",
+33,
+67
+],
+[
+"Jorge Murrugarra",
+"VOL",
+29,
+64
+],
+[
+"Joao Mendoza",
+"VOL",
+22,
+62
+],
+[
+"Jairo Concha",
+"MEI",
+27,
+65
+],
+[
+"Horacio Calcaterra",
+"MEI",
+36,
+63
+],
+[
+"Leandro Cabrera",
+"MEI",
+23,
+59
+],
+[
+"Edison Flores",
+"PD",
+32,
+67
+],
+[
+"Jairo Vélez",
+"PD",
+30,
+65
+],
+[
+"Gabriel Costa",
+"PE",
+36,
+63
+],
+[
+"Álex Valera",
+"AC",
+30,
+69
+],
+[
+"José Rivera",
+"AC",
+28,
+64
+],
+[
+"Brayam Palacios",
+"AC",
+20,
+64
+]
+],
+"Alianza Lima": [
+[
+"Guillermo Viscarra",
+"GOL",
+32,
+66
+],
+[
+"Ángelo Campos",
+"GOL",
+32,
+62
+],
+[
+"Franco Saravia",
+"GOL",
+25,
+57
+],
+[
+"Gaspar Gentile",
+"LD",
+30,
+64
+],
+[
+"Ricardo Lagos",
+"LD",
+33,
+61
+],
+[
+"Carlos Zambrano",
+"ZAG",
+37,
+65
+],
+[
+"Renzo Garcés",
+"ZAG",
+29,
+65
+],
+[
+"Miguel Trauco",
+"ZAG",
+33,
+63
+],
+[
+"Marco Huamán",
+"ZAG",
+21,
+60
+],
+[
+"Mateo Antoni",
+"LE",
+21,
+60
+],
+[
+"Osvaldo Rodríguez",
+"LE",
+29,
+59
+],
+[
+"Sergio Peña",
+"VOL",
+30,
+66
+],
+[
+"Jesús Castillo",
+"VOL",
+25,
+65
+],
+[
+"Pablo Ceppelini",
+"VOL",
+34,
+65
+],
+[
+"Fernando Gaibor",
+"VOL",
+34,
+64
+],
+[
+"Kevin Quevedo",
+"MEI",
+28,
+64
+],
+[
+"Erick Noriega",
+"MEI",
+24,
+64
+],
+[
+"Ariel Soto",
+"MEI",
+23,
+62
+],
+[
+"Paolo Guerrero",
+"PD",
+42,
+64
+],
+[
+"Eryc Castillo",
+"PE",
+31,
+65
+],
+[
+"Hernán Barcos",
+"AC",
+41,
+65
+],
+[
+"Alan Cantero",
+"AC",
+27,
+64
+],
+[
+"Saul Herrera",
+"AC",
+28,
+61
+]
+],
+"Sporting Cristal": [
+[
+"Diego Enríquez",
+"GOL",
+30,
+65
+],
+[
+"Renato Solís",
+"GOL",
+28,
+58
+],
+[
+"Alejandro Duarte",
+"GOL",
+32,
+64
+],
+[
+"Leandro Sosa",
+"LD",
+31,
+63
+],
+[
+"Franco Romero",
+"LD",
+28,
+62
+],
+[
+"Gustavo Cazonatti",
+"ZAG",
+36,
+64
+],
+[
+"Rafael Lutiger",
+"ZAG",
+25,
+63
+],
+[
+"Nicolás Pasquini",
+"ZAG",
+34,
+63
+],
+[
+"Alexandre Vizcarra",
+"ZAG",
+23,
+62
+],
+[
+"Jhilmar Lora",
+"LE",
+25,
+63
+],
+[
+"M. Vargas",
+"LE",
+20,
+60
+],
+[
+"Martín Távara",
+"VOL",
+26,
+64
+],
+[
+"Yoshimar Yotún",
+"VOL",
+36,
+65
+],
+[
+"Emanuel Torres",
+"VOL",
+33,
+61
+],
+[
+"Christofer Gonzáles",
+"MEI",
+33,
+66
+],
+[
+"Santiago González",
+"MEI",
+22,
+64
+],
+[
+"David Ruiz",
+"MEI",
+29,
+58
+],
+[
+"Maxloren Castro",
+"PD",
+18,
+65
+],
+[
+"Catriel Cabellos",
+"PE",
+21,
+62
+],
+[
+"Martín Cauteruccio",
+"AC",
+38,
+63
+],
+[
+"Írven Ávila",
+"AC",
+35,
+63
+],
+[
+"Gabriel Santana",
+"AC",
+25,
+63
+]
+],
+"Cusco": [
+[
+"Patricio Álvarez",
+"GOL",
+30,
+59
+],
+[
+"Kevin Caicedo",
+"GOL",
+22,
+61
+],
+[
+"Alan Moreno",
+"GOL",
+20,
+61
+],
+[
+"Wilker Martinez",
+"LD",
+21,
+58
+],
+[
+"Eduardo Soto",
+"LD",
+32,
+60
+],
+[
+"Gonzalo Aguirre",
+"ZAG",
+26,
+60
+],
+[
+"Raúl Fernández",
+"ZAG",
+21,
+62
+],
+[
+"Marlon Fernández",
+"ZAG",
+24,
+61
+],
+[
+"Carlos Gómez",
+"ZAG",
+24,
+61
+],
+[
+"Joel Ramos",
+"LE",
+22,
+55
+],
+[
+"G. Gonzalez",
+"LE",
+27,
+62
+],
+[
+"Mateo Rodríguez",
+"VOL",
+26,
+60
+],
+[
+"Bubu Medina",
+"VOL",
+29,
+58
+],
+[
+"Unax Álvarez",
+"VOL",
+19,
+59
+],
+[
+"Erik Ruiz",
+"MEI",
+20,
+62
+],
+[
+"Jaime Sánchez",
+"MEI",
+23,
+58
+],
+[
+"Gabriel Mendoza",
+"MEI",
+32,
+55
+],
+[
+"Jesús Vega",
+"PD",
+30,
+59
+],
+[
+"Rafael Guerrero",
+"PE",
+28,
+56
+],
+[
+"Facundo Callejo",
+"AC",
+33,
+63
+],
+[
+"Ander Martín",
+"AC",
+30,
+61
+],
+[
+"Roger Reyes",
+"AC",
+32,
+60
+]
+],
+"Melgar": [
+[
+"Carlos Cáceda",
+"GOL",
+34,
+63
+],
+[
+"Ricardo Farro",
+"GOL",
+31,
+58
+],
+[
+"Elías González",
+"GOL",
+28,
+60
+],
+[
+"Leonel González",
+"LD",
+31,
+62
+],
+[
+"Santiago Díaz",
+"LD",
+30,
+59
+],
+[
+"Alec Deneumostier",
+"ZAG",
+26,
+61
+],
+[
+"Paolo Reyna",
+"ZAG",
+24,
+61
+],
+[
+"Óscar Ruiz",
+"ZAG",
+26,
+58
+],
+[
+"Felipe Espinoza",
+"ZAG",
+24,
+55
+],
+[
+"Nelson Cabanillas",
+"LE",
+26,
+60
+],
+[
+"Renzo Sánchez",
+"LE",
+31,
+58
+],
+[
+"Horacio Orzán",
+"VOL",
+37,
+61
+],
+[
+"José Mari Ruiz",
+"VOL",
+24,
+55
+],
+[
+"Alberto Gómez",
+"VOL",
+31,
+58
+],
+[
+"Bernardo Cuesta",
+"MEI",
+36,
+63
+],
+[
+"Javier Torres",
+"MEI",
+22,
+57
+],
+[
+"Ángel Díaz",
+"MEI",
+19,
+56
+],
+[
+"Cristian Bordacahar",
+"PD",
+30,
+61
+],
+[
+"Edson Castillo",
+"PE",
+24,
+60
+],
+[
+"Tomás Martínez",
+"AC",
+28,
+61
+],
+[
+"Mathías Suárez",
+"AC",
+30,
+55
+],
+[
+"Ángel Chávez",
+"AC",
+27,
+58
+]
+],
+"Cienciano": [
+[
+"Juan Valencia",
+"GOL",
+25,
+59
+],
+[
+"Ricky Ruiz",
+"GOL",
+29,
+56
+],
+[
+"Elíseo Mosquera",
+"GOL",
+20,
+57
+],
+[
+"Jhon Ramos",
+"LD",
+24,
+57
+],
+[
+"Uziel García",
+"LD",
+25,
+53
+],
+[
+"Gonzalo Falcón",
+"ZAG",
+28,
+60
+],
+[
+"Hugo Lopez",
+"ZAG",
+22,
+54
+],
+[
+"Álvaro López",
+"ZAG",
+26,
+60
+],
+[
+"Elías Aguilar",
+"ZAG",
+32,
+58
+],
+[
+"Emanuel Cortés",
+"LE",
+28,
+59
+],
+[
+"Carlos Benítez",
+"LE",
+30,
+56
+],
+[
+"Alejandro Mejía",
+"VOL",
+21,
+54
+],
+[
+"Freddy Molina",
+"VOL",
+22,
+56
+],
+[
+"Edson Delgado",
+"VOL",
+32,
+55
+],
+[
+"Carlos Garcés",
+"MEI",
+33,
+61
+],
+[
+"Leandro Gómez",
+"MEI",
+28,
+59
+],
+[
+"Gabriel Díaz",
+"MEI",
+32,
+56
+],
+[
+"Toño Espinoza",
+"PD",
+27,
+60
+],
+[
+"Valentín Benítez",
+"PE",
+23,
+57
+],
+[
+"Neri Bandiera",
+"AC",
+35,
+61
+],
+[
+"Samuel Benítez",
+"AC",
+26,
+60
+],
+[
+"Joel Rodríguez",
+"AC",
+30,
+56
+]
+],
+"Alianza Atlético": [
+[
+"Hairo Camacho",
+"GOL",
+30,
+57
+],
+[
+"Manuel Romero",
+"GOL",
+25,
+54
+],
+[
+"Memo Rodríguez",
+"GOL",
+21,
+57
+],
+[
+"Sebastian Alvarez",
+"LD",
+30,
+56
+],
+[
+"C. Mosquera",
+"LD",
+29,
+55
+],
+[
+"Jordi Martín",
+"ZAG",
+26,
+57
+],
+[
+"Giovanni Navarro",
+"ZAG",
+25,
+58
+],
+[
+"Bryan González",
+"ZAG",
+31,
+53
+],
+[
+"Raúl Castro",
+"ZAG",
+22,
+54
+],
+[
+"Johan Moreno",
+"LE",
+21,
+54
+],
+[
+"Jandro Orellana",
+"LE",
+22,
+57
+],
+[
+"Anthony Rosell",
+"VOL",
+30,
+58
+],
+[
+"Omar Reyes",
+"VOL",
+31,
+55
+],
+[
+"Fredy Valencia",
+"VOL",
+31,
+53
+],
+[
+"Luis Pavez Muñoz",
+"MEI",
+24,
+60
+],
+[
+"Sebastián Cardozo",
+"MEI",
+25,
+60
+],
+[
+"Marcos Escobar",
+"MEI",
+25,
+56
+],
+[
+"Marco Gomez",
+"PD",
+20,
+59
+],
+[
+"Leonel Cardozo",
+"PE",
+31,
+59
+],
+[
+"Hernán Rengifo",
+"AC",
+41,
+56
+],
+[
+"Facundo Cardozo",
+"AC",
+28,
+53
+],
+[
+"Osnel García",
+"AC",
+24,
+53
+]
+],
+"Sport Huancayo": [
+[
+"Alejandro Álvarez",
+"GOL",
+32,
+56
+],
+[
+"Israel García",
+"GOL",
+28,
+54
+],
+[
+"Clayton Duarte",
+"GOL",
+24,
+54
+],
+[
+"Iván Fernández",
+"LD",
+22,
+52
+],
+[
+"César Flores",
+"LD",
+32,
+55
+],
+[
+"David Soto",
+"ZAG",
+32,
+57
+],
+[
+"Salvador Reyes",
+"ZAG",
+26,
+53
+],
+[
+"Jesús Sánchez",
+"ZAG",
+23,
+52
+],
+[
+"Yeray Álvarez",
+"ZAG",
+27,
+52
+],
+[
+"Rodrigo Vargas",
+"LE",
+30,
+52
+],
+[
+"Isaac Romero",
+"LE",
+22,
+58
+],
+[
+"Johan Caicedo",
+"VOL",
+26,
+58
+],
+[
+"Martín López",
+"VOL",
+32,
+59
+],
+[
+"Marcos Navarro",
+"VOL",
+28,
+59
+],
+[
+"Mario Gómez",
+"MEI",
+24,
+54
+],
+[
+"Lautaro Chávez",
+"MEI",
+31,
+56
+],
+[
+"Junior Garcia",
+"MEI",
+25,
+53
+],
+[
+"Kalazán Suárez",
+"PD",
+32,
+59
+],
+[
+"Fabián Castro",
+"PE",
+23,
+53
+],
+[
+"Iván Angulo",
+"AC",
+27,
+59
+],
+[
+"Pelayo Suárez",
+"AC",
+26,
+53
+],
+[
+"Rommel Cabezas",
+"AC",
+31,
+57
+]
+],
+"ADT": [
+[
+"Ángel Zamudio",
+"GOL",
+25,
+56
+],
+[
+"Gerardo Ortiz",
+"GOL",
+27,
+55
+],
+[
+"Joaquín Molina",
+"GOL",
+26,
+56
+],
+[
+"Pedro Fernández",
+"LD",
+21,
+51
+],
+[
+"Johan Martínez",
+"LD",
+33,
+58
+],
+[
+"Miqueas Martínez",
+"ZAG",
+22,
+53
+],
+[
+"Christian Vásquez",
+"ZAG",
+21,
+51
+],
+[
+"Tobías Medina",
+"ZAG",
+28,
+57
+],
+[
+"Noel González",
+"ZAG",
+23,
+56
+],
+[
+"Camilo Sánchez",
+"LE",
+19,
+54
+],
+[
+"Gustavo González",
+"LE",
+19,
+53
+],
+[
+"Martín Ojeda",
+"VOL",
+28,
+54
+],
+[
+"Ricardo Suárez",
+"VOL",
+30,
+56
+],
+[
+"Alan Paredes",
+"VOL",
+23,
+57
+],
+[
+"Argel Sánchez",
+"MEI",
+28,
+55
+],
+[
+"Gustavo Aguilar",
+"MEI",
+32,
+54
+],
+[
+"Omar Valencia",
+"MEI",
+23,
+51
+],
+[
+"José Castillo",
+"PD",
+30,
+54
+],
+[
+"Unai Núñez",
+"PE",
+25,
+51
+],
+[
+"Sthefano Muñoz",
+"AC",
+20,
+54
+],
+[
+"Horacio Torres",
+"AC",
+22,
+51
+],
+[
+"Hugo Díaz",
+"AC",
+23,
+53
+]
+],
+"Deportivo Garcilaso": [
+[
+"Stefano Fernández",
+"GOL",
+31,
+55
+],
+[
+"Jerin Ramos",
+"GOL",
+23,
+56
+],
+[
+"Antonino Martínez",
+"GOL",
+33,
+57
+],
+[
+"Hather Cuesta",
+"LD",
+33,
+55
+],
+[
+"Álex Cano",
+"LD",
+19,
+52
+],
+[
+"Heiderber Ramírez",
+"ZAG",
+25,
+54
+],
+[
+"Dario López",
+"ZAG",
+33,
+51
+],
+[
+"Xabi Gómez",
+"ZAG",
+29,
+51
+],
+[
+"G. Rodríguez",
+"ZAG",
+28,
+52
+],
+[
+"Walter Cabrera",
+"LE",
+22,
+51
+],
+[
+"Nilton Ramirez",
+"LE",
+20,
+51
+],
+[
+"Minor Álvarez",
+"VOL",
+21,
+52
+],
+[
+"Italo Vargas",
+"VOL",
+32,
+57
+],
+[
+"Rodrigo Ramírez",
+"VOL",
+23,
+52
+],
+[
+"Santiago Castro",
+"MEI",
+22,
+54
+],
+[
+"Carmelo Sánchez",
+"MEI",
+31,
+56
+],
+[
+"Miguel Hernández",
+"MEI",
+32,
+55
+],
+[
+"Esli García",
+"PD",
+32,
+58
+],
+[
+"Santiago Aguilar",
+"PE",
+33,
+52
+],
+[
+"Daniel Franco",
+"AC",
+26,
+57
+],
+[
+"Kevin Cortés",
+"AC",
+28,
+54
+],
+[
+"Edison López",
+"AC",
+22,
+58
+]
+],
+"Juan Pablo II": [
+[
+"Mauro Rodríguez",
+"GOL",
+23,
+56
+],
+[
+"Elieve Duarte",
+"GOL",
+33,
+50
+],
+[
+"Manuel Caicedo",
+"GOL",
+22,
+50
+],
+[
+"Saúl García",
+"LD",
+21,
+56
+],
+[
+"Juan Diego Ospina",
+"LD",
+21,
+55
+],
+[
+"Javier Bravo",
+"ZAG",
+27,
+50
+],
+[
+"Arturo Molina",
+"ZAG",
+28,
+55
+],
+[
+"Victor Sánchez",
+"ZAG",
+26,
+53
+],
+[
+"Jhon Vega",
+"ZAG",
+32,
+57
+],
+[
+"Nawer Vargas",
+"LE",
+31,
+51
+],
+[
+"Stefan Herrera",
+"LE",
+21,
+54
+],
+[
+"Brian Duarte",
+"VOL",
+30,
+56
+],
+[
+"Rodrigo Castro",
+"VOL",
+29,
+56
+],
+[
+"Fernando Benitez",
+"VOL",
+25,
+55
+],
+[
+"Lautaro Ayala",
+"MEI",
+32,
+52
+],
+[
+"Gerard Hernández",
+"MEI",
+32,
+52
+],
+[
+"Ángel Torres",
+"MEI",
+19,
+55
+],
+[
+"Cristian Herrera",
+"PD",
+32,
+56
+],
+[
+"Marcelo Paredes",
+"PE",
+27,
+51
+],
+[
+"Gabriel Fernandez",
+"AC",
+21,
+56
+],
+[
+"Christian Ramos",
+"AC",
+29,
+53
+],
+[
+"Douglas Martínez",
+"AC",
+30,
+56
+]
+],
+"Atlético Grau": [
+[
+"Lucho Vega",
+"GOL",
+29,
+55
+],
+[
+"Cristhian Garcia",
+"GOL",
+23,
+53
+],
+[
+"Ángel López",
+"GOL",
+22,
+51
+],
+[
+"Brayan Díaz",
+"LD",
+32,
+54
+],
+[
+"Álex Castillo",
+"LD",
+31,
+51
+],
+[
+"Leo Suárez",
+"ZAG",
+28,
+53
+],
+[
+"Guillermo Torres",
+"ZAG",
+19,
+53
+],
+[
+"Vitor Vargas",
+"ZAG",
+33,
+52
+],
+[
+"Lucas Soto",
+"ZAG",
+32,
+52
+],
+[
+"Nicolás Rivera",
+"LE",
+30,
+51
+],
+[
+"Jeffrey Ramos",
+"LE",
+29,
+55
+],
+[
+"Yeisón Ramírez",
+"VOL",
+33,
+53
+],
+[
+"Aarón Martín",
+"VOL",
+25,
+56
+],
+[
+"Sergio Mendoza",
+"VOL",
+29,
+53
+],
+[
+"Aarón Mejía",
+"MEI",
+19,
+52
+],
+[
+"Ramiro Franco",
+"MEI",
+26,
+51
+],
+[
+"Sebastián Castro",
+"MEI",
+32,
+53
+],
+[
+"Elías Vásquez",
+"PD",
+23,
+55
+],
+[
+"Jiovany Ramos",
+"PE",
+32,
+49
+],
+[
+"Roberto Riveros",
+"AC",
+27,
+53
+],
+[
+"Jhan Guerrero",
+"AC",
+33,
+56
+],
+[
+"Luis Suárez",
+"AC",
+26,
+51
+]
+],
+"Comerciantes Unidos": [
+[
+"Renzo Salazar",
+"GOL",
+31,
+50
+],
+[
+"Yastin Navarro",
+"GOL",
+28,
+51
+],
+[
+"Lautaro Ríos",
+"GOL",
+25,
+53
+],
+[
+"Jon Guerrero",
+"LD",
+33,
+55
+],
+[
+"Daniel Zapata",
+"LD",
+20,
+50
+],
+[
+"Jorge Rodríguez",
+"ZAG",
+25,
+49
+],
+[
+"Christian Ramirez",
+"ZAG",
+24,
+49
+],
+[
+"Inti López",
+"ZAG",
+30,
+51
+],
+[
+"Alberto Soto",
+"ZAG",
+26,
+56
+],
+[
+"Eddie Hernández",
+"LE",
+21,
+53
+],
+[
+"Samuel Guerrero",
+"LE",
+30,
+53
+],
+[
+"Fernando Álvarez",
+"VOL",
+25,
+49
+],
+[
+"David García",
+"VOL",
+28,
+49
+],
+[
+"Raúl Hernández",
+"VOL",
+29,
+54
+],
+[
+"Ibón González",
+"MEI",
+24,
+52
+],
+[
+"Eliseo Díaz",
+"MEI",
+20,
+56
+],
+[
+"S. Martínez",
+"MEI",
+22,
+49
+],
+[
+"Jon López",
+"PD",
+21,
+51
+],
+[
+"Joel López",
+"PE",
+31,
+55
+],
+[
+"Allan García",
+"AC",
+22,
+49
+],
+[
+"Marlon Vargas",
+"AC",
+24,
+51
+],
+[
+"Carlos Martínez",
+"AC",
+24,
+52
+]
+],
+"Los Chankas": [
+[
+"Gabriel Ojeda",
+"GOL",
+26,
+51
+],
+[
+"Aarón Fernández",
+"GOL",
+20,
+53
+],
+[
+"Yimy Gómez",
+"GOL",
+19,
+51
+],
+[
+"W. Fernandez",
+"LD",
+24,
+50
+],
+[
+"Carlos Salazar",
+"LD",
+20,
+54
+],
+[
+"Antonio Díaz",
+"ZAG",
+29,
+50
+],
+[
+"Fran Gómez",
+"ZAG",
+31,
+50
+],
+[
+"Hugo Aguilar",
+"ZAG",
+22,
+54
+],
+[
+"Cristian González",
+"ZAG",
+20,
+48
+],
+[
+"Fernando Aguilar",
+"LE",
+23,
+54
+],
+[
+"Marcos Mejía",
+"LE",
+20,
+48
+],
+[
+"Víctor Ayala",
+"VOL",
+29,
+54
+],
+[
+"Marco López",
+"VOL",
+29,
+52
+],
+[
+"Alvin Mendoza",
+"VOL",
+28,
+55
+],
+[
+"Gonzalo Soto",
+"MEI",
+26,
+50
+],
+[
+"Mateo Aguilar",
+"MEI",
+30,
+50
+],
+[
+"Ronaldo Romero",
+"MEI",
+21,
+55
+],
+[
+"Fer Sánchez",
+"PD",
+30,
+52
+],
+[
+"Roni Chávez",
+"PE",
+22,
+53
+],
+[
+"Achore Sánchez",
+"AC",
+19,
+52
+],
+[
+"Ariel García",
+"AC",
+28,
+48
+],
+[
+"Iñigo Martínez",
+"AC",
+33,
+49
+]
+],
+"Sport Boys": [
+[
+"Jorge Hernández",
+"GOL",
+25,
+51
+],
+[
+"Kenneth González",
+"GOL",
+22,
+47
+],
+[
+"Rayco Rodríguez",
+"GOL",
+21,
+50
+],
+[
+"Luciano Sánchez",
+"LD",
+33,
+54
+],
+[
+"Iván Rojas",
+"LD",
+22,
+51
+],
+[
+"Afonso Duarte",
+"ZAG",
+23,
+53
+],
+[
+"Miguel Vega",
+"ZAG",
+33,
+54
+],
+[
+"Emilio Martinez",
+"ZAG",
+20,
+54
+],
+[
+"Jacobo Reyes",
+"ZAG",
+28,
+51
+],
+[
+"Juan Orellana",
+"LE",
+22,
+48
+],
+[
+"Vicente Vega",
+"LE",
+26,
+53
+],
+[
+"A. Rodríguez",
+"VOL",
+32,
+52
+],
+[
+"Brahian Ayala",
+"VOL",
+25,
+51
+],
+[
+"Lucas Diaz",
+"VOL",
+23,
+51
+],
+[
+"Bruno Hernández",
+"MEI",
+30,
+51
+],
+[
+"Wesley Cabrera",
+"MEI",
+31,
+51
+],
+[
+"Éric Moreno",
+"MEI",
+26,
+48
+],
+[
+"Yeyson Vásquez",
+"PD",
+27,
+53
+],
+[
+"Andy Contreras",
+"PE",
+22,
+49
+],
+[
+"Eduardo Guerrero",
+"AC",
+29,
+47
+],
+[
+"Migue Sánchez",
+"AC",
+33,
+49
+],
+[
+"Dani Ojeda",
+"AC",
+19,
+50
+]
+],
+"UTC": [
+[
+"Rafa Fernández",
+"GOL",
+19,
+46
+],
+[
+"Kevin Duarte",
+"GOL",
+29,
+52
+],
+[
+"Dani Rodríguez",
+"GOL",
+25,
+50
+],
+[
+"Jefferson Ramos",
+"LD",
+22,
+46
+],
+[
+"Jorge Flores",
+"LD",
+27,
+53
+],
+[
+"Nicolás Romero",
+"ZAG",
+28,
+52
+],
+[
+"Cristian Álvarez",
+"ZAG",
+26,
+53
+],
+[
+"Gilbert Álvarez",
+"ZAG",
+21,
+53
+],
+[
+"Karel Campos",
+"ZAG",
+23,
+51
+],
+[
+"Lautaro Ortiz",
+"LE",
+25,
+46
+],
+[
+"Eloy Moreno",
+"LE",
+25,
+50
+],
+[
+"Diego Castillo",
+"VOL",
+32,
+46
+],
+[
+"Sergio Ramírez",
+"VOL",
+30,
+47
+],
+[
+"Jesús Chávez",
+"VOL",
+22,
+50
+],
+[
+"Roi Torres",
+"MEI",
+26,
+53
+],
+[
+"Cristian Martínez",
+"MEI",
+33,
+52
+],
+[
+"Ronald Rodríguez",
+"MEI",
+29,
+50
+],
+[
+"Lautaro Nuñez",
+"PD",
+21,
+46
+],
+[
+"Emiliano González",
+"PE",
+20,
+52
+],
+[
+"Fernando Pacheco",
+"AC",
+26,
+55
+],
+[
+"Claudio Bravo",
+"AC",
+32,
+48
+],
+[
+"Joel Contreras",
+"AC",
+30,
+50
+]
+],
+"Ayacucho": [
+[
+"Alberto Moreno",
+"GOL",
+24,
+51
+],
+[
+"Alejandro Martín",
+"GOL",
+28,
+48
+],
+[
+"Facundo Mendoza",
+"GOL",
+23,
+52
+],
+[
+"Álex Martínez",
+"LD",
+29,
+47
+],
+[
+"Luis Vásquez",
+"LD",
+26,
+49
+],
+[
+"Román Gómez",
+"ZAG",
+24,
+50
+],
+[
+"Óscar López",
+"ZAG",
+22,
+48
+],
+[
+"Gui Ramos",
+"ZAG",
+33,
+50
+],
+[
+"Maverick Vera",
+"ZAG",
+20,
+51
+],
+[
+"Leonardo Chávez",
+"LE",
+21,
+46
+],
+[
+"Hugo Hernández",
+"LE",
+22,
+46
+],
+[
+"Édson Torres",
+"VOL",
+20,
+48
+],
+[
+"Bruno Báez",
+"VOL",
+29,
+48
+],
+[
+"Sergio González",
+"VOL",
+32,
+49
+],
+[
+"Santiago Romero",
+"MEI",
+29,
+46
+],
+[
+"Diego Reyes",
+"MEI",
+19,
+46
+],
+[
+"Everardo López",
+"MEI",
+25,
+49
+],
+[
+"Geiner Martínez",
+"PD",
+27,
+48
+],
+[
+"Jeremy Rodríguez",
+"PE",
+24,
+52
+],
+[
+"Héctor Zeta",
+"AC",
+30,
+54
+],
+[
+"Jano Martínez",
+"AC",
+32,
+53
+],
+[
+"Patricio Romero",
+"AC",
+23,
+50
+]
+],
+"Alianza Universidad": [
+[
+"Luis Ismael Díaz",
+"GOL",
+33,
+48
+],
+[
+"Gian García",
+"GOL",
+24,
+45
+],
+[
+"Dylan Escobar",
+"GOL",
+31,
+52
+],
+[
+"Jorge Garcia",
+"LD",
+22,
+45
+],
+[
+"Ignacio Ojeda",
+"LD",
+23,
+51
+],
+[
+"César Romero",
+"ZAG",
+25,
+47
+],
+[
+"Joaquín Gómez",
+"ZAG",
+27,
+50
+],
+[
+"Víctor Cabrera",
+"ZAG",
+23,
+50
+],
+[
+"Damián Fernández",
+"ZAG",
+19,
+51
+],
+[
+"Carlos Moreno",
+"LE",
+32,
+48
+],
+[
+"Alex Díaz",
+"LE",
+33,
+51
+],
+[
+"Gustavo Vargas",
+"VOL",
+21,
+48
+],
+[
+"Ángel Pérez",
+"VOL",
+25,
+45
+],
+[
+"Yoserth Hernández",
+"VOL",
+33,
+52
+],
+[
+"Juan Salazar",
+"MEI",
+20,
+52
+],
+[
+"Iván Duarte",
+"MEI",
+29,
+46
+],
+[
+"Jesús Martínez",
+"MEI",
+33,
+45
+],
+[
+"Leonardo García",
+"PD",
+22,
+49
+],
+[
+"Enol Rodríguez",
+"PE",
+26,
+49
+],
+[
+"Jaime García",
+"AC",
+21,
+50
+],
+[
+"Juan David Moreno",
+"AC",
+20,
+49
+],
+[
+"Rodrigo Torres",
+"AC",
+24,
+49
+]
+],
+"CA Independiente": [
+[
+"Moisés Ramírez",
+"GOL",
+25,
+68
+],
+[
+"Rodrigo Guerrero",
+"GOL",
+27,
+60
+],
+[
+"Guido Villar",
+"GOL",
+27,
+58
+],
+[
+"Richard Mina",
+"LD",
+25,
+65
+],
+[
+"Mateo Carabalí",
+"LD",
+23,
+64
+],
+[
+"Joel Ordóñez",
+"ZAG",
+22,
+66
+],
+[
+"Luis Segovia",
+"ZAG",
+28,
+65
+],
+[
+"Willian Vargas",
+"ZAG",
+25,
+64
+],
+[
+"Mateo Arteaga",
+"ZAG",
+22,
+62
+],
+[
+"Beder Caicedo",
+"LE",
+33,
+64
+],
+[
+"Kevin Rodríguez",
+"LE",
+24,
+64
+],
+[
+"Lorenzo Faravelli",
+"VOL",
+32,
+67
+],
+[
+"Júnior Sornoza",
+"VOL",
+31,
+67
+],
+[
+"Keny Arroyo",
+"VOL",
+19,
+66
+],
+[
+"Kendry Páez",
+"MEI",
+19,
+66
+],
+[
+"Patrik Mercado",
+"MEI",
+22,
+65
+],
+[
+"Héctor Martínez",
+"MEI",
+23,
+56
+],
+[
+"Michael Hoyos",
+"PD",
+34,
+64
+],
+[
+"Carlos Gruezo",
+"PE",
+30,
+63
+],
+[
+"Claudio Spinelli",
+"AC",
+28,
+67
+],
+[
+"Gabriel Villamíl",
+"AC",
+24,
+63
+],
+[
+"José Pablo Pérez",
+"AC",
+25,
+60
+]
+],
+"LDU Quito": [
+[
+"Gonzalo Valle",
+"GOL",
+29,
+66
+],
+[
+"Leonel Nazareno",
+"GOL",
+23,
+57
+],
+[
+"Pau Navarro",
+"GOL",
+26,
+61
+],
+[
+"José Quintero",
+"LD",
+35,
+64
+],
+[
+"Leonardo Realpe",
+"LD",
+24,
+64
+],
+[
+"Ricardo Adé",
+"ZAG",
+35,
+67
+],
+[
+"Gian Franco Allala",
+"ZAG",
+28,
+65
+],
+[
+"Franklin Guerra",
+"ZAG",
+32,
+63
+],
+[
+"Mateo Acosta",
+"ZAG",
+26,
+55
+],
+[
+"Bryan Ramírez",
+"LE",
+26,
+63
+],
+[
+"Steven Paredes",
+"LE",
+30,
+59
+],
+[
+"Ezequiel Piovi",
+"VOL",
+33,
+64
+],
+[
+"Jhojan Julio",
+"VOL",
+27,
+64
+],
+[
+"Alexander Alvarado",
+"VOL",
+26,
+65
+],
+[
+"Michael Estrada",
+"MEI",
+30,
+64
+],
+[
+"Maximiliano López",
+"MEI",
+32,
+57
+],
+[
+"Armando Chávez",
+"MEI",
+26,
+55
+],
+[
+"Jeison Medina",
+"PD",
+26,
+63
+],
+[
+"Adrián Martín",
+"PE",
+23,
+56
+],
+[
+"Álex Arce",
+"AC",
+30,
+67
+],
+[
+"Lisandro Alzugaray",
+"AC",
+35,
+63
+],
+[
+"Javier Romero",
+"AC",
+23,
+58
+]
+],
+"Barcelona SC": [
+[
+"Javier Burrai",
+"GOL",
+35,
+66
+],
+[
+"José Contreras",
+"GOL",
+30,
+63
+],
+[
+"Víctor Mendoza",
+"GOL",
+27,
+57
+],
+[
+"Bryan Carabalí",
+"LD",
+27,
+63
+],
+[
+"Jefferson Alcívar",
+"LD",
+23,
+61
+],
+[
+"Aníbal Chalá",
+"ZAG",
+29,
+63
+],
+[
+"Luca Sosa",
+"ZAG",
+30,
+64
+],
+[
+"Leonel Quiñónez",
+"ZAG",
+32,
+63
+],
+[
+"Fernando León",
+"ZAG",
+31,
+62
+],
+[
+"Mario Pineida",
+"LE",
+33,
+62
+],
+[
+"Cristian Pellerano",
+"LE",
+43,
+58
+],
+[
+"Leonai Souza",
+"VOL",
+31,
+64
+],
+[
+"Jesús Trindade",
+"VOL",
+32,
+63
+],
+[
+"Santiago García",
+"VOL",
+19,
+59
+],
+[
+"Damián Díaz",
+"MEI",
+39,
+64
+],
+[
+"Joaquín Valiente",
+"MEI",
+24,
+63
+],
+[
+"Kevin Álvarez",
+"MEI",
+32,
+59
+],
+[
+"Janner Corozo",
+"PD",
+29,
+64
+],
+[
+"Elías Martínez",
+"PE",
+27,
+60
+],
+[
+"Octavio Rivero",
+"AC",
+33,
+64
+],
+[
+"Felipe Caicedo",
+"AC",
+37,
+61
+],
+[
+"Daniel Vera",
+"AC",
+25,
+60
+]
+],
+"Emelec": [
+[
+"Gilmar Napa",
+"GOL",
+21,
+56
+],
+[
+"Diego Peña",
+"GOL",
+26,
+57
+],
+[
+"Víctor Campos",
+"GOL",
+28,
+55
+],
+[
+"Romario Caicedo",
+"LD",
+32,
+61
+],
+[
+"Anton Pérez",
+"LD",
+30,
+60
+],
+[
+"Luis Ayala",
+"ZAG",
+32,
+61
+],
+[
+"Jackson Rodríguez",
+"ZAG",
+28,
+60
+],
+[
+"Byron Palacios",
+"ZAG",
+25,
+60
+],
+[
+"Lucas Ríos",
+"ZAG",
+19,
+61
+],
+[
+"Mario Rizotto",
+"LE",
+28,
+60
+],
+[
+"José Andrés Ayoví",
+"LE",
+26,
+59
+],
+[
+"Dixon Arroyo",
+"VOL",
+33,
+62
+],
+[
+"Diego García",
+"VOL",
+30,
+61
+],
+[
+"Fabio González",
+"VOL",
+25,
+55
+],
+[
+"Alejandro Cabeza",
+"MEI",
+28,
+62
+],
+[
+"Marcelo Sánchez",
+"MEI",
+24,
+57
+],
+[
+"Iker Rodríguez",
+"MEI",
+19,
+60
+],
+[
+"Ronie Carrillo",
+"PD",
+28,
+61
+],
+[
+"Pablo Ramírez",
+"PE",
+26,
+61
+],
+[
+"Alexis Zapata",
+"AC",
+25,
+60
+],
+[
+"Alenis Vargas",
+"AC",
+23,
+56
+],
+[
+"Jhon Espinoza",
+"AC",
+28,
+60
+]
+],
+"Aucas": [
+[
+"Hamilton Piedra",
+"GOL",
+32,
+63
+],
+[
+"Diego López",
+"GOL",
+27,
+61
+],
+[
+"Nicky Hernandez",
+"GOL",
+25,
+58
+],
+[
+"Denilson Sánchez",
+"LD",
+29,
+57
+],
+[
+"Álvaro Rodríguez",
+"LD",
+25,
+58
+],
+[
+"Martín García",
+"ZAG",
+27,
+55
+],
+[
+"Moisés Mosquera",
+"ZAG",
+25,
+58
+],
+[
+"Fabio Giménez",
+"ZAG",
+26,
+58
+],
+[
+"Gaizka Campos",
+"ZAG",
+25,
+58
+],
+[
+"Ronald Duarte",
+"LE",
+20,
+59
+],
+[
+"Fran Pérez",
+"LE",
+24,
+54
+],
+[
+"Vicente Fernández",
+"VOL",
+27,
+54
+],
+[
+"Joel Herrera",
+"VOL",
+23,
+55
+],
+[
+"Styven Vásquez",
+"VOL",
+27,
+55
+],
+[
+"Facundo Martínez",
+"MEI",
+35,
+60
+],
+[
+"Orlando Herrera",
+"MEI",
+25,
+54
+],
+[
+"Didier Palacios",
+"MEI",
+25,
+56
+],
+[
+"Luis Álvarez",
+"PD",
+22,
+58
+],
+[
+"Marcel Ruiz",
+"PE",
+24,
+56
+],
+[
+"Ronaldo Johnson",
+"AC",
+30,
+60
+],
+[
+"Eduardo Zapata",
+"AC",
+27,
+54
+],
+[
+"Jader Valencia",
+"AC",
+20,
+57
+]
+],
+"Univ. Católica": [
+[
+"Darwin Cuero",
+"GOL",
+30,
+61
+],
+[
+"Jorge Moreno",
+"GOL",
+27,
+57
+],
+[
+"Santiago Ramírez",
+"GOL",
+24,
+60
+],
+[
+"M. González",
+"LD",
+20,
+53
+],
+[
+"Zach Fernandez",
+"LD",
+33,
+59
+],
+[
+"Julio García",
+"ZAG",
+19,
+54
+],
+[
+"Felipe Rodríguez",
+"ZAG",
+30,
+56
+],
+[
+"Hernán Ramírez",
+"ZAG",
+28,
+53
+],
+[
+"Gabriel Vega",
+"ZAG",
+21,
+56
+],
+[
+"Randy Báez",
+"LE",
+28,
+53
+],
+[
+"Bayron Martínez",
+"LE",
+28,
+60
+],
+[
+"Jeisson Castro",
+"VOL",
+33,
+53
+],
+[
+"David Quintero",
+"VOL",
+25,
+57
+],
+[
+"Miguel Suárez",
+"VOL",
+19,
+54
+],
+[
+"Enzo Castro",
+"MEI",
+33,
+56
+],
+[
+"Axel Sánchez",
+"MEI",
+30,
+53
+],
+[
+"Juan González",
+"MEI",
+29,
+55
+],
+[
+"G. Villalba",
+"PD",
+20,
+57
+],
+[
+"Yefrei Rodríguez",
+"PE",
+28,
+56
+],
+[
+"Elias Ramírez",
+"AC",
+23,
+53
+],
+[
+"Víctor Benítez",
+"AC",
+21,
+53
+],
+[
+"Kevin Molina",
+"AC",
+23,
+59
+]
+],
+"Dep. Cuenca": [
+[
+"Juan Mendoza",
+"GOL",
+32,
+58
+],
+[
+"Felipe Chávez",
+"GOL",
+27,
+54
+],
+[
+"Manuel Castro",
+"GOL",
+26,
+53
+],
+[
+"Angel Valencia",
+"LD",
+29,
+52
+],
+[
+"Enzo Cardozo",
+"LD",
+24,
+59
+],
+[
+"Cucho Hernández",
+"ZAG",
+22,
+53
+],
+[
+"Unai Ayala",
+"ZAG",
+27,
+58
+],
+[
+"Fernando Vera",
+"ZAG",
+21,
+57
+],
+[
+"Gastón Ramírez",
+"ZAG",
+26,
+56
+],
+[
+"Adrián Sánchez",
+"LE",
+29,
+55
+],
+[
+"Luis Ruíz",
+"LE",
+29,
+55
+],
+[
+"Wálter Chávez",
+"VOL",
+20,
+57
+],
+[
+"Nazareno Romero",
+"VOL",
+22,
+59
+],
+[
+"Alan Fernández",
+"VOL",
+24,
+55
+],
+[
+"John Angulo",
+"MEI",
+29,
+52
+],
+[
+"Joe Gomez",
+"MEI",
+30,
+54
+],
+[
+"Óscar García",
+"MEI",
+26,
+53
+],
+[
+"Jesús González",
+"PD",
+32,
+59
+],
+[
+"André Vasquez",
+"PE",
+20,
+55
+],
+[
+"Álvaro Núñez",
+"AC",
+31,
+54
+],
+[
+"Matias Gómez",
+"AC",
+24,
+58
+],
+[
+"C. Hernández",
+"AC",
+24,
+56
+]
+],
+"El Nacional": [
+[
+"Rodrigo Ríos",
+"GOL",
+32,
+57
+],
+[
+"Miguel Benítez",
+"GOL",
+30,
+55
+],
+[
+"Santiago Flores",
+"GOL",
+29,
+57
+],
+[
+"Kevan Gonzalez",
+"LD",
+27,
+58
+],
+[
+"Octavio Ramos",
+"LD",
+25,
+56
+],
+[
+"Steven Guerrero",
+"ZAG",
+22,
+54
+],
+[
+"Fran Rodríguez",
+"ZAG",
+24,
+53
+],
+[
+"Luciano Vásquez",
+"ZAG",
+25,
+55
+],
+[
+"Jhon Martínez",
+"ZAG",
+29,
+54
+],
+[
+"Agustín Álvarez",
+"LE",
+25,
+58
+],
+[
+"Arturo Rodríguez",
+"LE",
+29,
+55
+],
+[
+"Dairon Mosquera",
+"VOL",
+28,
+59
+],
+[
+"Mateo Mendoza",
+"VOL",
+19,
+59
+],
+[
+"Milton Ríos",
+"VOL",
+21,
+53
+],
+[
+"Ángel Sepúlveda",
+"MEI",
+26,
+59
+],
+[
+"Claudio Ramírez",
+"MEI",
+21,
+52
+],
+[
+"Diego Valencia",
+"MEI",
+20,
+58
+],
+[
+"Franco García",
+"PD",
+27,
+57
+],
+[
+"Óscar Rodríguez",
+"PE",
+28,
+59
+],
+[
+"Devis Vásquez",
+"AC",
+27,
+58
+],
+[
+"Lautaro Gómez",
+"AC",
+25,
+52
+],
+[
+"Damián Suárez",
+"AC",
+30,
+53
+]
+],
+"Orense": [
+[
+"Onan Rodríguez",
+"GOL",
+25,
+51
+],
+[
+"Daniel López",
+"GOL",
+19,
+54
+],
+[
+"Andrés Moreno",
+"GOL",
+30,
+55
+],
+[
+"Omar Riveros",
+"LD",
+29,
+57
+],
+[
+"Brandon Cáceres",
+"LD",
+32,
+51
+],
+[
+"Jair González",
+"ZAG",
+23,
+58
+],
+[
+"Deybi Flores",
+"ZAG",
+28,
+56
+],
+[
+"Daniel Castillo",
+"ZAG",
+32,
+52
+],
+[
+"Santi Franco",
+"ZAG",
+26,
+55
+],
+[
+"Hiram Romero",
+"LE",
+22,
+58
+],
+[
+"Eloy Giménez",
+"LE",
+32,
+57
+],
+[
+"Marcos Sánchez",
+"VOL",
+19,
+53
+],
+[
+"Denilson Muñoz",
+"VOL",
+30,
+56
+],
+[
+"Miguel Gómez",
+"VOL",
+29,
+58
+],
+[
+"Fabián Espinoza",
+"MEI",
+28,
+54
+],
+[
+"Jeslan Caicedo",
+"MEI",
+33,
+54
+],
+[
+"Guillermo Ortiz",
+"MEI",
+27,
+51
+],
+[
+"Kevin Mosquera",
+"PD",
+24,
+52
+],
+[
+"Lucas Núñez",
+"PE",
+28,
+51
+],
+[
+"Carlos López",
+"AC",
+21,
+51
+],
+[
+"Alex Delgado",
+"AC",
+22,
+58
+],
+[
+"Jerson Delgado",
+"AC",
+27,
+51
+]
+],
+"Delfín": [
+[
+"Lazar Marin",
+"GOL",
+26,
+58
+],
+[
+"Nacho González",
+"GOL",
+31,
+56
+],
+[
+"Fran Álvarez",
+"GOL",
+22,
+55
+],
+[
+"Jesús Reyes",
+"LD",
+21,
+53
+],
+[
+"Duván Ruiz",
+"LD",
+25,
+52
+],
+[
+"Hector Marin",
+"ZAG",
+21,
+54
+],
+[
+"Fraivan López",
+"ZAG",
+21,
+57
+],
+[
+"Alejo Rodríguez",
+"ZAG",
+21,
+53
+],
+[
+"Félix Pérez",
+"ZAG",
+27,
+53
+],
+[
+"Diego Ayala",
+"LE",
+26,
+53
+],
+[
+"Marvin Ramos",
+"LE",
+32,
+54
+],
+[
+"Cristhian Paredes",
+"VOL",
+25,
+52
+],
+[
+"Mateo Cáceres",
+"VOL",
+23,
+57
+],
+[
+"Eric Pérez",
+"VOL",
+24,
+52
+],
+[
+"Moha Ramos",
+"MEI",
+33,
+53
+],
+[
+"Pedro Ramírez",
+"MEI",
+21,
+54
+],
+[
+"Andrés Campos",
+"MEI",
+21,
+56
+],
+[
+"Pedro Castro",
+"PD",
+26,
+57
+],
+[
+"Leonardo Ruiz",
+"PE",
+28,
+58
+],
+[
+"Víctor Medina",
+"AC",
+31,
+54
+],
+[
+"Amaury García",
+"AC",
+28,
+53
+],
+[
+"Bagner Delgado",
+"AC",
+22,
+54
+]
+],
+"Serie A Equador|Universitario": [
+[
+"Jesús Araya",
+"GOL",
+25,
+54
+],
+[
+"Ismael Muñoz",
+"GOL",
+26,
+55
+],
+[
+"Marcio Gómez",
+"GOL",
+22,
+55
+],
+[
+"Gabriel López",
+"LD",
+28,
+54
+],
+[
+"Kavier Ortiz",
+"LD",
+20,
+57
+],
+[
+"Pau Pérez",
+"ZAG",
+28,
+50
+],
+[
+"Nilson Angulo",
+"ZAG",
+32,
+50
+],
+[
+"Luis Ortíz",
+"ZAG",
+21,
+51
+],
+[
+"Álex Ramírez",
+"ZAG",
+26,
+53
+],
+[
+"Franco Gómez",
+"LE",
+28,
+56
+],
+[
+"Ángel Rodríguez",
+"LE",
+20,
+52
+],
+[
+"Johannes Nuñez",
+"VOL",
+33,
+57
+],
+[
+"Fer Martínez",
+"VOL",
+33,
+57
+],
+[
+"Tomás Pizarro",
+"VOL",
+20,
+50
+],
+[
+"Jesús Moreno",
+"MEI",
+24,
+55
+],
+[
+"Joan Orellana",
+"MEI",
+20,
+55
+],
+[
+"Juan Aguilar",
+"MEI",
+19,
+52
+],
+[
+"Gonzalo González",
+"PD",
+21,
+57
+],
+[
+"S. Quiñones",
+"PE",
+21,
+53
+],
+[
+"Juan Vera",
+"AC",
+20,
+52
+],
+[
+"Elías Garcia",
+"AC",
+30,
+53
+],
+[
+"Eduardo Herrera",
+"AC",
+30,
+54
+]
+],
+"Macará": [
+[
+"Rudy Ramírez",
+"GOL",
+23,
+55
+],
+[
+"Jhosep Núñez",
+"GOL",
+26,
+55
+],
+[
+"Florent Sanchez",
+"GOL",
+30,
+56
+],
+[
+"Eder González",
+"LD",
+27,
+54
+],
+[
+"Daniel Herrera",
+"LD",
+33,
+49
+],
+[
+"Fermín Ruiz",
+"ZAG",
+22,
+51
+],
+[
+"Denil Castillo",
+"ZAG",
+20,
+49
+],
+[
+"Joel Castillo",
+"ZAG",
+28,
+50
+],
+[
+"Bryan Acosta",
+"ZAG",
+28,
+50
+],
+[
+"Wilkeson Martinez",
+"LE",
+27,
+54
+],
+[
+"Ricardo González",
+"LE",
+32,
+51
+],
+[
+"Rafael Quiñones",
+"VOL",
+26,
+50
+],
+[
+"Javi Gómez",
+"VOL",
+22,
+55
+],
+[
+"Manny Perez",
+"VOL",
+25,
+56
+],
+[
+"Enzo Álvarez",
+"MEI",
+33,
+54
+],
+[
+"Jared Muñoz",
+"MEI",
+31,
+54
+],
+[
+"Matías Giménez",
+"MEI",
+27,
+54
+],
+[
+"Jafer Martínez",
+"PD",
+26,
+51
+],
+[
+"Ariel González",
+"PE",
+19,
+55
+],
+[
+"Joel Martínez",
+"AC",
+32,
+49
+],
+[
+"Jesús Ramírez",
+"AC",
+32,
+54
+],
+[
+"Silvio Escobar",
+"AC",
+30,
+52
+]
+],
+"Mushuc Runa": [
+[
+"Claudio Nuñez",
+"GOL",
+22,
+53
+],
+[
+"Byron Vásquez",
+"GOL",
+30,
+51
+],
+[
+"Elías Valencia",
+"GOL",
+27,
+51
+],
+[
+"Alonso Ramírez",
+"LD",
+19,
+50
+],
+[
+"Héctor Reyes",
+"LD",
+30,
+52
+],
+[
+"Agustín Martínez",
+"ZAG",
+22,
+51
+],
+[
+"Jonhatan Ramos",
+"ZAG",
+26,
+50
+],
+[
+"Homer Martínez",
+"ZAG",
+21,
+54
+],
+[
+"Jonatan Bogado",
+"ZAG",
+25,
+53
+],
+[
+"Luis Fernandez",
+"LE",
+28,
+50
+],
+[
+"Jonathan Herrera",
+"LE",
+19,
+54
+],
+[
+"Domenico Franco",
+"VOL",
+31,
+49
+],
+[
+"Weymmar Castro",
+"VOL",
+30,
+53
+],
+[
+"Yulián Gómez",
+"VOL",
+26,
+53
+],
+[
+"Piero Vargas",
+"MEI",
+21,
+49
+],
+[
+"T. Martin",
+"MEI",
+24,
+49
+],
+[
+"Roberto Pérez",
+"MEI",
+33,
+55
+],
+[
+"Manuel López",
+"PD",
+21,
+49
+],
+[
+"Jaime Pérez",
+"PE",
+20,
+50
+],
+[
+"Pavel Marin",
+"AC",
+21,
+55
+],
+[
+"José Castro",
+"AC",
+23,
+52
+],
+[
+"Elvis Torres",
+"AC",
+28,
+56
+]
+],
+"Serie A Equador|Libertad": [
+[
+"L. Sepúlveda",
+"GOL",
+23,
+50
+],
+[
+"Higinio Marín",
+"GOL",
+25,
+49
+],
+[
+"Mauro González",
+"GOL",
+21,
+54
+],
+[
+"Paulo Romero",
+"LD",
+32,
+55
+],
+[
+"Aldair Sanchez",
+"LD",
+23,
+55
+],
+[
+"Cristian Chávez",
+"ZAG",
+22,
+53
+],
+[
+"Jaime Fuentes",
+"ZAG",
+21,
+52
+],
+[
+"Collin Fernandez",
+"ZAG",
+23,
+54
+],
+[
+"Kevin Reyes",
+"ZAG",
+32,
+51
+],
+[
+"Lautaro Ojeda",
+"LE",
+30,
+49
+],
+[
+"Alexander Medina",
+"LE",
+27,
+50
+],
+[
+"Joelkin Reyes",
+"VOL",
+20,
+51
+],
+[
+"Rolando Herrera",
+"VOL",
+24,
+51
+],
+[
+"Gustavo Medina",
+"VOL",
+24,
+50
+],
+[
+"Matías Palacios",
+"MEI",
+24,
+50
+],
+[
+"Cornelio González",
+"MEI",
+33,
+52
+],
+[
+"Adrián Álvarez",
+"MEI",
+25,
+48
+],
+[
+"Gabriel Castillo",
+"PD",
+22,
+51
+],
+[
+"Joel Fernández",
+"PE",
+19,
+55
+],
+[
+"Irving Hernández",
+"AC",
+25,
+50
+],
+[
+"Javi García",
+"AC",
+32,
+55
+],
+[
+"Francisco López",
+"AC",
+33,
+49
+]
+],
+"Manta": [
+[
+"Sergio Quintero",
+"GOL",
+29,
+52
+],
+[
+"Juan Cruz Vega",
+"GOL",
+25,
+54
+],
+[
+"Fran Martínez",
+"GOL",
+25,
+49
+],
+[
+"Samuel Côme-Ruiz",
+"LD",
+29,
+52
+],
+[
+"Franner López",
+"LD",
+31,
+49
+],
+[
+"Kevin Castillo",
+"ZAG",
+22,
+50
+],
+[
+"Valentín Gómez",
+"ZAG",
+33,
+55
+],
+[
+"Jose Ojeda",
+"ZAG",
+22,
+50
+],
+[
+"Marc Fuentes",
+"ZAG",
+29,
+53
+],
+[
+"Nicolás Chávez",
+"LE",
+22,
+53
+],
+[
+"Mateo Ramos",
+"LE",
+26,
+49
+],
+[
+"Lucas de Vega",
+"VOL",
+20,
+54
+],
+[
+"Dani Molina",
+"VOL",
+28,
+55
+],
+[
+"Brandon Moreno",
+"VOL",
+30,
+48
+],
+[
+"Dani Martínez",
+"MEI",
+27,
+48
+],
+[
+"José Muñoz",
+"MEI",
+28,
+55
+],
+[
+"Christian Ojeda",
+"MEI",
+20,
+50
+],
+[
+"Damián Martínez",
+"PD",
+28,
+50
+],
+[
+"Felipe Castillo",
+"PE",
+32,
+49
+],
+[
+"Wilder Soto",
+"AC",
+27,
+48
+],
+[
+"Anxo Rodríguez",
+"AC",
+22,
+52
+],
+[
+"André Pérez",
+"AC",
+33,
+48
+]
+],
+"Vinotinto": [
+[
+"Joel Romero",
+"GOL",
+30,
+51
+],
+[
+"Gilberto Flores",
+"GOL",
+28,
+47
+],
+[
+"Guillem Molina",
+"GOL",
+32,
+54
+],
+[
+"Agustín Ortiz",
+"LD",
+29,
+54
+],
+[
+"Julien Lopez",
+"LD",
+29,
+49
+],
+[
+"Matías Muñoz",
+"ZAG",
+31,
+48
+],
+[
+"Joan Rojas",
+"ZAG",
+23,
+52
+],
+[
+"Iván Ramos",
+"ZAG",
+21,
+49
+],
+[
+"Johao Martínez",
+"ZAG",
+33,
+52
+],
+[
+"Franklin González",
+"LE",
+33,
+49
+],
+[
+"Jefrey Aguilar",
+"LE",
+24,
+54
+],
+[
+"Iñaki Martínez",
+"VOL",
+31,
+51
+],
+[
+"Jordi Hernández",
+"VOL",
+24,
+48
+],
+[
+"Nicolás Suárez",
+"VOL",
+30,
+50
+],
+[
+"Jota López",
+"MEI",
+30,
+47
+],
+[
+"Luis Ojeda",
+"MEI",
+26,
+47
+],
+[
+"José Cardozo",
+"MEI",
+19,
+49
+],
+[
+"Rodolfo Castro",
+"PD",
+31,
+54
+],
+[
+"Johan García",
+"PE",
+27,
+49
+],
+[
+"Edson Espinoza",
+"AC",
+28,
+54
+],
+[
+"Marco Martínez",
+"AC",
+19,
+53
+],
+[
+"Amando Moreno",
+"AC",
+27,
+48
+]
+]
+}

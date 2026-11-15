@@ -26,6 +26,7 @@ var hub_tab: int = 0
 var screens: Dictionary = {}
 var _modal: Control = null
 var _keep: Array = []
+var head_p: Control = null   ## barra do topo (some nas telas de copa, que têm cabeçalho próprio)
 
 
 func _ready() -> void:
@@ -96,6 +97,7 @@ func _build_chrome() -> void:
 	hs.border_width_top = 5
 	head.add_theme_stylebox_override("panel", hs)
 	root.add_child(head)
+	head_p = head
 	var hb := UI.hbox(14)
 	head.add_child(hb)
 	crest_box = Control.new()
@@ -234,6 +236,8 @@ func _match_screen(root: Control, _arg) -> void:
 
 # Cabeçalho de cada tela
 func head(title: String, sub: String = "", show_back: bool = true) -> void:
+	if head_p != null:
+		head_p.visible = true
 	title_l.text = title
 	sub_l.text = sub
 	sub_l.visible = sub != ""
@@ -252,6 +256,12 @@ func head(title: String, sub: String = "", show_back: bool = true) -> void:
 		var cash: float = float(Pro.P()["money"]) if Pro.is_pro() else float(Game.S["money"])
 		money_l.text = Game.money(cash)
 		money_l.add_theme_color_override("font_color", UI.TXT if cash >= 0.0 else Color("ff8b8b"))
+
+
+## Esconde a barra do topo (telas com cabeçalho temático próprio, como as de copa).
+func bare() -> void:
+	if head_p != null:
+		head_p.visible = false
 
 
 # ------------------------------------------------------------ avisos e janelas

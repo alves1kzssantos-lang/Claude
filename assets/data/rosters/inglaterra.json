@@ -1,0 +1,6330 @@
+{
+ "Manchester City": [
+  [
+   "Gianluigi Donnarumma",
+   "GOL",
+   26,
+   88
+  ],
+  [
+   "James Trafford",
+   "GOL",
+   23,
+   76
+  ],
+  [
+   "Marcus Bettinelli",
+   "GOL",
+   33,
+   64
+  ],
+  [
+   "Rúben Dias",
+   "ZAG",
+   28,
+   87
+  ],
+  [
+   "Josko Gvardiol",
+   "ZAG",
+   23,
+   85
+  ],
+  [
+   "Marc Guéhi",
+   "ZAG",
+   25,
+   83
+  ],
+  [
+   "John Stones",
+   "ZAG",
+   31,
+   81
+  ],
+  [
+   "Nathan Aké",
+   "ZAG",
+   30,
+   80
+  ],
+  [
+   "Abdukodir Khusanov",
+   "ZAG",
+   21,
+   77
+  ],
+  [
+   "Matheus Nunes",
+   "LD",
+   27,
+   79
+  ],
+  [
+   "Rico Lewis",
+   "LD",
+   21,
+   78
+  ],
+  [
+   "Rayan Aït-Nouri",
+   "LE",
+   24,
+   80
+  ],
+  [
+   "Rodri",
+   "VOL",
+   29,
+   88
+  ],
+  [
+   "Nico González",
+   "VOL",
+   23,
+   79
+  ],
+  [
+   "Mateo Kovacic",
+   "VOL",
+   31,
+   81
+  ],
+  [
+   "Tijjani Reijnders",
+   "MEI",
+   27,
+   84
+  ],
+  [
+   "Bernardo Silva",
+   "MEI",
+   31,
+   85
+  ],
+  [
+   "Phil Foden",
+   "MEI",
+   25,
+   85
+  ],
+  [
+   "Rayan Cherki",
+   "MEI",
+   22,
+   82
+  ],
+  [
+   "Savinho",
+   "PD",
+   21,
+   79
+  ],
+  [
+   "Antoine Semenyo",
+   "PD",
+   26,
+   83
+  ],
+  [
+   "Jérémy Doku",
+   "PE",
+   23,
+   82
+  ],
+  [
+   "Omar Marmoush",
+   "AC",
+   26,
+   82
+  ],
+  [
+   "Erling Haaland",
+   "AC",
+   25,
+   91
+  ]
+ ],
+ "Liverpool": [
+  [
+   "Alisson",
+   "GOL",
+   33,
+   88
+  ],
+  [
+   "Giorgi Mamardashvili",
+   "GOL",
+   25,
+   82
+  ],
+  [
+   "Freddie Woodman",
+   "GOL",
+   28,
+   66
+  ],
+  [
+   "Virgil van Dijk",
+   "ZAG",
+   34,
+   88
+  ],
+  [
+   "Ibrahima Konaté",
+   "ZAG",
+   26,
+   85
+  ],
+  [
+   "Joe Gomez",
+   "ZAG",
+   28,
+   78
+  ],
+  [
+   "Giovanni Leoni",
+   "ZAG",
+   19,
+   71
+  ],
+  [
+   "Jeremie Frimpong",
+   "LD",
+   25,
+   83
+  ],
+  [
+   "Conor Bradley",
+   "LD",
+   22,
+   77
+  ],
+  [
+   "Milos Kerkez",
+   "LE",
+   22,
+   81
+  ],
+  [
+   "Andrew Robertson",
+   "LE",
+   31,
+   81
+  ],
+  [
+   "Ryan Gravenberch",
+   "VOL",
+   23,
+   85
+  ],
+  [
+   "Wataru Endo",
+   "VOL",
+   32,
+   75
+  ],
+  [
+   "Alexis Mac Allister",
+   "MEI",
+   27,
+   86
+  ],
+  [
+   "Dominik Szoboszlai",
+   "MEI",
+   25,
+   85
+  ],
+  [
+   "Florian Wirtz",
+   "MEI",
+   22,
+   87
+  ],
+  [
+   "Curtis Jones",
+   "MEI",
+   24,
+   80
+  ],
+  [
+   "Trey Nyoni",
+   "MEI",
+   18,
+   66
+  ],
+  [
+   "Mohamed Salah",
+   "PD",
+   33,
+   89
+  ],
+  [
+   "Federico Chiesa",
+   "PE",
+   28,
+   77
+  ],
+  [
+   "Cody Gakpo",
+   "PE",
+   26,
+   84
+  ],
+  [
+   "Rio Ngumoha",
+   "PE",
+   17,
+   66
+  ],
+  [
+   "Hugo Ekitiké",
+   "AC",
+   23,
+   83
+  ],
+  [
+   "Alexander Isak",
+   "AC",
+   26,
+   87
+  ]
+ ],
+ "Arsenal": [
+  [
+   "David Raya",
+   "GOL",
+   30,
+   87
+  ],
+  [
+   "Kepa Arrizabalaga",
+   "GOL",
+   31,
+   79
+  ],
+  [
+   "Tommy Setford",
+   "GOL",
+   19,
+   60
+  ],
+  [
+   "William Saliba",
+   "ZAG",
+   24,
+   87
+  ],
+  [
+   "Gabriel",
+   "ZAG",
+   28,
+   87
+  ],
+  [
+   "Cristhian Mosquera",
+   "ZAG",
+   21,
+   76
+  ],
+  [
+   "Piero Hincapié",
+   "ZAG",
+   23,
+   81
+  ],
+  [
+   "Ben White",
+   "LD",
+   28,
+   81
+  ],
+  [
+   "Jurriën Timber",
+   "LD",
+   24,
+   83
+  ],
+  [
+   "Riccardo Calafiori",
+   "LE",
+   23,
+   80
+  ],
+  [
+   "Myles Lewis-Skelly",
+   "LE",
+   19,
+   77
+  ],
+  [
+   "Declan Rice",
+   "VOL",
+   26,
+   87
+  ],
+  [
+   "Martín Zubimendi",
+   "VOL",
+   26,
+   85
+  ],
+  [
+   "Christian Nørgaard",
+   "VOL",
+   31,
+   78
+  ],
+  [
+   "Martin Odegaard",
+   "MEI",
+   27,
+   86
+  ],
+  [
+   "Mikel Merino",
+   "MEI",
+   29,
+   83
+  ],
+  [
+   "Eberechi Eze",
+   "MEI",
+   27,
+   84
+  ],
+  [
+   "Max Dowman",
+   "MEI",
+   16,
+   63
+  ],
+  [
+   "Bukayo Saka",
+   "PD",
+   24,
+   88
+  ],
+  [
+   "Noni Madueke",
+   "PD",
+   23,
+   80
+  ],
+  [
+   "Gabriel Martinelli",
+   "PE",
+   24,
+   82
+  ],
+  [
+   "Leandro Trossard",
+   "PE",
+   31,
+   82
+  ],
+  [
+   "Viktor Gyökeres",
+   "AC",
+   27,
+   85
+  ],
+  [
+   "Kai Havertz",
+   "AC",
+   26,
+   83
+  ],
+  [
+   "Gabriel Jesus",
+   "AC",
+   28,
+   79
+  ]
+ ],
+ "Chelsea": [
+  [
+   "Robert Sánchez",
+   "GOL",
+   28,
+   80
+  ],
+  [
+   "Filip Jørgensen",
+   "GOL",
+   23,
+   75
+  ],
+  [
+   "Gabriel Slonina",
+   "GOL",
+   21,
+   64
+  ],
+  [
+   "Wesley Fofana",
+   "ZAG",
+   25,
+   80
+  ],
+  [
+   "Levi Colwill",
+   "ZAG",
+   22,
+   82
+  ],
+  [
+   "Trevoh Chalobah",
+   "ZAG",
+   26,
+   80
+  ],
+  [
+   "Tosin Adarabioyo",
+   "ZAG",
+   28,
+   77
+  ],
+  [
+   "Benoît Badiashile",
+   "ZAG",
+   24,
+   77
+  ],
+  [
+   "Reece James",
+   "LD",
+   26,
+   84
+  ],
+  [
+   "Malo Gusto",
+   "LD",
+   22,
+   80
+  ],
+  [
+   "Marc Cucurella",
+   "LE",
+   27,
+   83
+  ],
+  [
+   "Jorrel Hato",
+   "LE",
+   19,
+   77
+  ],
+  [
+   "Moisés Caicedo",
+   "VOL",
+   24,
+   87
+  ],
+  [
+   "Roméo Lavia",
+   "VOL",
+   21,
+   78
+  ],
+  [
+   "Andrey Santos",
+   "VOL",
+   21,
+   76
+  ],
+  [
+   "Dário Essugo",
+   "VOL",
+   20,
+   70
+  ],
+  [
+   "Enzo Fernández",
+   "MEI",
+   24,
+   84
+  ],
+  [
+   "Cole Palmer",
+   "MEI",
+   23,
+   87
+  ],
+  [
+   "Estêvão",
+   "PD",
+   18,
+   80
+  ],
+  [
+   "Pedro Neto",
+   "PE",
+   25,
+   82
+  ],
+  [
+   "Jamie Gittens",
+   "PE",
+   21,
+   78
+  ],
+  [
+   "Alejandro Garnacho",
+   "PE",
+   21,
+   79
+  ],
+  [
+   "João Pedro",
+   "AC",
+   24,
+   83
+  ],
+  [
+   "Liam Delap",
+   "AC",
+   22,
+   77
+  ],
+  [
+   "Marc Guiu",
+   "AC",
+   19,
+   70
+  ]
+ ],
+ "Manchester United": [
+  [
+   "Senne Lammens",
+   "GOL",
+   23,
+   77
+  ],
+  [
+   "Altay Bayındır",
+   "GOL",
+   27,
+   73
+  ],
+  [
+   "Tom Heaton",
+   "GOL",
+   39,
+   62
+  ],
+  [
+   "Matthijs de Ligt",
+   "ZAG",
+   26,
+   82
+  ],
+  [
+   "Harry Maguire",
+   "ZAG",
+   32,
+   78
+  ],
+  [
+   "Lisandro Martínez",
+   "ZAG",
+   27,
+   82
+  ],
+  [
+   "Leny Yoro",
+   "ZAG",
+   20,
+   78
+  ],
+  [
+   "Ayden Heaven",
+   "ZAG",
+   19,
+   70
+  ],
+  [
+   "Diogo Dalot",
+   "LD",
+   26,
+   80
+  ],
+  [
+   "Noussair Mazraoui",
+   "LD",
+   28,
+   79
+  ],
+  [
+   "Luke Shaw",
+   "LE",
+   30,
+   78
+  ],
+  [
+   "Patrick Dorgu",
+   "LE",
+   21,
+   77
+  ],
+  [
+   "Tyrell Malacia",
+   "LE",
+   26,
+   72
+  ],
+  [
+   "Casemiro",
+   "VOL",
+   33,
+   80
+  ],
+  [
+   "Manuel Ugarte",
+   "VOL",
+   24,
+   79
+  ],
+  [
+   "Kobbie Mainoo",
+   "MEI",
+   20,
+   79
+  ],
+  [
+   "Bruno Fernandes",
+   "MEI",
+   31,
+   87
+  ],
+  [
+   "Mason Mount",
+   "MEI",
+   26,
+   77
+  ],
+  [
+   "Amad Diallo",
+   "PD",
+   23,
+   81
+  ],
+  [
+   "Bryan Mbeumo",
+   "PD",
+   26,
+   83
+  ],
+  [
+   "Matheus Cunha",
+   "PE",
+   26,
+   83
+  ],
+  [
+   "Benjamin Šeško",
+   "AC",
+   22,
+   81
+  ],
+  [
+   "Joshua Zirkzee",
+   "AC",
+   24,
+   76
+  ]
+ ],
+ "Tottenham": [
+  [
+   "Guglielmo Vicario",
+   "GOL",
+   29,
+   83
+  ],
+  [
+   "Antonín Kinský",
+   "GOL",
+   22,
+   72
+  ],
+  [
+   "Brandon Austin",
+   "GOL",
+   26,
+   62
+  ],
+  [
+   "Cristian Romero",
+   "ZAG",
+   27,
+   85
+  ],
+  [
+   "Micky van de Ven",
+   "ZAG",
+   24,
+   84
+  ],
+  [
+   "Kevin Danso",
+   "ZAG",
+   27,
+   78
+  ],
+  [
+   "Radu Drăgușin",
+   "ZAG",
+   23,
+   76
+  ],
+  [
+   "Pedro Porro",
+   "LD",
+   26,
+   82
+  ],
+  [
+   "Djed Spence",
+   "LD",
+   25,
+   77
+  ],
+  [
+   "Destiny Udogie",
+   "LE",
+   23,
+   80
+  ],
+  [
+   "Ben Davies",
+   "LE",
+   32,
+   74
+  ],
+  [
+   "João Palhinha",
+   "VOL",
+   30,
+   82
+  ],
+  [
+   "Rodrigo Bentancur",
+   "VOL",
+   28,
+   80
+  ],
+  [
+   "Archie Gray",
+   "VOL",
+   19,
+   75
+  ],
+  [
+   "Pape Matar Sarr",
+   "MEI",
+   23,
+   80
+  ],
+  [
+   "Lucas Bergvall",
+   "MEI",
+   19,
+   77
+  ],
+  [
+   "Conor Gallagher",
+   "MEI",
+   25,
+   81
+  ],
+  [
+   "James Maddison",
+   "MEI",
+   29,
+   83
+  ],
+  [
+   "Dejan Kulusevski",
+   "MEI",
+   25,
+   82
+  ],
+  [
+   "Xavi Simons",
+   "MEI",
+   22,
+   83
+  ],
+  [
+   "Mohammed Kudus",
+   "PD",
+   25,
+   83
+  ],
+  [
+   "Wilson Odobert",
+   "PE",
+   21,
+   74
+  ],
+  [
+   "Mathys Tel",
+   "AC",
+   20,
+   75
+  ],
+  [
+   "Dominic Solanke",
+   "AC",
+   28,
+   80
+  ],
+  [
+   "Randal Kolo Muani",
+   "AC",
+   27,
+   79
+  ],
+  [
+   "Richarlison",
+   "AC",
+   28,
+   78
+  ]
+ ],
+ "Newcastle United": [
+  [
+   "Nick Pope",
+   "GOL",
+   33,
+   83
+  ],
+  [
+   "Aaron Ramsdale",
+   "GOL",
+   27,
+   78
+  ],
+  [
+   "John Ruddy",
+   "GOL",
+   39,
+   60
+  ],
+  [
+   "Sven Botman",
+   "ZAG",
+   25,
+   81
+  ],
+  [
+   "Fabian Schär",
+   "ZAG",
+   34,
+   79
+  ],
+  [
+   "Dan Burn",
+   "ZAG",
+   33,
+   79
+  ],
+  [
+   "Malick Thiaw",
+   "ZAG",
+   24,
+   80
+  ],
+  [
+   "Kieran Trippier",
+   "LD",
+   35,
+   79
+  ],
+  [
+   "Tino Livramento",
+   "LD",
+   23,
+   80
+  ],
+  [
+   "Emil Krafth",
+   "LD",
+   31,
+   70
+  ],
+  [
+   "Lewis Hall",
+   "LE",
+   21,
+   79
+  ],
+  [
+   "Bruno Guimarães",
+   "VOL",
+   28,
+   86
+  ],
+  [
+   "Sandro Tonali",
+   "VOL",
+   25,
+   85
+  ],
+  [
+   "Joelinton",
+   "MEI",
+   29,
+   81
+  ],
+  [
+   "Jacob Ramsey",
+   "MEI",
+   24,
+   77
+  ],
+  [
+   "Joe Willock",
+   "MEI",
+   26,
+   75
+  ],
+  [
+   "Lewis Miley",
+   "MEI",
+   19,
+   72
+  ],
+  [
+   "Anthony Gordon",
+   "PE",
+   24,
+   83
+  ],
+  [
+   "Harvey Barnes",
+   "PE",
+   28,
+   78
+  ],
+  [
+   "Jacob Murphy",
+   "PD",
+   30,
+   77
+  ],
+  [
+   "Anthony Elanga",
+   "PD",
+   23,
+   79
+  ],
+  [
+   "Nick Woltemade",
+   "AC",
+   23,
+   81
+  ],
+  [
+   "Yoane Wissa",
+   "AC",
+   29,
+   80
+  ],
+  [
+   "William Osula",
+   "AC",
+   22,
+   72
+  ]
+ ],
+ "Aston Villa": [
+  [
+   "Emiliano Martínez",
+   "GOL",
+   33,
+   85
+  ],
+  [
+   "Marco Bizot",
+   "GOL",
+   34,
+   74
+  ],
+  [
+   "Oliwier Zych",
+   "GOL",
+   21,
+   58
+  ],
+  [
+   "Ezri Konsa",
+   "ZAG",
+   28,
+   82
+  ],
+  [
+   "Pau Torres",
+   "ZAG",
+   28,
+   82
+  ],
+  [
+   "Tyrone Mings",
+   "ZAG",
+   32,
+   77
+  ],
+  [
+   "Victor Lindelöf",
+   "ZAG",
+   31,
+   77
+  ],
+  [
+   "Lamare Bogarde",
+   "ZAG",
+   21,
+   70
+  ],
+  [
+   "Matty Cash",
+   "LD",
+   28,
+   79
+  ],
+  [
+   "Andrés García",
+   "LD",
+   22,
+   72
+  ],
+  [
+   "Lucas Digne",
+   "LE",
+   32,
+   78
+  ],
+  [
+   "Ian Maatsen",
+   "LE",
+   23,
+   77
+  ],
+  [
+   "Boubacar Kamara",
+   "VOL",
+   26,
+   83
+  ],
+  [
+   "Amadou Onana",
+   "VOL",
+   24,
+   82
+  ],
+  [
+   "Douglas Luiz",
+   "VOL",
+   27,
+   79
+  ],
+  [
+   "Youri Tielemans",
+   "MEI",
+   28,
+   83
+  ],
+  [
+   "John McGinn",
+   "MEI",
+   31,
+   81
+  ],
+  [
+   "Ross Barkley",
+   "MEI",
+   32,
+   76
+  ],
+  [
+   "Morgan Rogers",
+   "MEI",
+   23,
+   83
+  ],
+  [
+   "Emiliano Buendía",
+   "MEI",
+   29,
+   77
+  ],
+  [
+   "Harvey Elliott",
+   "MEI",
+   22,
+   77
+  ],
+  [
+   "Jadon Sancho",
+   "PE",
+   25,
+   77
+  ],
+  [
+   "Alysson",
+   "PE",
+   19,
+   68
+  ],
+  [
+   "Ollie Watkins",
+   "AC",
+   30,
+   83
+  ],
+  [
+   "Tammy Abraham",
+   "AC",
+   28,
+   77
+  ]
+ ],
+ "Brighton": [
+  [
+   "Bart Verbruggen",
+   "GOL",
+   23,
+   79
+  ],
+  [
+   "Jason Steele",
+   "GOL",
+   35,
+   68
+  ],
+  [
+   "Tom McGill",
+   "GOL",
+   25,
+   63
+  ],
+  [
+   "Lewis Dunk",
+   "ZAG",
+   34,
+   79
+  ],
+  [
+   "Jan Paul van Hecke",
+   "ZAG",
+   25,
+   80
+  ],
+  [
+   "Olivier Boscagli",
+   "ZAG",
+   27,
+   76
+  ],
+  [
+   "Adam Webster",
+   "ZAG",
+   30,
+   74
+  ],
+  [
+   "Joël Veltman",
+   "LD",
+   33,
+   74
+  ],
+  [
+   "Mats Wieffer",
+   "LD",
+   26,
+   77
+  ],
+  [
+   "Ferdi Kadıoğlu",
+   "LE",
+   26,
+   80
+  ],
+  [
+   "Maxim De Cuyper",
+   "LE",
+   25,
+   77
+  ],
+  [
+   "Carlos Baleba",
+   "VOL",
+   21,
+   81
+  ],
+  [
+   "Pascal Groß",
+   "VOL",
+   34,
+   79
+  ],
+  [
+   "Yasin Ayari",
+   "MEI",
+   22,
+   76
+  ],
+  [
+   "Jack Hinshelwood",
+   "MEI",
+   20,
+   75
+  ],
+  [
+   "James Milner",
+   "MEI",
+   39,
+   70
+  ],
+  [
+   "Diego Gómez",
+   "MEI",
+   22,
+   76
+  ],
+  [
+   "Kaoru Mitoma",
+   "PE",
+   28,
+   81
+  ],
+  [
+   "Yankuba Minteh",
+   "PD",
+   21,
+   77
+  ],
+  [
+   "Solly March",
+   "PD",
+   31,
+   73
+  ],
+  [
+   "Georginio Rutter",
+   "AC",
+   23,
+   77
+  ],
+  [
+   "Danny Welbeck",
+   "AC",
+   35,
+   75
+  ],
+  [
+   "Stefanos Tzimas",
+   "AC",
+   19,
+   70
+  ],
+  [
+   "Charalampos Kostoulas",
+   "AC",
+   18,
+   70
+  ]
+ ],
+ "West Ham United": [
+  [
+   "Alphonse Areola",
+   "GOL",
+   32,
+   79
+  ],
+  [
+   "Mads Hermansen",
+   "GOL",
+   25,
+   77
+  ],
+  [
+   "Łukasz Fabiański",
+   "GOL",
+   40,
+   70
+  ],
+  [
+   "Max Kilman",
+   "ZAG",
+   28,
+   78
+  ],
+  [
+   "Jean-Clair Todibo",
+   "ZAG",
+   26,
+   78
+  ],
+  [
+   "Konstantinos Mavropanos",
+   "ZAG",
+   28,
+   77
+  ],
+  [
+   "Igor Julio",
+   "ZAG",
+   27,
+   74
+  ],
+  [
+   "Axel Disasi",
+   "ZAG",
+   27,
+   76
+  ],
+  [
+   "Aaron Wan-Bissaka",
+   "LD",
+   28,
+   79
+  ],
+  [
+   "Kyle Walker-Peters",
+   "LD",
+   28,
+   76
+  ],
+  [
+   "El Hadji Malick Diouf",
+   "LE",
+   21,
+   76
+  ],
+  [
+   "Oliver Scarles",
+   "LE",
+   20,
+   66
+  ],
+  [
+   "Tomáš Souček",
+   "VOL",
+   30,
+   78
+  ],
+  [
+   "Soungoutou Magassa",
+   "VOL",
+   22,
+   72
+  ],
+  [
+   "Freddie Potts",
+   "VOL",
+   22,
+   70
+  ],
+  [
+   "Mateus Fernandes",
+   "MEI",
+   21,
+   77
+  ],
+  [
+   "Jarrod Bowen",
+   "PD",
+   29,
+   83
+  ],
+  [
+   "Adama Traoré",
+   "PD",
+   29,
+   75
+  ],
+  [
+   "Crysencio Summerville",
+   "PE",
+   24,
+   77
+  ],
+  [
+   "Pablo Felipe",
+   "PE",
+   23,
+   70
+  ],
+  [
+   "Callum Wilson",
+   "AC",
+   33,
+   74
+  ],
+  [
+   "Taty Castellanos",
+   "AC",
+   27,
+   78
+  ]
+ ],
+ "Nottingham Forest": [
+  [
+   "Matz Sels",
+   "GOL",
+   33,
+   82
+  ],
+  [
+   "Stefan Ortega",
+   "GOL",
+   33,
+   77
+  ],
+  [
+   "John Victor",
+   "GOL",
+   29,
+   74
+  ],
+  [
+   "Murillo",
+   "ZAG",
+   23,
+   82
+  ],
+  [
+   "Nikola Milenković",
+   "ZAG",
+   28,
+   83
+  ],
+  [
+   "Morato",
+   "ZAG",
+   24,
+   75
+  ],
+  [
+   "Willy Boly",
+   "ZAG",
+   34,
+   72
+  ],
+  [
+   "Jair Cunha",
+   "ZAG",
+   20,
+   72
+  ],
+  [
+   "Neco Williams",
+   "LD",
+   24,
+   78
+  ],
+  [
+   "Ola Aina",
+   "LD",
+   29,
+   79
+  ],
+  [
+   "Nicolò Savona",
+   "LD",
+   22,
+   75
+  ],
+  [
+   "Luca Netz",
+   "LE",
+   22,
+   74
+  ],
+  [
+   "Elliot Anderson",
+   "VOL",
+   23,
+   83
+  ],
+  [
+   "Ibrahim Sangaré",
+   "VOL",
+   28,
+   77
+  ],
+  [
+   "Ryan Yates",
+   "VOL",
+   28,
+   75
+  ],
+  [
+   "Nicolás Domínguez",
+   "MEI",
+   27,
+   75
+  ],
+  [
+   "Morgan Gibbs-White",
+   "MEI",
+   25,
+   83
+  ],
+  [
+   "James McAtee",
+   "MEI",
+   23,
+   76
+  ],
+  [
+   "Omari Hutchinson",
+   "PD",
+   22,
+   76
+  ],
+  [
+   "Dilane Bakwa",
+   "PD",
+   23,
+   74
+  ],
+  [
+   "Dan Ndoye",
+   "PE",
+   25,
+   79
+  ],
+  [
+   "Callum Hudson-Odoi",
+   "PE",
+   25,
+   78
+  ],
+  [
+   "Chris Wood",
+   "AC",
+   34,
+   80
+  ],
+  [
+   "Igor Jesus",
+   "AC",
+   24,
+   78
+  ],
+  [
+   "Taiwo Awoniyi",
+   "AC",
+   28,
+   72
+  ],
+  [
+   "Lorenzo Lucca",
+   "AC",
+   25,
+   76
+  ]
+ ],
+ "Crystal Palace": [
+  [
+   "Dean Henderson",
+   "GOL",
+   28,
+   82
+  ],
+  [
+   "Walter Benítez",
+   "GOL",
+   32,
+   74
+  ],
+  [
+   "Remi Matthews",
+   "GOL",
+   31,
+   62
+  ],
+  [
+   "Maxence Lacroix",
+   "ZAG",
+   25,
+   81
+  ],
+  [
+   "Chris Richards",
+   "ZAG",
+   25,
+   78
+  ],
+  [
+   "Jaydee Canvot",
+   "ZAG",
+   19,
+   72
+  ],
+  [
+   "Chadi Riad",
+   "ZAG",
+   22,
+   74
+  ],
+  [
+   "Nathaniel Clyne",
+   "ZAG",
+   34,
+   70
+  ],
+  [
+   "Daniel Muñoz",
+   "LD",
+   29,
+   81
+  ],
+  [
+   "Tyrick Mitchell",
+   "LE",
+   26,
+   79
+  ],
+  [
+   "Borna Sosa",
+   "LE",
+   27,
+   73
+  ],
+  [
+   "Adam Wharton",
+   "VOL",
+   21,
+   81
+  ],
+  [
+   "Will Hughes",
+   "VOL",
+   30,
+   76
+  ],
+  [
+   "Cheick Doucouré",
+   "VOL",
+   25,
+   76
+  ],
+  [
+   "Jefferson Lerma",
+   "VOL",
+   31,
+   77
+  ],
+  [
+   "Daichi Kamada",
+   "MEI",
+   29,
+   77
+  ],
+  [
+   "Justin Devenny",
+   "MEI",
+   22,
+   70
+  ],
+  [
+   "Yéremy Pino",
+   "PD",
+   23,
+   80
+  ],
+  [
+   "Ismaïla Sarr",
+   "PD",
+   27,
+   80
+  ],
+  [
+   "Brennan Johnson",
+   "PD",
+   24,
+   79
+  ],
+  [
+   "Jean-Philippe Mateta",
+   "AC",
+   28,
+   81
+  ],
+  [
+   "Jørgen Strand Larsen",
+   "AC",
+   25,
+   79
+  ],
+  [
+   "Eddie Nketiah",
+   "AC",
+   26,
+   74
+  ],
+  [
+   "Evann Guessand",
+   "AC",
+   24,
+   75
+  ]
+ ],
+ "Bournemouth": [
+  [
+   "Đorđe Petrović",
+   "GOL",
+   26,
+   78
+  ],
+  [
+   "Christos Mandas",
+   "GOL",
+   24,
+   74
+  ],
+  [
+   "Fraser Forster",
+   "GOL",
+   37,
+   70
+  ],
+  [
+   "Marcos Senesi",
+   "ZAG",
+   28,
+   79
+  ],
+  [
+   "Bafodé Diakité",
+   "ZAG",
+   24,
+   77
+  ],
+  [
+   "James Hill",
+   "ZAG",
+   23,
+   70
+  ],
+  [
+   "Veljko Milosavljević",
+   "ZAG",
+   18,
+   70
+  ],
+  [
+   "Alex Jiménez",
+   "LD",
+   20,
+   74
+  ],
+  [
+   "Adam Smith",
+   "LD",
+   34,
+   72
+  ],
+  [
+   "Adrien Truffert",
+   "LE",
+   24,
+   77
+  ],
+  [
+   "Julio Soler",
+   "LE",
+   20,
+   69
+  ],
+  [
+   "Tyler Adams",
+   "VOL",
+   26,
+   79
+  ],
+  [
+   "Lewis Cook",
+   "VOL",
+   28,
+   77
+  ],
+  [
+   "Alex Scott",
+   "MEI",
+   22,
+   77
+  ],
+  [
+   "Ryan Christie",
+   "MEI",
+   30,
+   75
+  ],
+  [
+   "Marcus Tavernier",
+   "MEI",
+   26,
+   77
+  ],
+  [
+   "Justin Kluivert",
+   "MEI",
+   26,
+   79
+  ],
+  [
+   "Alex Tóth",
+   "MEI",
+   20,
+   68
+  ],
+  [
+   "David Brooks",
+   "PD",
+   28,
+   75
+  ],
+  [
+   "Ben Doak",
+   "PD",
+   20,
+   74
+  ],
+  [
+   "Rayan",
+   "PD",
+   19,
+   72
+  ],
+  [
+   "Amine Adli",
+   "PE",
+   25,
+   77
+  ],
+  [
+   "Evanilson",
+   "AC",
+   26,
+   79
+  ],
+  [
+   "Eli Junior Kroupi",
+   "AC",
+   19,
+   74
+  ],
+  [
+   "Enes Ünal",
+   "AC",
+   28,
+   72
+  ]
+ ],
+ "Fulham": [
+  [
+   "Bernd Leno",
+   "GOL",
+   33,
+   82
+  ],
+  [
+   "Benjamin Lecomte",
+   "GOL",
+   34,
+   70
+  ],
+  [
+   "Steven Benda",
+   "GOL",
+   27,
+   64
+  ],
+  [
+   "Joachim Andersen",
+   "ZAG",
+   29,
+   79
+  ],
+  [
+   "Calvin Bassey",
+   "ZAG",
+   26,
+   77
+  ],
+  [
+   "Issa Diop",
+   "ZAG",
+   28,
+   75
+  ],
+  [
+   "Jorge Cuenca",
+   "ZAG",
+   26,
+   73
+  ],
+  [
+   "Kenny Tete",
+   "LD",
+   30,
+   76
+  ],
+  [
+   "Timothy Castagne",
+   "LD",
+   30,
+   76
+  ],
+  [
+   "Antonee Robinson",
+   "LE",
+   28,
+   80
+  ],
+  [
+   "Ryan Sessegnon",
+   "LE",
+   25,
+   72
+  ],
+  [
+   "Sander Berge",
+   "VOL",
+   27,
+   78
+  ],
+  [
+   "Saša Lukić",
+   "VOL",
+   29,
+   75
+  ],
+  [
+   "Harrison Reed",
+   "VOL",
+   30,
+   72
+  ],
+  [
+   "Tom Cairney",
+   "MEI",
+   34,
+   72
+  ],
+  [
+   "Emile Smith Rowe",
+   "MEI",
+   25,
+   77
+  ],
+  [
+   "Andreas Pereira",
+   "MEI",
+   29,
+   77
+  ],
+  [
+   "Joshua King",
+   "MEI",
+   18,
+   68
+  ],
+  [
+   "Harry Wilson",
+   "PD",
+   28,
+   79
+  ],
+  [
+   "Samuel Chukwueze",
+   "PD",
+   26,
+   76
+  ],
+  [
+   "Oscar Bobb",
+   "PD",
+   22,
+   74
+  ],
+  [
+   "Alex Iwobi",
+   "PE",
+   29,
+   80
+  ],
+  [
+   "Kevin",
+   "PE",
+   22,
+   74
+  ],
+  [
+   "Raúl Jiménez",
+   "AC",
+   34,
+   77
+  ],
+  [
+   "Rodrigo Muniz",
+   "AC",
+   24,
+   76
+  ]
+ ],
+ "Brentford": [
+  [
+   "Caoimhín Kelleher",
+   "GOL",
+   27,
+   80
+  ],
+  [
+   "Hákon Rafn Valdimarsson",
+   "GOL",
+   24,
+   70
+  ],
+  [
+   "Julian Eyestone",
+   "GOL",
+   23,
+   60
+  ],
+  [
+   "Nathan Collins",
+   "ZAG",
+   24,
+   79
+  ],
+  [
+   "Kristoffer Ajer",
+   "ZAG",
+   27,
+   76
+  ],
+  [
+   "Sepp van den Berg",
+   "ZAG",
+   24,
+   77
+  ],
+  [
+   "Ethan Pinnock",
+   "ZAG",
+   32,
+   76
+  ],
+  [
+   "Michael Kayode",
+   "LD",
+   21,
+   75
+  ],
+  [
+   "Aaron Hickey",
+   "LD",
+   23,
+   74
+  ],
+  [
+   "Rico Henry",
+   "LE",
+   28,
+   74
+  ],
+  [
+   "Keane Lewis-Potter",
+   "LE",
+   24,
+   75
+  ],
+  [
+   "Vitaly Janelt",
+   "VOL",
+   27,
+   76
+  ],
+  [
+   "Jordan Henderson",
+   "VOL",
+   35,
+   76
+  ],
+  [
+   "Yehor Yarmoliuk",
+   "MEI",
+   21,
+   72
+  ],
+  [
+   "Mathias Jensen",
+   "MEI",
+   29,
+   76
+  ],
+  [
+   "Mikkel Damsgaard",
+   "MEI",
+   25,
+   78
+  ],
+  [
+   "Fábio Carvalho",
+   "MEI",
+   23,
+   72
+  ],
+  [
+   "Antoni Milambo",
+   "MEI",
+   20,
+   70
+  ],
+  [
+   "Josh Dasilva",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Dango Ouattara",
+   "PD",
+   23,
+   77
+  ],
+  [
+   "Kevin Schade",
+   "PE",
+   24,
+   77
+  ],
+  [
+   "Reiss Nelson",
+   "PE",
+   26,
+   72
+  ],
+  [
+   "Igor Thiago",
+   "AC",
+   24,
+   79
+  ],
+  [
+   "Kaye Furo",
+   "AC",
+   18,
+   64
+  ]
+ ],
+ "Everton": [
+  [
+   "Jordan Pickford",
+   "GOL",
+   31,
+   84
+  ],
+  [
+   "Mark Travers",
+   "GOL",
+   26,
+   72
+  ],
+  [
+   "Tom King",
+   "GOL",
+   30,
+   64
+  ],
+  [
+   "James Tarkowski",
+   "ZAG",
+   33,
+   79
+  ],
+  [
+   "Jarrad Branthwaite",
+   "ZAG",
+   23,
+   80
+  ],
+  [
+   "Michael Keane",
+   "ZAG",
+   32,
+   75
+  ],
+  [
+   "Jake O'Brien",
+   "ZAG",
+   24,
+   76
+  ],
+  [
+   "Nathan Patterson",
+   "LD",
+   24,
+   73
+  ],
+  [
+   "Séamus Coleman",
+   "LD",
+   37,
+   70
+  ],
+  [
+   "Vitalii Mykolenko",
+   "LE",
+   26,
+   77
+  ],
+  [
+   "Adam Aznou",
+   "LE",
+   19,
+   68
+  ],
+  [
+   "James Garner",
+   "VOL",
+   24,
+   78
+  ],
+  [
+   "Idrissa Gueye",
+   "VOL",
+   36,
+   77
+  ],
+  [
+   "Tim Iroegbunam",
+   "VOL",
+   22,
+   70
+  ],
+  [
+   "Merlin Röhl",
+   "MEI",
+   23,
+   72
+  ],
+  [
+   "Kiernan Dewsbury-Hall",
+   "MEI",
+   27,
+   78
+  ],
+  [
+   "Carlos Alcaraz",
+   "MEI",
+   22,
+   74
+  ],
+  [
+   "Tyler Dibling",
+   "PD",
+   19,
+   74
+  ],
+  [
+   "Jack Grealish",
+   "PE",
+   30,
+   81
+  ],
+  [
+   "Iliman Ndiaye",
+   "PE",
+   25,
+   80
+  ],
+  [
+   "Dwight McNeil",
+   "PE",
+   26,
+   77
+  ],
+  [
+   "Tyrique George",
+   "PE",
+   19,
+   70
+  ],
+  [
+   "Beto",
+   "AC",
+   27,
+   75
+  ],
+  [
+   "Thierno Barry",
+   "AC",
+   23,
+   75
+  ]
+ ],
+ "Wolverhampton": [
+  [
+   "José Sá",
+   "GOL",
+   32,
+   77
+  ],
+  [
+   "Sam Johnstone",
+   "GOL",
+   32,
+   74
+  ],
+  [
+   "Dan Bentley",
+   "GOL",
+   32,
+   68
+  ],
+  [
+   "Emmanuel Agbadou",
+   "ZAG",
+   28,
+   76
+  ],
+  [
+   "Toti Gomes",
+   "ZAG",
+   26,
+   75
+  ],
+  [
+   "Santiago Bueno",
+   "ZAG",
+   27,
+   74
+  ],
+  [
+   "Yerson Mosquera",
+   "ZAG",
+   24,
+   75
+  ],
+  [
+   "Ladislav Krejci",
+   "ZAG",
+   26,
+   76
+  ],
+  [
+   "Matt Doherty",
+   "LD",
+   34,
+   72
+  ],
+  [
+   "Jackson Tchatchoua",
+   "LD",
+   24,
+   73
+  ],
+  [
+   "Hugo Bueno",
+   "LE",
+   23,
+   72
+  ],
+  [
+   "David Møller Wolfe",
+   "LE",
+   23,
+   71
+  ],
+  [
+   "André",
+   "VOL",
+   24,
+   77
+  ],
+  [
+   "João Gomes",
+   "VOL",
+   24,
+   79
+  ],
+  [
+   "Jean-Ricner Bellegarde",
+   "MEI",
+   27,
+   75
+  ],
+  [
+   "Angel Gomes",
+   "MEI",
+   25,
+   76
+  ],
+  [
+   "Rodrigo Gomes",
+   "PD",
+   22,
+   71
+  ],
+  [
+   "Hwang Hee-chan",
+   "PE",
+   29,
+   74
+  ],
+  [
+   "Jhon Arias",
+   "PE",
+   28,
+   77
+  ],
+  [
+   "Mateus Mané",
+   "PE",
+   18,
+   68
+  ],
+  [
+   "Enso González",
+   "PE",
+   20,
+   66
+  ],
+  [
+   "Adam Armstrong",
+   "AC",
+   28,
+   73
+  ],
+  [
+   "Tolu Arokodare",
+   "AC",
+   25,
+   73
+  ]
+ ],
+ "Leeds United": [
+  [
+   "Lucas Perri",
+   "GOL",
+   28,
+   78
+  ],
+  [
+   "Illan Meslier",
+   "GOL",
+   25,
+   74
+  ],
+  [
+   "Karl Darlow",
+   "GOL",
+   35,
+   70
+  ],
+  [
+   "Joe Rodon",
+   "ZAG",
+   28,
+   78
+  ],
+  [
+   "Pascal Struijk",
+   "ZAG",
+   26,
+   76
+  ],
+  [
+   "Jaka Bijol",
+   "ZAG",
+   26,
+   78
+  ],
+  [
+   "Sebastiaan Bornauw",
+   "ZAG",
+   26,
+   73
+  ],
+  [
+   "Jayden Bogle",
+   "LD",
+   25,
+   75
+  ],
+  [
+   "James Justin",
+   "LD",
+   27,
+   75
+  ],
+  [
+   "Gabriel Gudmundsson",
+   "LE",
+   26,
+   75
+  ],
+  [
+   "Sam Byram",
+   "LE",
+   32,
+   70
+  ],
+  [
+   "Ethan Ampadu",
+   "VOL",
+   25,
+   77
+  ],
+  [
+   "Anton Stach",
+   "VOL",
+   27,
+   78
+  ],
+  [
+   "Ilia Gruev",
+   "VOL",
+   25,
+   72
+  ],
+  [
+   "Sean Longstaff",
+   "MEI",
+   28,
+   75
+  ],
+  [
+   "Ao Tanaka",
+   "MEI",
+   27,
+   76
+  ],
+  [
+   "Brenden Aaronson",
+   "MEI",
+   25,
+   76
+  ],
+  [
+   "Facundo Buonanotte",
+   "MEI",
+   21,
+   74
+  ],
+  [
+   "Daniel James",
+   "PD",
+   28,
+   75
+  ],
+  [
+   "Wilfried Gnonto",
+   "PE",
+   22,
+   74
+  ],
+  [
+   "Noah Okafor",
+   "PE",
+   25,
+   77
+  ],
+  [
+   "Dominic Calvert-Lewin",
+   "AC",
+   28,
+   77
+  ],
+  [
+   "Lukas Nmecha",
+   "AC",
+   27,
+   74
+  ],
+  [
+   "Joël Piroe",
+   "AC",
+   26,
+   74
+  ]
+ ],
+ "Burnley": [
+  [
+   "Martin Dúbravka",
+   "GOL",
+   36,
+   77
+  ],
+  [
+   "Max Weiß",
+   "GOL",
+   21,
+   70
+  ],
+  [
+   "Václav Hladký",
+   "GOL",
+   34,
+   64
+  ],
+  [
+   "Maxime Estève",
+   "ZAG",
+   23,
+   76
+  ],
+  [
+   "Axel Tuanzebe",
+   "ZAG",
+   27,
+   72
+  ],
+  [
+   "Hjalmar Ekdal",
+   "ZAG",
+   27,
+   72
+  ],
+  [
+   "Joe Worrall",
+   "ZAG",
+   29,
+   71
+  ],
+  [
+   "Bashir Humphreys",
+   "ZAG",
+   22,
+   70
+  ],
+  [
+   "Kyle Walker",
+   "LD",
+   35,
+   77
+  ],
+  [
+   "Connor Roberts",
+   "LD",
+   30,
+   71
+  ],
+  [
+   "Quilindschy Hartman",
+   "LE",
+   24,
+   73
+  ],
+  [
+   "Lucas Pires",
+   "LE",
+   24,
+   70
+  ],
+  [
+   "Josh Cullen",
+   "VOL",
+   29,
+   74
+  ],
+  [
+   "Lesley Ugochukwu",
+   "VOL",
+   21,
+   73
+  ],
+  [
+   "Florentino Luís",
+   "VOL",
+   26,
+   76
+  ],
+  [
+   "Josh Laurent",
+   "VOL",
+   30,
+   71
+  ],
+  [
+   "James Ward-Prowse",
+   "MEI",
+   31,
+   76
+  ],
+  [
+   "Hannibal Mejbri",
+   "MEI",
+   22,
+   72
+  ],
+  [
+   "Loum Tchaouna",
+   "PD",
+   22,
+   73
+  ],
+  [
+   "Marcus Edwards",
+   "PD",
+   26,
+   72
+  ],
+  [
+   "Jaidon Anthony",
+   "PE",
+   26,
+   74
+  ],
+  [
+   "Zian Flemming",
+   "AC",
+   27,
+   74
+  ],
+  [
+   "Lyle Foster",
+   "AC",
+   25,
+   73
+  ],
+  [
+   "Armando Broja",
+   "AC",
+   24,
+   72
+  ]
+ ],
+ "Sunderland": [
+  [
+   "Robin Roefs",
+   "GOL",
+   22,
+   77
+  ],
+  [
+   "Simon Moore",
+   "GOL",
+   35,
+   62
+  ],
+  [
+   "Melker Ellborg",
+   "GOL",
+   19,
+   62
+  ],
+  [
+   "Dan Ballard",
+   "ZAG",
+   26,
+   75
+  ],
+  [
+   "Omar Alderete",
+   "ZAG",
+   29,
+   77
+  ],
+  [
+   "Nordi Mukiele",
+   "ZAG",
+   28,
+   77
+  ],
+  [
+   "Luke O'Nien",
+   "ZAG",
+   31,
+   70
+  ],
+  [
+   "Lutsharel Geertruida",
+   "LD",
+   25,
+   76
+  ],
+  [
+   "Trai Hume",
+   "LD",
+   23,
+   73
+  ],
+  [
+   "Reinildo Mandava",
+   "LE",
+   31,
+   75
+  ],
+  [
+   "Dennis Cirkin",
+   "LE",
+   23,
+   70
+  ],
+  [
+   "Granit Xhaka",
+   "VOL",
+   33,
+   83
+  ],
+  [
+   "Noah Sadiki",
+   "VOL",
+   21,
+   76
+  ],
+  [
+   "Habib Diarra",
+   "MEI",
+   21,
+   76
+  ],
+  [
+   "Enzo Le Fée",
+   "MEI",
+   25,
+   77
+  ],
+  [
+   "Chris Rigg",
+   "MEI",
+   18,
+   72
+  ],
+  [
+   "Bertrand Traoré",
+   "PD",
+   30,
+   74
+  ],
+  [
+   "Chemsdine Talbi",
+   "PE",
+   20,
+   73
+  ],
+  [
+   "Romaine Mundle",
+   "PE",
+   22,
+   70
+  ],
+  [
+   "Nilson Angulo",
+   "PE",
+   22,
+   71
+  ],
+  [
+   "Wilson Isidor",
+   "AC",
+   25,
+   76
+  ],
+  [
+   "Brian Brobbey",
+   "AC",
+   23,
+   76
+  ],
+  [
+   "Eliezer Mayenda",
+   "AC",
+   20,
+   72
+  ]
+ ],
+ "Leicester City": [
+  [
+   "Jakub Stolarczyk",
+   "GOL",
+   25,
+   70
+  ],
+  [
+   "Asmir Begović",
+   "GOL",
+   38,
+   66
+  ],
+  [
+   "Alex Smithies",
+   "GOL",
+   35,
+   62
+  ],
+  [
+   "Jannik Vestergaard",
+   "ZAG",
+   33,
+   72
+  ],
+  [
+   "Caleb Okoli",
+   "ZAG",
+   24,
+   71
+  ],
+  [
+   "Jamaal Lascelles",
+   "ZAG",
+   32,
+   68
+  ],
+  [
+   "Ben Nelson",
+   "ZAG",
+   21,
+   64
+  ],
+  [
+   "Ricardo Pereira",
+   "LD",
+   32,
+   72
+  ],
+  [
+   "Luke Thomas",
+   "LE",
+   24,
+   68
+  ],
+  [
+   "Harry Winks",
+   "VOL",
+   29,
+   72
+  ],
+  [
+   "Oliver Skipp",
+   "VOL",
+   25,
+   72
+  ],
+  [
+   "Boubakary Soumaré",
+   "VOL",
+   26,
+   71
+  ],
+  [
+   "Hamza Choudhury",
+   "VOL",
+   28,
+   68
+  ],
+  [
+   "Joe Aribo",
+   "MEI",
+   29,
+   70
+  ],
+  [
+   "Jordan James",
+   "MEI",
+   21,
+   68
+  ],
+  [
+   "Divine Mukasa",
+   "MEI",
+   18,
+   64
+  ],
+  [
+   "Kasey McAteer",
+   "PD",
+   24,
+   68
+  ],
+  [
+   "Abdul Fatawu",
+   "PD",
+   21,
+   72
+  ],
+  [
+   "Bobby De Cordova-Reid",
+   "PD",
+   32,
+   68
+  ],
+  [
+   "Stephy Mavididi",
+   "PE",
+   27,
+   74
+  ],
+  [
+   "Jeremy Monga",
+   "PE",
+   16,
+   63
+  ],
+  [
+   "Jordan Ayew",
+   "AC",
+   34,
+   71
+  ],
+  [
+   "Patson Daka",
+   "AC",
+   27,
+   71
+  ]
+ ],
+ "Ipswich Town": [
+  [
+   "Alex Palmer",
+   "GOL",
+   29,
+   71
+  ],
+  [
+   "Christian Walton",
+   "GOL",
+   30,
+   69
+  ],
+  [
+   "Cieran Slicker",
+   "GOL",
+   22,
+   62
+  ],
+  [
+   "Dara O'Shea",
+   "ZAG",
+   26,
+   72
+  ],
+  [
+   "Jacob Greaves",
+   "ZAG",
+   25,
+   71
+  ],
+  [
+   "Cédric Kipré",
+   "ZAG",
+   28,
+   70
+  ],
+  [
+   "Ben Johnson",
+   "LD",
+   25,
+   69
+  ],
+  [
+   "Leif Davis",
+   "LE",
+   26,
+   74
+  ],
+  [
+   "Conor Townsend",
+   "LE",
+   32,
+   66
+  ],
+  [
+   "Azor Matusiwa",
+   "VOL",
+   27,
+   70
+  ],
+  [
+   "Jens Cajuste",
+   "VOL",
+   26,
+   71
+  ],
+  [
+   "Dan Neil",
+   "VOL",
+   24,
+   68
+  ],
+  [
+   "Massimo Luongo",
+   "VOL",
+   33,
+   66
+  ],
+  [
+   "Jack Taylor",
+   "MEI",
+   27,
+   68
+  ],
+  [
+   "Marcelino Núñez",
+   "MEI",
+   25,
+   69
+  ],
+  [
+   "Wes Burns",
+   "PD",
+   31,
+   68
+  ],
+  [
+   "Sindre Walle Egeli",
+   "PD",
+   19,
+   66
+  ],
+  [
+   "Jaden Philogene",
+   "PE",
+   23,
+   72
+  ],
+  [
+   "Anis Mehmeti",
+   "PE",
+   24,
+   70
+  ],
+  [
+   "Jack Clarke",
+   "PE",
+   25,
+   72
+  ],
+  [
+   "Chuba Akpom",
+   "AC",
+   30,
+   69
+  ],
+  [
+   "George Hirst",
+   "AC",
+   26,
+   69
+  ],
+  [
+   "Iván Azón",
+   "AC",
+   23,
+   70
+  ]
+ ],
+ "Southampton": [
+  [
+   "Daniel Peretz",
+   "GOL",
+   25,
+   68
+  ],
+  [
+   "Alex McCarthy",
+   "GOL",
+   36,
+   67
+  ],
+  [
+   "Joe Lumley",
+   "GOL",
+   30,
+   63
+  ],
+  [
+   "Taylor Harwood-Bellis",
+   "ZAG",
+   23,
+   72
+  ],
+  [
+   "Jack Stephens",
+   "ZAG",
+   31,
+   68
+  ],
+  [
+   "Nathan Wood",
+   "ZAG",
+   23,
+   66
+  ],
+  [
+   "Joshua Quarshie",
+   "ZAG",
+   21,
+   66
+  ],
+  [
+   "James Bree",
+   "LD",
+   28,
+   66
+  ],
+  [
+   "Welington",
+   "LE",
+   24,
+   67
+  ],
+  [
+   "Ryan Manning",
+   "LE",
+   29,
+   69
+  ],
+  [
+   "Flynn Downes",
+   "VOL",
+   26,
+   70
+  ],
+  [
+   "Shea Charles",
+   "VOL",
+   21,
+   70
+  ],
+  [
+   "Caspar Jander",
+   "VOL",
+   22,
+   67
+  ],
+  [
+   "Will Smallbone",
+   "MEI",
+   25,
+   68
+  ],
+  [
+   "Finn Azaz",
+   "MEI",
+   25,
+   71
+  ],
+  [
+   "Kuryu Matsuki",
+   "MEI",
+   22,
+   66
+  ],
+  [
+   "Tom Fellows",
+   "PD",
+   22,
+   70
+  ],
+  [
+   "Léo Scienza",
+   "PE",
+   26,
+   70
+  ],
+  [
+   "Jay Robinson",
+   "PE",
+   18,
+   64
+  ],
+  [
+   "Samuel Edozie",
+   "PE",
+   22,
+   66
+  ],
+  [
+   "Cameron Archer",
+   "AC",
+   24,
+   71
+  ],
+  [
+   "Ross Stewart",
+   "AC",
+   29,
+   67
+  ],
+  [
+   "Cyle Larin",
+   "AC",
+   30,
+   69
+  ]
+ ],
+ "Sheffield United": [
+  [
+   "Michael Cooper",
+   "GOL",
+   26,
+   70
+  ],
+  [
+   "Adam Davies",
+   "GOL",
+   33,
+   64
+  ],
+  [
+   "Ivo Grbic",
+   "GOL",
+   29,
+   65
+  ],
+  [
+   "Japhet Tanganga",
+   "ZAG",
+   26,
+   69
+  ],
+  [
+   "Jack Robinson",
+   "ZAG",
+   32,
+   66
+  ],
+  [
+   "Mark McGuinness",
+   "ZAG",
+   24,
+   66
+  ],
+  [
+   "Ben Godfrey",
+   "ZAG",
+   27,
+   68
+  ],
+  [
+   "Alfie Gilchrist",
+   "LD",
+   21,
+   66
+  ],
+  [
+   "Ki-Jana Hoever",
+   "LD",
+   24,
+   67
+  ],
+  [
+   "Harrison Burrows",
+   "LE",
+   23,
+   69
+  ],
+  [
+   "Leo Hjelde",
+   "LE",
+   22,
+   65
+  ],
+  [
+   "Sydie Peck",
+   "VOL",
+   21,
+   66
+  ],
+  [
+   "Kalvin Phillips",
+   "VOL",
+   29,
+   69
+  ],
+  [
+   "Tom Davies",
+   "MEI",
+   27,
+   66
+  ],
+  [
+   "Gustavo Hamer",
+   "MEI",
+   28,
+   72
+  ],
+  [
+   "Callum O'Hare",
+   "MEI",
+   27,
+   69
+  ],
+  [
+   "Joe Rothwell",
+   "MEI",
+   30,
+   66
+  ],
+  [
+   "Andre Brooks",
+   "PD",
+   22,
+   66
+  ],
+  [
+   "Chiedozie Ogbene",
+   "PE",
+   28,
+   66
+  ],
+  [
+   "Tahith Chong",
+   "PE",
+   25,
+   66
+  ],
+  [
+   "Tyrese Campbell",
+   "AC",
+   25,
+   69
+  ],
+  [
+   "Danny Ings",
+   "AC",
+   33,
+   67
+  ],
+  [
+   "Patrick Bamford",
+   "AC",
+   32,
+   66
+  ]
+ ],
+ "West Bromwich": [
+  [
+   "Josh Griffiths",
+   "GOL",
+   23,
+   69
+  ],
+  [
+   "Max O'Leary",
+   "GOL",
+   29,
+   65
+  ],
+  [
+   "Ted Cann",
+   "GOL",
+   24,
+   58
+  ],
+  [
+   "Kyle Bartley",
+   "ZAG",
+   34,
+   67
+  ],
+  [
+   "Torbjørn Heggem",
+   "ZAG",
+   26,
+   70
+  ],
+  [
+   "Chris Mepham",
+   "ZAG",
+   28,
+   68
+  ],
+  [
+   "Nat Phillips",
+   "ZAG",
+   28,
+   67
+  ],
+  [
+   "George Campbell",
+   "ZAG",
+   24,
+   66
+  ],
+  [
+   "Darnell Furlong",
+   "LD",
+   29,
+   68
+  ],
+  [
+   "Danny Imray",
+   "LD",
+   22,
+   64
+  ],
+  [
+   "Callum Styles",
+   "LE",
+   25,
+   68
+  ],
+  [
+   "Ousmane Diakité",
+   "VOL",
+   25,
+   68
+  ],
+  [
+   "Jayson Molumby",
+   "VOL",
+   26,
+   68
+  ],
+  [
+   "Alex Mowatt",
+   "MEI",
+   30,
+   67
+  ],
+  [
+   "Isaac Price",
+   "MEI",
+   22,
+   68
+  ],
+  [
+   "Jed Wallace",
+   "PD",
+   31,
+   66
+  ],
+  [
+   "Mikey Johnston",
+   "PE",
+   26,
+   69
+  ],
+  [
+   "Karlan Grant",
+   "PE",
+   27,
+   67
+  ],
+  [
+   "Jamaldeen Jimoh-Aloba",
+   "PE",
+   18,
+   63
+  ],
+  [
+   "Josh Maja",
+   "AC",
+   26,
+   70
+  ],
+  [
+   "Aune Heggebø",
+   "AC",
+   24,
+   67
+  ],
+  [
+   "Daryl Dike",
+   "AC",
+   25,
+   64
+  ]
+ ],
+ "Middlesbrough": [
+  [
+   "Sol Brynn",
+   "GOL",
+   24,
+   67
+  ],
+  [
+   "Seny Dieng",
+   "GOL",
+   31,
+   68
+  ],
+  [
+   "Joe Wildsmith",
+   "GOL",
+   30,
+   63
+  ],
+  [
+   "Dael Fry",
+   "ZAG",
+   28,
+   69
+  ],
+  [
+   "Alfie Jones",
+   "ZAG",
+   28,
+   68
+  ],
+  [
+   "George Edmundson",
+   "ZAG",
+   28,
+   66
+  ],
+  [
+   "Adilson Malanda",
+   "ZAG",
+   24,
+   67
+  ],
+  [
+   "Luke Ayling",
+   "LD",
+   34,
+   66
+  ],
+  [
+   "Callum Brittain",
+   "LD",
+   27,
+   68
+  ],
+  [
+   "Matt Targett",
+   "LE",
+   30,
+   67
+  ],
+  [
+   "Neto Borges",
+   "LE",
+   29,
+   65
+  ],
+  [
+   "Hayden Hackney",
+   "VOL",
+   23,
+   72
+  ],
+  [
+   "Aidan Morris",
+   "VOL",
+   24,
+   70
+  ],
+  [
+   "Jonny Howson",
+   "VOL",
+   37,
+   64
+  ],
+  [
+   "Riley McGree",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Alan Browne",
+   "MEI",
+   30,
+   66
+  ],
+  [
+   "Leo Castledine",
+   "MEI",
+   20,
+   64
+  ],
+  [
+   "Morgan Whittaker",
+   "PD",
+   24,
+   70
+  ],
+  [
+   "Sontje Hansen",
+   "PD",
+   23,
+   67
+  ],
+  [
+   "Jeremy Sarmiento",
+   "PE",
+   23,
+   67
+  ],
+  [
+   "Micah Hamilton",
+   "PE",
+   22,
+   64
+  ],
+  [
+   "Finley Munroe",
+   "PE",
+   21,
+   62
+  ],
+  [
+   "Tommy Conway",
+   "AC",
+   23,
+   69
+  ],
+  [
+   "David Strelec",
+   "AC",
+   24,
+   67
+  ]
+ ],
+ "Coventry City": [
+  [
+   "Carl Rushworth",
+   "GOL",
+   24,
+   69
+  ],
+  [
+   "Oliver Dovin",
+   "GOL",
+   23,
+   68
+  ],
+  [
+   "Ben Wilson",
+   "GOL",
+   33,
+   63
+  ],
+  [
+   "Bobby Thomas",
+   "ZAG",
+   24,
+   69
+  ],
+  [
+   "Liam Kitching",
+   "ZAG",
+   26,
+   68
+  ],
+  [
+   "Luke Woolfenden",
+   "ZAG",
+   27,
+   67
+  ],
+  [
+   "Joel Latibeaudiere",
+   "ZAG",
+   25,
+   65
+  ],
+  [
+   "Milan van Ewijk",
+   "LD",
+   25,
+   71
+  ],
+  [
+   "Kaine Kesler-Hayden",
+   "LD",
+   23,
+   65
+  ],
+  [
+   "Jay Dasilva",
+   "LE",
+   27,
+   67
+  ],
+  [
+   "Jake Bidwell",
+   "LE",
+   32,
+   64
+  ],
+  [
+   "Matt Grimes",
+   "VOL",
+   30,
+   69
+  ],
+  [
+   "Josh Eccles",
+   "VOL",
+   25,
+   67
+  ],
+  [
+   "Ben Sheaf",
+   "VOL",
+   27,
+   67
+  ],
+  [
+   "Frank Onyeka",
+   "VOL",
+   28,
+   67
+  ],
+  [
+   "Victor Torp",
+   "MEI",
+   26,
+   68
+  ],
+  [
+   "Jack Rudoni",
+   "MEI",
+   24,
+   70
+  ],
+  [
+   "Tatsuhiro Sakamoto",
+   "PD",
+   28,
+   68
+  ],
+  [
+   "Romain Esse",
+   "PD",
+   20,
+   66
+  ],
+  [
+   "Yang Min-hyeok",
+   "PD",
+   19,
+   64
+  ],
+  [
+   "Ephron Mason-Clark",
+   "PE",
+   25,
+   68
+  ],
+  [
+   "Haji Wright",
+   "AC",
+   27,
+   70
+  ],
+  [
+   "Brandon Thomas-Asante",
+   "AC",
+   27,
+   68
+  ],
+  [
+   "Ellis Simms",
+   "AC",
+   24,
+   67
+  ]
+ ],
+ "Norwich City": [
+  [
+   "Vladan Kovacevic",
+   "GOL",
+   27,
+   69
+  ],
+  [
+   "George Long",
+   "GOL",
+   32,
+   64
+  ],
+  [
+   "Daniel Grimshaw",
+   "GOL",
+   27,
+   62
+  ],
+  [
+   "José Córdoba",
+   "ZAG",
+   24,
+   69
+  ],
+  [
+   "Jakov Medic",
+   "ZAG",
+   26,
+   66
+  ],
+  [
+   "Ruairi McConville",
+   "ZAG",
+   20,
+   64
+  ],
+  [
+   "Jack Stacey",
+   "LD",
+   29,
+   67
+  ],
+  [
+   "Kellen Fisher",
+   "LD",
+   21,
+   66
+  ],
+  [
+   "Harry Amass",
+   "LE",
+   18,
+   66
+  ],
+  [
+   "Ben Chrisene",
+   "LE",
+   21,
+   63
+  ],
+  [
+   "Kenny McLean",
+   "VOL",
+   33,
+   67
+  ],
+  [
+   "Mirko Topic",
+   "VOL",
+   22,
+   66
+  ],
+  [
+   "Jacob Wright",
+   "VOL",
+   22,
+   65
+  ],
+  [
+   "Sam Field",
+   "VOL",
+   27,
+   64
+  ],
+  [
+   "Pelle Mattsson",
+   "MEI",
+   24,
+   66
+  ],
+  [
+   "Anis Ben Slimane",
+   "MEI",
+   24,
+   67
+  ],
+  [
+   "Emiliano Marcondes",
+   "MEI",
+   30,
+   66
+  ],
+  [
+   "Oscar Schwartau",
+   "PE",
+   19,
+   66
+  ],
+  [
+   "Ali Ahmed",
+   "PE",
+   25,
+   66
+  ],
+  [
+   "Josh Sargent",
+   "AC",
+   25,
+   72
+  ],
+  [
+   "Ante Crnac",
+   "AC",
+   22,
+   69
+  ],
+  [
+   "Jovon Makama",
+   "AC",
+   21,
+   64
+  ],
+  [
+   "Mohamed Touré",
+   "AC",
+   21,
+   65
+  ]
+ ],
+ "Watford": [
+  [
+   "Egil Selvik",
+   "GOL",
+   28,
+   67
+  ],
+  [
+   "Nathan Baxter",
+   "GOL",
+   27,
+   62
+  ],
+  [
+   "Jonathan Bond",
+   "GOL",
+   32,
+   62
+  ],
+  [
+   "Mattie Pollock",
+   "ZAG",
+   24,
+   67
+  ],
+  [
+   "Ryan Porteous",
+   "ZAG",
+   26,
+   68
+  ],
+  [
+   "Francisco Sierralta",
+   "ZAG",
+   28,
+   65
+  ],
+  [
+   "Saba Goglichidze",
+   "ZAG",
+   21,
+   65
+  ],
+  [
+   "Kévin Keben",
+   "ZAG",
+   21,
+   64
+  ],
+  [
+   "Angelo Ogbonna",
+   "ZAG",
+   37,
+   64
+  ],
+  [
+   "Stephen Mfuni",
+   "ZAG",
+   19,
+   62
+  ],
+  [
+   "Jeremy Ngakia",
+   "LD",
+   25,
+   66
+  ],
+  [
+   "James Abankwah",
+   "LE",
+   21,
+   63
+  ],
+  [
+   "Marc Bola",
+   "LE",
+   28,
+   64
+  ],
+  [
+   "Edo Kayembe",
+   "VOL",
+   27,
+   67
+  ],
+  [
+   "Imrân Louza",
+   "MEI",
+   26,
+   70
+  ],
+  [
+   "Giorgi Chakvetadze",
+   "MEI",
+   26,
+   68
+  ],
+  [
+   "Edoardo Bove",
+   "MEI",
+   23,
+   70
+  ],
+  [
+   "Othmane Maamma",
+   "PD",
+   20,
+   68
+  ],
+  [
+   "Rocco Vata",
+   "PD",
+   20,
+   65
+  ],
+  [
+   "Nestory Irankunda",
+   "PD",
+   19,
+   66
+  ],
+  [
+   "Kwadwo Baah",
+   "PE",
+   22,
+   66
+  ],
+  [
+   "Luca Kjerrumgaard",
+   "AC",
+   22,
+   67
+  ],
+  [
+   "Mamadou Doumbia",
+   "AC",
+   19,
+   62
+  ]
+ ],
+ "Millwall": [
+  [
+   "Anthony Patterson",
+   "GOL",
+   25,
+   70
+  ],
+  [
+   "Lukas Jensen",
+   "GOL",
+   26,
+   68
+  ],
+  [
+   "Connal Trueman",
+   "GOL",
+   29,
+   62
+  ],
+  [
+   "Jake Cooper",
+   "ZAG",
+   30,
+   68
+  ],
+  [
+   "Tristan Crama",
+   "ZAG",
+   23,
+   67
+  ],
+  [
+   "Danny McNamara",
+   "LD",
+   27,
+   65
+  ],
+  [
+   "Joe Bryan",
+   "LE",
+   32,
+   63
+  ],
+  [
+   "Zak Sturge",
+   "LE",
+   21,
+   64
+  ],
+  [
+   "Ryan Leonard",
+   "VOL",
+   33,
+   63
+  ],
+  [
+   "Billy Mitchell",
+   "VOL",
+   24,
+   68
+  ],
+  [
+   "Casper De Norre",
+   "VOL",
+   28,
+   67
+  ],
+  [
+   "Barry Bannan",
+   "MEI",
+   36,
+   68
+  ],
+  [
+   "Daniel Kelly",
+   "MEI",
+   26,
+   64
+  ],
+  [
+   "Ryan Wintle",
+   "MEI",
+   28,
+   65
+  ],
+  [
+   "Luke Cundle",
+   "MEI",
+   23,
+   66
+  ],
+  [
+   "Derek Mazou-Sacko",
+   "PD",
+   21,
+   63
+  ],
+  [
+   "Camiel Neghli",
+   "PE",
+   24,
+   67
+  ],
+  [
+   "Femi Azeez",
+   "PE",
+   24,
+   68
+  ],
+  [
+   "Thierno Ballo",
+   "PE",
+   23,
+   66
+  ],
+  [
+   "Tommy Watson",
+   "PE",
+   19,
+   65
+  ],
+  [
+   "Mihailo Ivanović",
+   "AC",
+   21,
+   68
+  ],
+  [
+   "Macaulay Langstaff",
+   "AC",
+   28,
+   66
+  ],
+  [
+   "Josh Coburn",
+   "AC",
+   22,
+   65
+  ]
+ ],
+ "Bristol City": [
+  [
+   "Radek Vítek",
+   "GOL",
+   22,
+   70
+  ],
+  [
+   "Stefan Bajic",
+   "GOL",
+   23,
+   62
+  ],
+  [
+   "Harvey Wiles-Richards",
+   "GOL",
+   22,
+   58
+  ],
+  [
+   "Rob Dickie",
+   "ZAG",
+   29,
+   68
+  ],
+  [
+   "Luke McNally",
+   "ZAG",
+   26,
+   68
+  ],
+  [
+   "Noah Eile",
+   "ZAG",
+   23,
+   66
+  ],
+  [
+   "Ross McCrorie",
+   "LD",
+   27,
+   69
+  ],
+  [
+   "George Tanner",
+   "LD",
+   25,
+   66
+  ],
+  [
+   "Cameron Pring",
+   "LE",
+   27,
+   66
+  ],
+  [
+   "Joe Williams",
+   "VOL",
+   29,
+   66
+  ],
+  [
+   "Adam Randell",
+   "VOL",
+   24,
+   66
+  ],
+  [
+   "Sam Morsy",
+   "VOL",
+   34,
+   66
+  ],
+  [
+   "Jason Knight",
+   "MEI",
+   24,
+   70
+  ],
+  [
+   "Max Bird",
+   "MEI",
+   25,
+   68
+  ],
+  [
+   "Scott Twine",
+   "MEI",
+   26,
+   69
+  ],
+  [
+   "Tomi Horvat",
+   "MEI",
+   26,
+   66
+  ],
+  [
+   "George Earthy",
+   "MEI",
+   21,
+   64
+  ],
+  [
+   "Mark Sykes",
+   "PD",
+   28,
+   66
+  ],
+  [
+   "Delano Burgzorg",
+   "PE",
+   26,
+   66
+  ],
+  [
+   "Emil Riis Jakobsen",
+   "AC",
+   27,
+   69
+  ],
+  [
+   "Sinclair Armstrong",
+   "AC",
+   22,
+   67
+  ],
+  [
+   "Nahki Wells",
+   "AC",
+   35,
+   62
+  ]
+ ],
+ "Hull City": [
+  [
+   "Ivor Pandur",
+   "GOL",
+   25,
+   67
+  ],
+  [
+   "Thimothée Lo-Tutala",
+   "GOL",
+   22,
+   62
+  ],
+  [
+   "Dillon Phillips",
+   "GOL",
+   30,
+   62
+  ],
+  [
+   "Charlie Hughes",
+   "ZAG",
+   21,
+   66
+  ],
+  [
+   "John Egan",
+   "ZAG",
+   33,
+   66
+  ],
+  [
+   "Semi Ajayi",
+   "ZAG",
+   32,
+   66
+  ],
+  [
+   "Cody Drameh",
+   "LD",
+   23,
+   66
+  ],
+  [
+   "Lewie Coyle",
+   "LD",
+   29,
+   65
+  ],
+  [
+   "Ryan Giles",
+   "LE",
+   25,
+   68
+  ],
+  [
+   "Regan Slater",
+   "VOL",
+   25,
+   66
+  ],
+  [
+   "John Lundstram",
+   "VOL",
+   31,
+   67
+  ],
+  [
+   "Amir Hadžiahmetović",
+   "VOL",
+   28,
+   66
+  ],
+  [
+   "Toby Collyer",
+   "VOL",
+   22,
+   64
+  ],
+  [
+   "Matt Crooks",
+   "MEI",
+   31,
+   66
+  ],
+  [
+   "Kieran Dowell",
+   "MEI",
+   28,
+   65
+  ],
+  [
+   "Darko Gyabi",
+   "MEI",
+   21,
+   64
+  ],
+  [
+   "Abu Kamara",
+   "PD",
+   22,
+   67
+  ],
+  [
+   "Mohamed Belloumi",
+   "PE",
+   23,
+   66
+  ],
+  [
+   "Liam Millar",
+   "PE",
+   26,
+   65
+  ],
+  [
+   "Yu Hirakawa",
+   "PE",
+   24,
+   65
+  ],
+  [
+   "Lewis Koumas",
+   "PE",
+   20,
+   64
+  ],
+  [
+   "Oli McBurnie",
+   "AC",
+   29,
+   67
+  ],
+  [
+   "Joe Gelhardt",
+   "AC",
+   23,
+   67
+  ],
+  [
+   "Kyle Joseph",
+   "AC",
+   24,
+   66
+  ]
+ ],
+ "Stoke City": [
+  [
+   "Viktor Johansson",
+   "GOL",
+   26,
+   69
+  ],
+  [
+   "Gavin Bazunu",
+   "GOL",
+   23,
+   68
+  ],
+  [
+   "Tommy Simkin",
+   "GOL",
+   22,
+   58
+  ],
+  [
+   "Ben Wilmot",
+   "ZAG",
+   26,
+   68
+  ],
+  [
+   "Michael Rose",
+   "ZAG",
+   29,
+   66
+  ],
+  [
+   "Ashley Phillips",
+   "ZAG",
+   20,
+   67
+  ],
+  [
+   "Ben Gibson",
+   "ZAG",
+   32,
+   63
+  ],
+  [
+   "Junior Tchamadeu",
+   "LD",
+   21,
+   67
+  ],
+  [
+   "Lynden Gooch",
+   "LD",
+   30,
+   63
+  ],
+  [
+   "Eric Bocat",
+   "LE",
+   26,
+   65
+  ],
+  [
+   "Aaron Cresswell",
+   "LE",
+   35,
+   64
+  ],
+  [
+   "Jordan Thompson",
+   "VOL",
+   28,
+   66
+  ],
+  [
+   "Ben Pearson",
+   "VOL",
+   30,
+   65
+  ],
+  [
+   "Tomas Rigo",
+   "MEI",
+   23,
+   66
+  ],
+  [
+   "Lewis Baker",
+   "MEI",
+   30,
+   64
+  ],
+  [
+   "Bae Jun-ho",
+   "MEI",
+   22,
+   67
+  ],
+  [
+   "Million Manhoef",
+   "PD",
+   23,
+   68
+  ],
+  [
+   "Jesurun Rak-Sakyi",
+   "PD",
+   23,
+   66
+  ],
+  [
+   "Sorba Thomas",
+   "PE",
+   26,
+   69
+  ],
+  [
+   "Ato Ampah",
+   "PE",
+   19,
+   62
+  ],
+  [
+   "Róbert Boženík",
+   "AC",
+   26,
+   66
+  ],
+  [
+   "Sam Gallagher",
+   "AC",
+   29,
+   65
+  ],
+  [
+   "Divin Mubama",
+   "AC",
+   21,
+   64
+  ],
+  [
+   "Milan Smit",
+   "AC",
+   22,
+   64
+  ]
+ ],
+ "Swansea City": [
+  [
+   "Lawrence Vigouroux",
+   "GOL",
+   32,
+   68
+  ],
+  [
+   "Andy Fisher",
+   "GOL",
+   27,
+   62
+  ],
+  [
+   "Lewis Webb",
+   "GOL",
+   20,
+   55
+  ],
+  [
+   "Ben Cabango",
+   "ZAG",
+   25,
+   69
+  ],
+  [
+   "Harry Darling",
+   "ZAG",
+   26,
+   67
+  ],
+  [
+   "Cameron Burgess",
+   "ZAG",
+   30,
+   66
+  ],
+  [
+   "Josh Key",
+   "LD",
+   25,
+   67
+  ],
+  [
+   "Joel Ward",
+   "LD",
+   36,
+   62
+  ],
+  [
+   "Josh Tymon",
+   "LE",
+   26,
+   67
+  ],
+  [
+   "Ishé Samuels-Smith",
+   "LE",
+   19,
+   62
+  ],
+  [
+   "Jay Fulton",
+   "VOL",
+   31,
+   64
+  ],
+  [
+   "Malick Yalcouyé",
+   "VOL",
+   19,
+   66
+  ],
+  [
+   "Gonçalo Franco",
+   "MEI",
+   25,
+   67
+  ],
+  [
+   "Ethan Galbraith",
+   "MEI",
+   24,
+   66
+  ],
+  [
+   "Marko Stamenić",
+   "MEI",
+   23,
+   67
+  ],
+  [
+   "Melker Widell",
+   "MEI",
+   21,
+   63
+  ],
+  [
+   "Zeidane Inoussa",
+   "PD",
+   23,
+   64
+  ],
+  [
+   "Ronald",
+   "PE",
+   24,
+   68
+  ],
+  [
+   "Josh Ginnelly",
+   "PE",
+   28,
+   64
+  ],
+  [
+   "Eom Ji-sung",
+   "PE",
+   23,
+   65
+  ],
+  [
+   "Gustavo Nunes",
+   "PE",
+   20,
+   64
+  ],
+  [
+   "Zan Vipotnik",
+   "AC",
+   23,
+   68
+  ],
+  [
+   "Adam Idah",
+   "AC",
+   24,
+   68
+  ],
+  [
+   "Liam Cullen",
+   "AC",
+   26,
+   66
+  ]
+ ],
+ "Derby County": [
+  [
+   "Jacob Widell Zetterström",
+   "GOL",
+   27,
+   68
+  ],
+  [
+   "Josh Vickers",
+   "GOL",
+   30,
+   63
+  ],
+  [
+   "Richard O'Donnell",
+   "GOL",
+   37,
+   60
+  ],
+  [
+   "Sondre Langås",
+   "ZAG",
+   24,
+   66
+  ],
+  [
+   "Matt Clarke",
+   "ZAG",
+   29,
+   67
+  ],
+  [
+   "Dion Sanderson",
+   "ZAG",
+   26,
+   68
+  ],
+  [
+   "Kane Wilson",
+   "LD",
+   25,
+   65
+  ],
+  [
+   "Callum Elder",
+   "LE",
+   30,
+   64
+  ],
+  [
+   "Derry Murkin",
+   "LE",
+   26,
+   65
+  ],
+  [
+   "David Ozoh",
+   "VOL",
+   20,
+   65
+  ],
+  [
+   "Lewis Travis",
+   "VOL",
+   28,
+   65
+  ],
+  [
+   "Oscar Fraulo",
+   "MEI",
+   22,
+   64
+  ],
+  [
+   "Bobby Clark",
+   "MEI",
+   20,
+   65
+  ],
+  [
+   "Darren Robinson",
+   "MEI",
+   21,
+   62
+  ],
+  [
+   "Liam Thompson",
+   "MEI",
+   22,
+   62
+  ],
+  [
+   "Joe Ward",
+   "PE",
+   30,
+   64
+  ],
+  [
+   "Marcus Harness",
+   "PE",
+   29,
+   64
+  ],
+  [
+   "Sammie Szmodics",
+   "PE",
+   30,
+   67
+  ],
+  [
+   "Jaydon Banel",
+   "PE",
+   21,
+   63
+  ],
+  [
+   "Patrick Agyemang",
+   "AC",
+   25,
+   68
+  ],
+  [
+   "Carlton Morris",
+   "AC",
+   30,
+   67
+  ],
+  [
+   "Lars-Jørgen Salvesen",
+   "AC",
+   29,
+   64
+  ],
+  [
+   "Dajaune Brown",
+   "AC",
+   20,
+   62
+  ]
+ ],
+ "Preston North End": [
+  [
+   "Daniel Iversen",
+   "GOL",
+   28,
+   70
+  ],
+  [
+   "David Cornell",
+   "GOL",
+   34,
+   63
+  ],
+  [
+   "James Pradic",
+   "GOL",
+   22,
+   56
+  ],
+  [
+   "Jordan Storey",
+   "ZAG",
+   28,
+   67
+  ],
+  [
+   "Liam Lindsay",
+   "ZAG",
+   29,
+   66
+  ],
+  [
+   "Andrija Vukcevic",
+   "ZAG",
+   24,
+   64
+  ],
+  [
+   "Lewis Gibson",
+   "ZAG",
+   25,
+   65
+  ],
+  [
+   "Pol Valentín",
+   "LD",
+   28,
+   65
+  ],
+  [
+   "Brad Potts",
+   "LD",
+   31,
+   64
+  ],
+  [
+   "Odel Offiah",
+   "LD",
+   23,
+   63
+  ],
+  [
+   "Robbie Brady",
+   "LE",
+   33,
+   65
+  ],
+  [
+   "Thierry Small",
+   "LE",
+   21,
+   64
+  ],
+  [
+   "Ali McCann",
+   "VOL",
+   25,
+   65
+  ],
+  [
+   "Ben Whiteman",
+   "VOL",
+   29,
+   66
+  ],
+  [
+   "Andrew Moran",
+   "MEI",
+   22,
+   65
+  ],
+  [
+   "Alfie Devine",
+   "MEI",
+   21,
+   65
+  ],
+  [
+   "Callum Lang",
+   "PE",
+   28,
+   66
+  ],
+  [
+   "Lewis Dobbin",
+   "PE",
+   22,
+   65
+  ],
+  [
+   "Milutin Osmajic",
+   "AC",
+   26,
+   68
+  ],
+  [
+   "Daniel Jebbison",
+   "AC",
+   22,
+   65
+  ],
+  [
+   "Michael Smith",
+   "AC",
+   34,
+   64
+  ],
+  [
+   "Milos Lukovic",
+   "AC",
+   20,
+   63
+  ]
+ ],
+ "Queens Park Rangers": [
+  [
+   "Paul Nardi",
+   "GOL",
+   31,
+   68
+  ],
+  [
+   "Joe Walsh",
+   "GOL",
+   23,
+   60
+  ],
+  [
+   "Ben Hamer",
+   "GOL",
+   38,
+   60
+  ],
+  [
+   "Steve Cook",
+   "ZAG",
+   34,
+   65
+  ],
+  [
+   "Jimmy Dunne",
+   "ZAG",
+   28,
+   67
+  ],
+  [
+   "Ronnie Edwards",
+   "ZAG",
+   22,
+   66
+  ],
+  [
+   "Amadou Mbengue",
+   "ZAG",
+   23,
+   65
+  ],
+  [
+   "Harvey Vale",
+   "LD",
+   22,
+   63
+  ],
+  [
+   "Rhys Norrington-Davies",
+   "LE",
+   26,
+   64
+  ],
+  [
+   "Esquerdinha",
+   "LE",
+   23,
+   64
+  ],
+  [
+   "Jonathan Varane",
+   "VOL",
+   24,
+   66
+  ],
+  [
+   "Ilias Chair",
+   "MEI",
+   28,
+   70
+  ],
+  [
+   "Nicolas Madsen",
+   "MEI",
+   25,
+   66
+  ],
+  [
+   "Kieran Morgan",
+   "MEI",
+   26,
+   63
+  ],
+  [
+   "Lucas Andersen",
+   "MEI",
+   31,
+   65
+  ],
+  [
+   "Kwame Poku",
+   "PD",
+   24,
+   66
+  ],
+  [
+   "Paul Smyth",
+   "PE",
+   28,
+   64
+  ],
+  [
+   "Karamoko Dembélé",
+   "PE",
+   22,
+   66
+  ],
+  [
+   "Koki Saito",
+   "PE",
+   24,
+   66
+  ],
+  [
+   "Rumarn Burrell",
+   "AC",
+   24,
+   64
+  ],
+  [
+   "Richard Kone",
+   "AC",
+   22,
+   66
+  ],
+  [
+   "Justin Obikwu",
+   "AC",
+   22,
+   64
+  ]
+ ],
+ "Blackburn Rovers": [
+  [
+   "Aynsley Pears",
+   "GOL",
+   27,
+   67
+  ],
+  [
+   "Balázs Tóth",
+   "GOL",
+   28,
+   66
+  ],
+  [
+   "Jordan Eastham",
+   "GOL",
+   23,
+   57
+  ],
+  [
+   "Hayden Carter",
+   "ZAG",
+   26,
+   66
+  ],
+  [
+   "Danny Batth",
+   "ZAG",
+   34,
+   63
+  ],
+  [
+   "Eiran Cashin",
+   "ZAG",
+   24,
+   66
+  ],
+  [
+   "Scott Wharton",
+   "ZAG",
+   28,
+   63
+  ],
+  [
+   "Sean McLoughlin",
+   "ZAG",
+   28,
+   64
+  ],
+  [
+   "Ryan Alebiosu",
+   "LD",
+   24,
+   64
+  ],
+  [
+   "Lewis Miller",
+   "LD",
+   25,
+   64
+  ],
+  [
+   "Harry Pickering",
+   "LE",
+   26,
+   65
+  ],
+  [
+   "Sondre Tronstad",
+   "VOL",
+   30,
+   67
+  ],
+  [
+   "Taylor Gardner-Hickman",
+   "VOL",
+   23,
+   64
+  ],
+  [
+   "Todd Cantwell",
+   "MEI",
+   27,
+   68
+  ],
+  [
+   "Axel Henriksson",
+   "MEI",
+   23,
+   64
+  ],
+  [
+   "Ryan Hedges",
+   "PE",
+   30,
+   64
+  ],
+  [
+   "Augustus Kargbo",
+   "PE",
+   26,
+   64
+  ],
+  [
+   "Oladapo Afolayan",
+   "PE",
+   28,
+   65
+  ],
+  [
+   "Ryoya Morishita",
+   "PE",
+   28,
+   66
+  ],
+  [
+   "Yuki Ohashi",
+   "AC",
+   29,
+   67
+  ],
+  [
+   "Andri Gudjohnsen",
+   "AC",
+   23,
+   66
+  ],
+  [
+   "Mathias Jørgensen",
+   "AC",
+   25,
+   64
+  ]
+ ],
+ "Sheffield Wednesday": [
+  [
+   "Pierce Charles",
+   "GOL",
+   20,
+   67
+  ],
+  [
+   "Murphy Cooper",
+   "GOL",
+   23,
+   60
+  ],
+  [
+   "Logan Stretch",
+   "GOL",
+   21,
+   54
+  ],
+  [
+   "Di'Shon Bernard",
+   "ZAG",
+   24,
+   65
+  ],
+  [
+   "Dominic Iorfa",
+   "ZAG",
+   30,
+   65
+  ],
+  [
+   "Liam Cooper",
+   "ZAG",
+   34,
+   63
+  ],
+  [
+   "Gabriel Otegbayo",
+   "ZAG",
+   21,
+   62
+  ],
+  [
+   "Liam Palmer",
+   "LD",
+   33,
+   63
+  ],
+  [
+   "Max Lowe",
+   "LE",
+   28,
+   63
+  ],
+  [
+   "Omotayo Adaramola",
+   "LE",
+   21,
+   60
+  ],
+  [
+   "Nathaniel Chalobah",
+   "VOL",
+   31,
+   63
+  ],
+  [
+   "Marvelous Nakamba",
+   "VOL",
+   31,
+   62
+  ],
+  [
+   "Svante Ingelsson",
+   "MEI",
+   27,
+   64
+  ],
+  [
+   "Sean Fusire",
+   "MEI",
+   20,
+   63
+  ],
+  [
+   "Nathan Redmond",
+   "PE",
+   31,
+   63
+  ],
+  [
+   "Olaf Kobacki",
+   "PE",
+   24,
+   62
+  ],
+  [
+   "Joel Ndala",
+   "PE",
+   19,
+   60
+  ],
+  [
+   "Iké Ugbo",
+   "AC",
+   27,
+   64
+  ],
+  [
+   "Jerry Yates",
+   "AC",
+   28,
+   63
+  ],
+  [
+   "Jamal Lowe",
+   "AC",
+   30,
+   62
+  ],
+  [
+   "Charlie McNeill",
+   "AC",
+   22,
+   60
+  ],
+  [
+   "Jaden Heskey",
+   "AC",
+   20,
+   60
+  ]
+ ],
+ "Portsmouth": [
+  [
+   "Nicolas Schmid",
+   "GOL",
+   28,
+   67
+  ],
+  [
+   "Jordan Archer",
+   "GOL",
+   32,
+   62
+  ],
+  [
+   "Toby Steward",
+   "GOL",
+   21,
+   56
+  ],
+  [
+   "Regan Poole",
+   "ZAG",
+   27,
+   65
+  ],
+  [
+   "Conor Shaughnessy",
+   "ZAG",
+   29,
+   65
+  ],
+  [
+   "Hayden Matthews",
+   "ZAG",
+   21,
+   64
+  ],
+  [
+   "Ibane Bowat",
+   "ZAG",
+   22,
+   63
+  ],
+  [
+   "Aji Alese",
+   "ZAG",
+   24,
+   63
+  ],
+  [
+   "Jordan Williams",
+   "LD",
+   26,
+   64
+  ],
+  [
+   "Terry Devlin",
+   "LD",
+   22,
+   63
+  ],
+  [
+   "Connor Ogilvie",
+   "LE",
+   29,
+   64
+  ],
+  [
+   "Marlon Pack",
+   "VOL",
+   34,
+   63
+  ],
+  [
+   "Ebou Adams",
+   "VOL",
+   29,
+   63
+  ],
+  [
+   "Andre Dozzell",
+   "MEI",
+   26,
+   64
+  ],
+  [
+   "John Swift",
+   "MEI",
+   30,
+   66
+  ],
+  [
+   "Gustavo Caballero",
+   "PD",
+   24,
+   62
+  ],
+  [
+   "Josh Murphy",
+   "PE",
+   30,
+   65
+  ],
+  [
+   "Adrian Segečić",
+   "PE",
+   21,
+   64
+  ],
+  [
+   "Florian Bianchini",
+   "PE",
+   24,
+   64
+  ],
+  [
+   "Millenic Alli",
+   "PE",
+   25,
+   63
+  ],
+  [
+   "Harvey Blair",
+   "PE",
+   22,
+   62
+  ],
+  [
+   "Colby Bishop",
+   "AC",
+   29,
+   66
+  ],
+  [
+   "Mark O'Mahony",
+   "AC",
+   20,
+   62
+  ],
+  [
+   "Thomas Waddingham",
+   "AC",
+   21,
+   62
+  ],
+  [
+   "Makenzie Kirk",
+   "AC",
+   21,
+   62
+  ],
+  [
+   "Jacob Brown",
+   "AC",
+   27,
+   63
+  ]
+ ],
+ "Oxford United": [
+  [
+   "Jamie Cumming",
+   "GOL",
+   26,
+   66
+  ],
+  [
+   "Matt Ingram",
+   "GOL",
+   31,
+   62
+  ],
+  [
+   "Simon Eastwood",
+   "GOL",
+   36,
+   58
+  ],
+  [
+   "Ciaron Brown",
+   "ZAG",
+   27,
+   64
+  ],
+  [
+   "Elliott Moore",
+   "ZAG",
+   28,
+   64
+  ],
+  [
+   "Michał Helik",
+   "ZAG",
+   30,
+   65
+  ],
+  [
+   "Christ Makosso",
+   "ZAG",
+   28,
+   62
+  ],
+  [
+   "Sam Long",
+   "LD",
+   30,
+   62
+  ],
+  [
+   "Greg Leigh",
+   "LE",
+   31,
+   62
+  ],
+  [
+   "Cameron Brannagan",
+   "MEI",
+   29,
+   66
+  ],
+  [
+   "Brian De Keersmaecker",
+   "MEI",
+   24,
+   64
+  ],
+  [
+   "Will Vaulks",
+   "VOL",
+   31,
+   63
+  ],
+  [
+   "Jamie McDonnell",
+   "VOL",
+   21,
+   62
+  ],
+  [
+   "Jamie Donley",
+   "MEI",
+   20,
+   64
+  ],
+  [
+   "Matt Phillips",
+   "PD",
+   34,
+   60
+  ],
+  [
+   "Stanley Mills",
+   "PD",
+   21,
+   62
+  ],
+  [
+   "Jeon Jin-woo",
+   "PD",
+   26,
+   62
+  ],
+  [
+   "Przemysław Płacheta",
+   "PE",
+   27,
+   64
+  ],
+  [
+   "Tyler Goodrham",
+   "PE",
+   22,
+   63
+  ],
+  [
+   "Siriki Dembélé",
+   "PE",
+   29,
+   64
+  ],
+  [
+   "Myles Peart-Harris",
+   "PE",
+   23,
+   62
+  ],
+  [
+   "Ruben Roosken",
+   "PE",
+   25,
+   62
+  ],
+  [
+   "Mark Harris",
+   "AC",
+   26,
+   63
+  ],
+  [
+   "Will Lankshear",
+   "AC",
+   20,
+   63
+  ],
+  [
+   "Nik Prelec",
+   "AC",
+   24,
+   63
+  ]
+ ],
+ "Charlton Athletic": [
+  [
+   "Thomas Kaminski",
+   "GOL",
+   33,
+   66
+  ],
+  [
+   "Will Mannion",
+   "GOL",
+   27,
+   60
+  ],
+  [
+   "Tiernan Brooks",
+   "GOL",
+   22,
+   56
+  ],
+  [
+   "Lloyd Jones",
+   "ZAG",
+   30,
+   64
+  ],
+  [
+   "Macaulay Gillesphey",
+   "ZAG",
+   30,
+   63
+  ],
+  [
+   "Conor Coady",
+   "ZAG",
+   32,
+   65
+  ],
+  [
+   "Collins Sichenje",
+   "ZAG",
+   22,
+   62
+  ],
+  [
+   "Joe Rankin-Costello",
+   "LD",
+   26,
+   63
+  ],
+  [
+   "Kayne Ramsay",
+   "LD",
+   25,
+   62
+  ],
+  [
+   "Harry Clarke",
+   "LD",
+   24,
+   63
+  ],
+  [
+   "Amari'i Bell",
+   "LE",
+   31,
+   62
+  ],
+  [
+   "Luke Chambers",
+   "LE",
+   21,
+   62
+  ],
+  [
+   "Conor Coventry",
+   "VOL",
+   25,
+   63
+  ],
+  [
+   "Greg Docherty",
+   "MEI",
+   29,
+   64
+  ],
+  [
+   "Sonny Carey",
+   "MEI",
+   24,
+   63
+  ],
+  [
+   "Allan Campbell",
+   "MEI",
+   27,
+   63
+  ],
+  [
+   "Luke Berry",
+   "MEI",
+   33,
+   60
+  ],
+  [
+   "Tyreece Campbell",
+   "PE",
+   22,
+   63
+  ],
+  [
+   "Harvey Knibbs",
+   "PE",
+   26,
+   63
+  ],
+  [
+   "Miles Leaburn",
+   "AC",
+   22,
+   63
+  ],
+  [
+   "Charlie Kelman",
+   "AC",
+   24,
+   62
+  ],
+  [
+   "Matty Godden",
+   "AC",
+   34,
+   62
+  ],
+  [
+   "Lyndon Dykes",
+   "AC",
+   30,
+   63
+  ]
+ ],
+ "Wrexham": [
+  [
+   "Arthur Okonkwo",
+   "GOL",
+   23,
+   67
+  ],
+  [
+   "Danny Ward",
+   "GOL",
+   32,
+   66
+  ],
+  [
+   "Callum Burton",
+   "GOL",
+   28,
+   58
+  ],
+  [
+   "Max Cleworth",
+   "ZAG",
+   23,
+   65
+  ],
+  [
+   "Dominic Hyam",
+   "ZAG",
+   29,
+   67
+  ],
+  [
+   "Callum Doyle",
+   "ZAG",
+   21,
+   68
+  ],
+  [
+   "Zak Vyner",
+   "ZAG",
+   28,
+   66
+  ],
+  [
+   "Ryan Longman",
+   "LD",
+   24,
+   64
+  ],
+  [
+   "Issa Kaboré",
+   "LD",
+   24,
+   66
+  ],
+  [
+   "Ryan Barnett",
+   "LD",
+   26,
+   62
+  ],
+  [
+   "Liberato Cacace",
+   "LE",
+   24,
+   67
+  ],
+  [
+   "George Dobson",
+   "VOL",
+   28,
+   65
+  ],
+  [
+   "Matty James",
+   "VOL",
+   34,
+   62
+  ],
+  [
+   "Lewis O'Brien",
+   "MEI",
+   26,
+   66
+  ],
+  [
+   "Josh Windass",
+   "MEI",
+   31,
+   66
+  ],
+  [
+   "Ollie Rathbone",
+   "MEI",
+   28,
+   65
+  ],
+  [
+   "Thomas O'Connor",
+   "MEI",
+   26,
+   63
+  ],
+  [
+   "Nathan Broadhead",
+   "PE",
+   27,
+   67
+  ],
+  [
+   "Kieffer Moore",
+   "AC",
+   33,
+   67
+  ],
+  [
+   "Sam Smith",
+   "AC",
+   27,
+   65
+  ],
+  [
+   "Davis Keillor-Dunn",
+   "AC",
+   28,
+   64
+  ],
+  [
+   "Bailey Cadamarteri",
+   "AC",
+   20,
+   63
+  ],
+  [
+   "Jay Rodriguez",
+   "AC",
+   36,
+   63
+  ]
+ ],
+ "Birmingham City": [
+  [
+   "James Beadle",
+   "GOL",
+   21,
+   66
+  ],
+  [
+   "Ryan Allsop",
+   "GOL",
+   33,
+   65
+  ],
+  [
+   "Bailey Peacock-Farrell",
+   "GOL",
+   29,
+   63
+  ],
+  [
+   "Christoph Klarer",
+   "ZAG",
+   25,
+   68
+  ],
+  [
+   "Phil Neumann",
+   "ZAG",
+   28,
+   66
+  ],
+  [
+   "Jonathan Panzo",
+   "ZAG",
+   25,
+   63
+  ],
+  [
+   "Ethan Laird",
+   "LD",
+   24,
+   66
+  ],
+  [
+   "Bright Osayi-Samuel",
+   "LD",
+   27,
+   67
+  ],
+  [
+   "Kai Wagner",
+   "LE",
+   28,
+   67
+  ],
+  [
+   "Alex Cochrane",
+   "LE",
+   25,
+   65
+  ],
+  [
+   "Tomoki Iwata",
+   "VOL",
+   28,
+   68
+  ],
+  [
+   "Jhon Solís",
+   "VOL",
+   21,
+   66
+  ],
+  [
+   "Paik Seung-ho",
+   "MEI",
+   28,
+   67
+  ],
+  [
+   "Tommy Doyle",
+   "MEI",
+   24,
+   66
+  ],
+  [
+   "Willum Thór Willumsson",
+   "MEI",
+   27,
+   67
+  ],
+  [
+   "Carlos Vicente",
+   "PD",
+   26,
+   66
+  ],
+  [
+   "Patrick Roberts",
+   "PD",
+   28,
+   64
+  ],
+  [
+   "Demarai Gray",
+   "PE",
+   29,
+   69
+  ],
+  [
+   "Ibrahim Osman",
+   "PE",
+   21,
+   65
+  ],
+  [
+   "Jay Stansfield",
+   "AC",
+   22,
+   70
+  ],
+  [
+   "Marvin Ducksch",
+   "AC",
+   31,
+   68
+  ],
+  [
+   "Kyogo Furuhashi",
+   "AC",
+   30,
+   67
+  ],
+  [
+   "August Priske",
+   "AC",
+   21,
+   64
+  ]
+ ]
+}

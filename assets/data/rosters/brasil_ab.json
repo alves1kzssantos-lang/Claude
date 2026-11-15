@@ -1,0 +1,5824 @@
+{
+ "Flamengo": [
+  [
+   "Agustín Rossi",
+   "GOL",
+   30,
+   80
+  ],
+  [
+   "Andrew",
+   "GOL",
+   25,
+   70
+  ],
+  [
+   "Dyogo Alves",
+   "GOL",
+   22,
+   60
+  ],
+  [
+   "Guillermo Varela",
+   "LD",
+   33,
+   75
+  ],
+  [
+   "Emerson Royal",
+   "LD",
+   27,
+   76
+  ],
+  [
+   "Léo Ortiz",
+   "ZAG",
+   30,
+   80
+  ],
+  [
+   "Léo Pereira",
+   "ZAG",
+   30,
+   79
+  ],
+  [
+   "Danilo",
+   "ZAG",
+   35,
+   76
+  ],
+  [
+   "Vitão",
+   "ZAG",
+   26,
+   76
+  ],
+  [
+   "Alex Sandro",
+   "LE",
+   35,
+   76
+  ],
+  [
+   "Ayrton Lucas",
+   "LE",
+   29,
+   75
+  ],
+  [
+   "Jorginho",
+   "VOL",
+   34,
+   80
+  ],
+  [
+   "Erick Pulgar",
+   "VOL",
+   32,
+   77
+  ],
+  [
+   "Saúl Ñíguez",
+   "VOL",
+   31,
+   78
+  ],
+  [
+   "Evertton Araújo",
+   "VOL",
+   22,
+   71
+  ],
+  [
+   "de Arrascaeta",
+   "MEI",
+   32,
+   85
+  ],
+  [
+   "Lucas Paquetá",
+   "MEI",
+   29,
+   84
+  ],
+  [
+   "N. de la Cruz",
+   "MEI",
+   29,
+   79
+  ],
+  [
+   "Jorge Carrascal",
+   "MEI",
+   28,
+   78
+  ],
+  [
+   "Gonzalo Plata",
+   "PD",
+   25,
+   78
+  ],
+  [
+   "Luiz Araújo",
+   "PD",
+   30,
+   76
+  ],
+  [
+   "Samuel Lino",
+   "PE",
+   26,
+   79
+  ],
+  [
+   "Anthony Valencia",
+   "PE",
+   22,
+   72
+  ],
+  [
+   "Pedro",
+   "AC",
+   29,
+   83
+  ],
+  [
+   "Bruno Henrique",
+   "AC",
+   35,
+   76
+  ]
+ ],
+ "Palmeiras": [
+  [
+   "Carlos Miguel",
+   "GOL",
+   27,
+   79
+  ],
+  [
+   "Marcelo Lomba",
+   "GOL",
+   39,
+   68
+  ],
+  [
+   "Bruno Bertinato",
+   "GOL",
+   26,
+   64
+  ],
+  [
+   "Agustín Giay",
+   "LD",
+   22,
+   75
+  ],
+  [
+   "Khellven",
+   "LD",
+   25,
+   74
+  ],
+  [
+   "Gustavo Gómez",
+   "ZAG",
+   33,
+   80
+  ],
+  [
+   "Murilo",
+   "ZAG",
+   29,
+   78
+  ],
+  [
+   "Alexander Barboza",
+   "ZAG",
+   31,
+   77
+  ],
+  [
+   "Bruno Fuchs",
+   "ZAG",
+   27,
+   75
+  ],
+  [
+   "Naves",
+   "ZAG",
+   24,
+   70
+  ],
+  [
+   "Joaquín Piquerez",
+   "LE",
+   28,
+   78
+  ],
+  [
+   "Jefté",
+   "LE",
+   22,
+   72
+  ],
+  [
+   "Marlon Freitas",
+   "VOL",
+   31,
+   79
+  ],
+  [
+   "Andreas Pereira",
+   "VOL",
+   30,
+   79
+  ],
+  [
+   "Emiliano Martínez",
+   "VOL",
+   27,
+   77
+  ],
+  [
+   "Lucas Evangelista",
+   "VOL",
+   31,
+   75
+  ],
+  [
+   "Maurício",
+   "MEI",
+   25,
+   77
+  ],
+  [
+   "Felipe Anderson",
+   "MEI",
+   33,
+   76
+  ],
+  [
+   "Jhon Arias",
+   "PD",
+   29,
+   81
+  ],
+  [
+   "Ramón Sosa",
+   "PD",
+   26,
+   77
+  ],
+  [
+   "Paulinho",
+   "PE",
+   25,
+   78
+  ],
+  [
+   "Vitor Roque",
+   "AC",
+   21,
+   81
+  ],
+  [
+   "José Manuel López",
+   "AC",
+   25,
+   79
+  ],
+  [
+   "Thalys",
+   "AC",
+   21,
+   66
+  ]
+ ],
+ "Cruzeiro": [
+  [
+   "Cássio",
+   "GOL",
+   39,
+   77
+  ],
+  [
+   "Léo Aragão",
+   "GOL",
+   22,
+   64
+  ],
+  [
+   "Otávio",
+   "GOL",
+   22,
+   61
+  ],
+  [
+   "William",
+   "LD",
+   31,
+   77
+  ],
+  [
+   "Fagner",
+   "LD",
+   37,
+   73
+  ],
+  [
+   "Fabrício Bruno",
+   "ZAG",
+   30,
+   79
+  ],
+  [
+   "Jonathan Jesus",
+   "ZAG",
+   26,
+   74
+  ],
+  [
+   "Lucas Villalba",
+   "ZAG",
+   31,
+   75
+  ],
+  [
+   "João Marcelo",
+   "ZAG",
+   25,
+   73
+  ],
+  [
+   "Gabriel Rojas",
+   "LE",
+   29,
+   74
+  ],
+  [
+   "Matías Viña",
+   "LE",
+   29,
+   73
+  ],
+  [
+   "Lucas Romero",
+   "VOL",
+   32,
+   76
+  ],
+  [
+   "Lucas Silva",
+   "VOL",
+   33,
+   74
+  ],
+  [
+   "Zé Lucas",
+   "VOL",
+   18,
+   70
+  ],
+  [
+   "Matheus Henrique",
+   "VOL",
+   28,
+   76
+  ],
+  [
+   "Matheus Pereira",
+   "MEI",
+   30,
+   82
+  ],
+  [
+   "Gerson",
+   "MEI",
+   29,
+   80
+  ],
+  [
+   "Gabriel Pec",
+   "PD",
+   25,
+   75
+  ],
+  [
+   "Wesley",
+   "PD",
+   26,
+   75
+  ],
+  [
+   "Marquinhos",
+   "PE",
+   27,
+   72
+  ],
+  [
+   "Lautaro Díaz",
+   "PE",
+   27,
+   72
+  ],
+  [
+   "Kaio Jorge",
+   "AC",
+   24,
+   80
+  ],
+  [
+   "Néiser Villarreal",
+   "AC",
+   20,
+   72
+  ],
+  [
+   "Bruno Rodrigues",
+   "AC",
+   29,
+   73
+  ],
+  [
+   "Luis Sinisterra",
+   "PE",
+   27,
+   77
+  ]
+ ],
+ "Corinthians": [
+  [
+   "Hugo Souza",
+   "GOL",
+   27,
+   79
+  ],
+  [
+   "João Ricardo",
+   "GOL",
+   37,
+   72
+  ],
+  [
+   "Felipe Longo",
+   "GOL",
+   22,
+   64
+  ],
+  [
+   "Matheuzinho",
+   "LD",
+   26,
+   75
+  ],
+  [
+   "Pedro Milans",
+   "LD",
+   24,
+   72
+  ],
+  [
+   "Gustavo Henrique",
+   "ZAG",
+   33,
+   76
+  ],
+  [
+   "André Ramalho",
+   "ZAG",
+   34,
+   75
+  ],
+  [
+   "Gabriel Paulista",
+   "ZAG",
+   35,
+   75
+  ],
+  [
+   "João Pedro Tchoca",
+   "ZAG",
+   25,
+   70
+  ],
+  [
+   "Matheus Bidu",
+   "LE",
+   27,
+   74
+  ],
+  [
+   "Hugo",
+   "LE",
+   27,
+   71
+  ],
+  [
+   "Raniele",
+   "VOL",
+   29,
+   76
+  ],
+  [
+   "José Martínez",
+   "VOL",
+   32,
+   75
+  ],
+  [
+   "Breno Bidon",
+   "VOL",
+   21,
+   74
+  ],
+  [
+   "Charles",
+   "VOL",
+   30,
+   73
+  ],
+  [
+   "Allan",
+   "VOL",
+   35,
+   72
+  ],
+  [
+   "Alex Santana",
+   "VOL",
+   31,
+   72
+  ],
+  [
+   "Rodrigo Garro",
+   "MEI",
+   28,
+   79
+  ],
+  [
+   "Matheus Pereira",
+   "VOL",
+   26,
+   74
+  ],
+  [
+   "Jesse Lingard",
+   "MEI",
+   33,
+   75
+  ],
+  [
+   "André Carrillo",
+   "MEI",
+   35,
+   74
+  ],
+  [
+   "Zakaria Labyad",
+   "MEI",
+   33,
+   71
+  ],
+  [
+   "Kaio César",
+   "PD",
+   22,
+   72
+  ],
+  [
+   "Vitinho",
+   "PE",
+   32,
+   70
+  ],
+  [
+   "Yuri Alberto",
+   "AC",
+   25,
+   79
+  ],
+  [
+   "Memphis Depay",
+   "AC",
+   32,
+   83
+  ]
+ ],
+ "Botafogo": [
+  [
+   "Gabriel Batista",
+   "GOL",
+   28,
+   74
+  ],
+  [
+   "Warleson",
+   "GOL",
+   27,
+   73
+  ],
+  [
+   "Léo Linck",
+   "GOL",
+   25,
+   70
+  ],
+  [
+   "Vitinho",
+   "LD",
+   27,
+   74
+  ],
+  [
+   "Mateo Ponte",
+   "LD",
+   22,
+   73
+  ],
+  [
+   "Arthur Chaves",
+   "ZAG",
+   25,
+   73
+  ],
+  [
+   "Lucas Monzón",
+   "ZAG",
+   24,
+   73
+  ],
+  [
+   "Nahuel Ferraresi",
+   "ZAG",
+   27,
+   73
+  ],
+  [
+   "Kaio Pantaleão",
+   "ZAG",
+   30,
+   71
+  ],
+  [
+   "Alex Telles",
+   "LE",
+   33,
+   76
+  ],
+  [
+   "Paulinho",
+   "LE",
+   30,
+   72
+  ],
+  [
+   "Jhoan Hernández",
+   "LE",
+   22,
+   69
+  ],
+  [
+   "Cristian Medina",
+   "VOL",
+   24,
+   77
+  ],
+  [
+   "Domingos Andrade",
+   "VOL",
+   22,
+   70
+  ],
+  [
+   "Wallace Davi",
+   "VOL",
+   21,
+   69
+  ],
+  [
+   "Patrick de Paula",
+   "VOL",
+   26,
+   70
+  ],
+  [
+   "Edenilson",
+   "MEI",
+   36,
+   72
+  ],
+  [
+   "Álvaro Montoro",
+   "MEI",
+   19,
+   74
+  ],
+  [
+   "Artur",
+   "PD",
+   28,
+   77
+  ],
+  [
+   "Hakim Ziyech",
+   "PD",
+   33,
+   77
+  ],
+  [
+   "Júnior Santos",
+   "PE",
+   32,
+   74
+  ],
+  [
+   "Jeffinho",
+   "PE",
+   27,
+   71
+  ],
+  [
+   "Arthur Cabral",
+   "AC",
+   28,
+   76
+  ],
+  [
+   "Tiquinho Soares",
+   "AC",
+   35,
+   72
+  ],
+  [
+   "Danilo",
+   "AC",
+   27,
+   73
+  ],
+  [
+   "Lucas Villalba",
+   "AC",
+   24,
+   69
+  ]
+ ],
+ "Atlético-MG": [
+  [
+   "Everson",
+   "GOL",
+   36,
+   77
+  ],
+  [
+   "Gabriel Delfim",
+   "GOL",
+   24,
+   70
+  ],
+  [
+   "Matheus Mendes",
+   "GOL",
+   32,
+   67
+  ],
+  [
+   "Natanael",
+   "LD",
+   24,
+   73
+  ],
+  [
+   "Angelo Preciado",
+   "LD",
+   28,
+   75
+  ],
+  [
+   "Lyanco",
+   "ZAG",
+   29,
+   77
+  ],
+  [
+   "Léo Duarte",
+   "ZAG",
+   30,
+   74
+  ],
+  [
+   "Ruan Tressoldi",
+   "ZAG",
+   27,
+   73
+  ],
+  [
+   "Vitor Hugo",
+   "ZAG",
+   35,
+   72
+  ],
+  [
+   "Renan Lodi",
+   "LE",
+   28,
+   77
+  ],
+  [
+   "Kauã Pascini",
+   "LE",
+   19,
+   63
+  ],
+  [
+   "Alan Franco",
+   "VOL",
+   27,
+   76
+  ],
+  [
+   "Fred",
+   "VOL",
+   33,
+   77
+  ],
+  [
+   "Kevin Castaño",
+   "VOL",
+   26,
+   75
+  ],
+  [
+   "Maycon",
+   "VOL",
+   29,
+   75
+  ],
+  [
+   "Gustavo Scarpa",
+   "MEI",
+   32,
+   79
+  ],
+  [
+   "Bernard",
+   "MEI",
+   34,
+   74
+  ],
+  [
+   "Victor Hugo",
+   "MEI",
+   22,
+   74
+  ],
+  [
+   "Igor Gomes",
+   "MEI",
+   27,
+   73
+  ],
+  [
+   "Alan Minda",
+   "PD",
+   23,
+   74
+  ],
+  [
+   "Dudu",
+   "PE",
+   34,
+   74
+  ],
+  [
+   "Tomás Cuello",
+   "PE",
+   26,
+   76
+  ],
+  [
+   "Rubens",
+   "PE",
+   25,
+   71
+  ],
+  [
+   "Mateo Cassierra",
+   "AC",
+   29,
+   76
+  ],
+  [
+   "Thiago Borbas",
+   "AC",
+   24,
+   72
+  ]
+ ],
+ "São Paulo": [
+  [
+   "Rafael",
+   "GOL",
+   37,
+   78
+  ],
+  [
+   "Carlos Coronel",
+   "GOL",
+   29,
+   73
+  ],
+  [
+   "Jandrei",
+   "GOL",
+   33,
+   68
+  ],
+  [
+   "Aurélio Buta",
+   "LD",
+   29,
+   73
+  ],
+  [
+   "Lucas Ramon",
+   "LD",
+   32,
+   70
+  ],
+  [
+   "Pedro Lima",
+   "LD",
+   19,
+   70
+  ],
+  [
+   "Robert Arboleda",
+   "ZAG",
+   34,
+   77
+  ],
+  [
+   "Domingos Duarte",
+   "ZAG",
+   31,
+   74
+  ],
+  [
+   "Sabino",
+   "ZAG",
+   29,
+   73
+  ],
+  [
+   "Rafael Tolói",
+   "ZAG",
+   35,
+   72
+  ],
+  [
+   "Wendell",
+   "LE",
+   33,
+   74
+  ],
+  [
+   "Enzo Díaz",
+   "LE",
+   30,
+   73
+  ],
+  [
+   "Iago Borduchi",
+   "LE",
+   26,
+   70
+  ],
+  [
+   "Damián Bobadilla",
+   "VOL",
+   27,
+   77
+  ],
+  [
+   "Pablo Maia",
+   "VOL",
+   24,
+   76
+  ],
+  [
+   "Marcos Antônio",
+   "VOL",
+   26,
+   75
+  ],
+  [
+   "Newton",
+   "VOL",
+   23,
+   72
+  ],
+  [
+   "Lucas Moura",
+   "MEI",
+   34,
+   78
+  ],
+  [
+   "Cauly",
+   "MEI",
+   30,
+   74
+  ],
+  [
+   "Danielzinho",
+   "MEI",
+   30,
+   72
+  ],
+  [
+   "Ferreirinha",
+   "PD",
+   28,
+   73
+  ],
+  [
+   "Victor Sá",
+   "PD",
+   31,
+   73
+  ],
+  [
+   "Luciano",
+   "AC",
+   33,
+   75
+  ],
+  [
+   "Jonathan Calleri",
+   "AC",
+   33,
+   77
+  ],
+  [
+   "André Silva",
+   "AC",
+   29,
+   74
+  ],
+  [
+   "Ryan Francisco",
+   "AC",
+   19,
+   68
+  ]
+ ],
+ "Fluminense": [
+  [
+   "Fábio",
+   "GOL",
+   46,
+   74
+  ],
+  [
+   "Vitor Eudes",
+   "GOL",
+   25,
+   66
+  ],
+  [
+   "Marcelo Pitaluga",
+   "GOL",
+   23,
+   64
+  ],
+  [
+   "Samuel Xavier",
+   "LD",
+   36,
+   73
+  ],
+  [
+   "Guga",
+   "LD",
+   28,
+   73
+  ],
+  [
+   "Thiago Silva",
+   "ZAG",
+   42,
+   77
+  ],
+  [
+   "Juan Freytes",
+   "ZAG",
+   26,
+   76
+  ],
+  [
+   "Ignácio",
+   "ZAG",
+   29,
+   75
+  ],
+  [
+   "Jemmes",
+   "ZAG",
+   27,
+   72
+  ],
+  [
+   "Julián Millán",
+   "ZAG",
+   24,
+   70
+  ],
+  [
+   "Guilherme Arana",
+   "LE",
+   29,
+   76
+  ],
+  [
+   "Renê",
+   "LE",
+   34,
+   70
+  ],
+  [
+   "Martinelli",
+   "VOL",
+   25,
+   77
+  ],
+  [
+   "Hércules",
+   "VOL",
+   25,
+   76
+  ],
+  [
+   "Alisson",
+   "VOL",
+   23,
+   72
+  ],
+  [
+   "Otávio",
+   "VOL",
+   32,
+   72
+  ],
+  [
+   "Luciano Acosta",
+   "MEI",
+   32,
+   78
+  ],
+  [
+   "J. Savarino",
+   "MEI",
+   29,
+   79
+  ],
+  [
+   "Ganso",
+   "MEI",
+   37,
+   74
+  ],
+  [
+   "Nonato",
+   "MEI",
+   28,
+   73
+  ],
+  [
+   "Kevin Serna",
+   "PD",
+   28,
+   76
+  ],
+  [
+   "Yeferson Soteldo",
+   "PE",
+   29,
+   77
+  ],
+  [
+   "Hulk",
+   "AC",
+   40,
+   79
+  ],
+  [
+   "Germán Cano",
+   "AC",
+   38,
+   74
+  ],
+  [
+   "John Kennedy",
+   "AC",
+   24,
+   74
+  ],
+  [
+   "Rodrigo Castillo",
+   "AC",
+   26,
+   72
+  ]
+ ],
+ "Internacional": [
+  [
+   "Sergio Rochet",
+   "GOL",
+   33,
+   78
+  ],
+  [
+   "Matheus Cunha",
+   "GOL",
+   25,
+   72
+  ],
+  [
+   "Anthoni",
+   "GOL",
+   24,
+   68
+  ],
+  [
+   "Braian Aguirre",
+   "LD",
+   26,
+   73
+  ],
+  [
+   "Bruno Gomes",
+   "LD",
+   25,
+   71
+  ],
+  [
+   "Guillermo Maripán",
+   "ZAG",
+   32,
+   76
+  ],
+  [
+   "Félix Torres",
+   "ZAG",
+   29,
+   74
+  ],
+  [
+   "Juninho",
+   "ZAG",
+   26,
+   72
+  ],
+  [
+   "Gabriel Mercado",
+   "ZAG",
+   39,
+   71
+  ],
+  [
+   "Victor Gabriel",
+   "ZAG",
+   20,
+   68
+  ],
+  [
+   "A. Bernabei",
+   "LE",
+   26,
+   77
+  ],
+  [
+   "Thiago Maia",
+   "VOL",
+   29,
+   75
+  ],
+  [
+   "Rodrigo Villagra",
+   "VOL",
+   25,
+   74
+  ],
+  [
+   "Fernando",
+   "VOL",
+   34,
+   74
+  ],
+  [
+   "Bruno Henrique",
+   "VOL",
+   36,
+   72
+  ],
+  [
+   "Alan Patrick",
+   "MEI",
+   35,
+   78
+  ],
+  [
+   "Paulinho Paula",
+   "MEI",
+   24,
+   71
+  ],
+  [
+   "Calebe",
+   "MEI",
+   26,
+   72
+  ],
+  [
+   "Niclas Eliasson",
+   "PD",
+   31,
+   72
+  ],
+  [
+   "Vitinho",
+   "PD",
+   27,
+   71
+  ],
+  [
+   "Johan Carbonero",
+   "PE",
+   27,
+   75
+  ],
+  [
+   "Kayky",
+   "PE",
+   23,
+   72
+  ],
+  [
+   "Antonio Sanabria",
+   "AC",
+   30,
+   75
+  ],
+  [
+   "Alerrandro",
+   "AC",
+   26,
+   74
+  ],
+  [
+   "Enner Valencia",
+   "AC",
+   37,
+   74
+  ]
+ ],
+ "Bahia": [
+  [
+   "Guido Herrera",
+   "GOL",
+   34,
+   75
+  ],
+  [
+   "Ronaldo",
+   "GOL",
+   30,
+   72
+  ],
+  [
+   "Léo Vieira",
+   "GOL",
+   28,
+   69
+  ],
+  [
+   "Román Gómez",
+   "LD",
+   23,
+   72
+  ],
+  [
+   "Ruan Pablo",
+   "PD",
+   20,
+   66
+  ],
+  [
+   "Kanu",
+   "ZAG",
+   29,
+   74
+  ],
+  [
+   "David Duarte",
+   "ZAG",
+   31,
+   74
+  ],
+  [
+   "Marco Moreno",
+   "ZAG",
+   25,
+   72
+  ],
+  [
+   "Luciano Juba",
+   "LE",
+   27,
+   76
+  ],
+  [
+   "Caio Alexandre",
+   "VOL",
+   27,
+   77
+  ],
+  [
+   "Jean Lucas",
+   "VOL",
+   28,
+   76
+  ],
+  [
+   "Nicolás Acevedo",
+   "VOL",
+   27,
+   75
+  ],
+  [
+   "Rodrigo Nestor",
+   "VOL",
+   26,
+   74
+  ],
+  [
+   "Erick",
+   "VOL",
+   28,
+   72
+  ],
+  [
+   "Everton Ribeiro",
+   "MEI",
+   37,
+   76
+  ],
+  [
+   "Michel Araújo",
+   "MEI",
+   29,
+   75
+  ],
+  [
+   "Ademir",
+   "PD",
+   31,
+   74
+  ],
+  [
+   "Erick Pulga",
+   "PE",
+   25,
+   74
+  ],
+  [
+   "Cristian Olivera",
+   "PE",
+   24,
+   74
+  ],
+  [
+   "Kike Olivera",
+   "PD",
+   23,
+   70
+  ],
+  [
+   "Willian José",
+   "AC",
+   34,
+   74
+  ],
+  [
+   "Alejo Veliz",
+   "AC",
+   23,
+   73
+  ],
+  [
+   "Everaldo",
+   "AC",
+   35,
+   71
+  ]
+ ],
+ "Grêmio": [
+  [
+   "Weverton",
+   "GOL",
+   38,
+   77
+  ],
+  [
+   "Gabriel Grando",
+   "GOL",
+   26,
+   68
+  ],
+  [
+   "Adriel",
+   "GOL",
+   25,
+   65
+  ],
+  [
+   "João Pedro",
+   "LD",
+   29,
+   72
+  ],
+  [
+   "Marcos Rocha",
+   "LD",
+   38,
+   69
+  ],
+  [
+   "Diego Caito",
+   "LD",
+   24,
+   68
+  ],
+  [
+   "Walter Kannemann",
+   "ZAG",
+   35,
+   74
+  ],
+  [
+   "Wagner Leonardo",
+   "ZAG",
+   26,
+   74
+  ],
+  [
+   "Gustavo Martins",
+   "ZAG",
+   25,
+   73
+  ],
+  [
+   "Fabián Balbuena",
+   "ZAG",
+   34,
+   73
+  ],
+  [
+   "Wallace",
+   "ZAG",
+   32,
+   70
+  ],
+  [
+   "Marlon",
+   "LE",
+   29,
+   71
+  ],
+  [
+   "Caio Paulista",
+   "LE",
+   28,
+   74
+  ],
+  [
+   "M. Villasanti",
+   "VOL",
+   29,
+   76
+  ],
+  [
+   "Juan Nardoni",
+   "VOL",
+   24,
+   74
+  ],
+  [
+   "Dodi",
+   "VOL",
+   31,
+   73
+  ],
+  [
+   "Danilo Barbosa",
+   "VOL",
+   30,
+   73
+  ],
+  [
+   "Filip Krovinovic",
+   "MEI",
+   31,
+   72
+  ],
+  [
+   "Cristian Pavón",
+   "PD",
+   30,
+   75
+  ],
+  [
+   "José Enamorado",
+   "PD",
+   27,
+   74
+  ],
+  [
+   "Tetê",
+   "PD",
+   26,
+   74
+  ],
+  [
+   "Francis Amuzu",
+   "PE",
+   27,
+   75
+  ],
+  [
+   "Jovane Cabral",
+   "PE",
+   28,
+   70
+  ],
+  [
+   "M. Braithwaite",
+   "AC",
+   35,
+   76
+  ],
+  [
+   "Carlos Vinícius",
+   "AC",
+   31,
+   74
+  ],
+  [
+   "Matheus Nascimento",
+   "AC",
+   22,
+   70
+  ]
+ ],
+ "Santos": [
+  [
+   "Gabriel Brazão",
+   "GOL",
+   26,
+   77
+  ],
+  [
+   "João Paulo",
+   "GOL",
+   31,
+   72
+  ],
+  [
+   "Diógenes",
+   "GOL",
+   25,
+   63
+  ],
+  [
+   "Igor Vinícius",
+   "LD",
+   29,
+   73
+  ],
+  [
+   "Rodinei",
+   "LD",
+   34,
+   72
+  ],
+  [
+   "Lucas Veríssimo",
+   "ZAG",
+   31,
+   75
+  ],
+  [
+   "Luan Peres",
+   "ZAG",
+   32,
+   73
+  ],
+  [
+   "Alexis Duarte",
+   "ZAG",
+   26,
+   72
+  ],
+  [
+   "Gonzalo Escobar",
+   "LE",
+   29,
+   73
+  ],
+  [
+   "Arthur",
+   "VOL",
+   30,
+   76
+  ],
+  [
+   "Gabriel Menino",
+   "VOL",
+   25,
+   74
+  ],
+  [
+   "Christian Oliva",
+   "VOL",
+   30,
+   73
+  ],
+  [
+   "João Schmidt",
+   "VOL",
+   33,
+   73
+  ],
+  [
+   "Willian Arão",
+   "VOL",
+   34,
+   73
+  ],
+  [
+   "Neymar",
+   "MEI",
+   34,
+   83
+  ],
+  [
+   "Philippe Coutinho",
+   "MEI",
+   34,
+   76
+  ],
+  [
+   "Lima",
+   "MEI",
+   29,
+   73
+  ],
+  [
+   "B. Rollheiser",
+   "PD",
+   26,
+   75
+  ],
+  [
+   "Guilherme",
+   "PD",
+   31,
+   74
+  ],
+  [
+   "Rony",
+   "PD",
+   31,
+   73
+  ],
+  [
+   "Everton",
+   "PE",
+   30,
+   75
+  ],
+  [
+   "Álvaro Barreal",
+   "PE",
+   26,
+   72
+  ],
+  [
+   "Moisés",
+   "PE",
+   30,
+   72
+  ],
+  [
+   "Gabriel Barbosa",
+   "AC",
+   29,
+   76
+  ]
+ ],
+ "Vasco da Gama": [
+  [
+   "Léo Jardim",
+   "GOL",
+   31,
+   78
+  ],
+  [
+   "Daniel Fuzato",
+   "GOL",
+   29,
+   70
+  ],
+  [
+   "Keiller",
+   "GOL",
+   27,
+   65
+  ],
+  [
+   "Paulo Henrique",
+   "LD",
+   29,
+   74
+  ],
+  [
+   "Puma Rodríguez",
+   "LD",
+   28,
+   73
+  ],
+  [
+   "Carlos Cuesta",
+   "ZAG",
+   27,
+   75
+  ],
+  [
+   "Robert Renan",
+   "ZAG",
+   23,
+   74
+  ],
+  [
+   "Alan Saldivia",
+   "ZAG",
+   23,
+   72
+  ],
+  [
+   "Lucas Freitas",
+   "ZAG",
+   20,
+   69
+  ],
+  [
+   "Gabriel Pereira",
+   "ZAG",
+   24,
+   70
+  ],
+  [
+   "Lucas Piton",
+   "LE",
+   25,
+   75
+  ],
+  [
+   "Cuiabano",
+   "LE",
+   23,
+   73
+  ],
+  [
+   "Paulinho",
+   "LE",
+   31,
+   69
+  ],
+  [
+   "Thiago Mendes",
+   "VOL",
+   34,
+   74
+  ],
+  [
+   "Santiago Sosa",
+   "VOL",
+   27,
+   74
+  ],
+  [
+   "Tchê Tchê",
+   "VOL",
+   33,
+   72
+  ],
+  [
+   "Cauan Barros",
+   "VOL",
+   20,
+   68
+  ],
+  [
+   "Nuno Moreira",
+   "MEI",
+   27,
+   75
+  ],
+  [
+   "Johan Rojas",
+   "MEI",
+   24,
+   73
+  ],
+  [
+   "Alan Lescano",
+   "MEI",
+   24,
+   72
+  ],
+  [
+   "Andrés Gómez",
+   "PD",
+   23,
+   74
+  ],
+  [
+   "Marino Hinestroza",
+   "PD",
+   24,
+   74
+  ],
+  [
+   "David",
+   "PE",
+   30,
+   73
+  ],
+  [
+   "Facundo Colidio",
+   "AC",
+   26,
+   75
+  ],
+  [
+   "Brenner",
+   "AC",
+   26,
+   73
+  ],
+  [
+   "Claudio Spinelli",
+   "AC",
+   28,
+   72
+  ]
+ ],
+ "RB Bragantino": [
+  [
+   "Cleiton",
+   "GOL",
+   29,
+   76
+  ],
+  [
+   "Tiago Volpi",
+   "GOL",
+   35,
+   73
+  ],
+  [
+   "Lucas Gazal",
+   "GOL",
+   28,
+   64
+  ],
+  [
+   "Andrés Hurtado",
+   "LD",
+   26,
+   74
+  ],
+  [
+   "Agustín Sant'Anna",
+   "LD",
+   25,
+   73
+  ],
+  [
+   "Eduardo Santos",
+   "ZAG",
+   28,
+   73
+  ],
+  [
+   "Guzmán Rodríguez",
+   "ZAG",
+   24,
+   72
+  ],
+  [
+   "Alix Vinicius",
+   "ZAG",
+   25,
+   71
+  ],
+  [
+   "Luan Cândido",
+   "ZAG",
+   25,
+   72
+  ],
+  [
+   "Juninho Capixaba",
+   "LE",
+   29,
+   74
+  ],
+  [
+   "Gustavo Marques",
+   "ZAG",
+   23,
+   70
+  ],
+  [
+   "Matheus Fernandes",
+   "VOL",
+   28,
+   73
+  ],
+  [
+   "Ignacio Sosa",
+   "VOL",
+   24,
+   72
+  ],
+  [
+   "Gabriel",
+   "VOL",
+   30,
+   71
+  ],
+  [
+   "Patrick",
+   "VOL",
+   34,
+   70
+  ],
+  [
+   "Gustavinho",
+   "VOL",
+   22,
+   70
+  ],
+  [
+   "Eric Ramires",
+   "MEI",
+   26,
+   73
+  ],
+  [
+   "Lincoln",
+   "MEI",
+   25,
+   72
+  ],
+  [
+   "Rodriguinho",
+   "MEI",
+   28,
+   73
+  ],
+  [
+   "Henry Mosquera",
+   "PD",
+   24,
+   73
+  ],
+  [
+   "Vinicinho",
+   "PD",
+   25,
+   71
+  ],
+  [
+   "Wallace Yan",
+   "PE",
+   21,
+   72
+  ],
+  [
+   "Isidro Pitta",
+   "AC",
+   26,
+   75
+  ],
+  [
+   "Eduardo Sasha",
+   "AC",
+   34,
+   74
+  ],
+  [
+   "José Herrera",
+   "AC",
+   24,
+   72
+  ]
+ ],
+ "Athletico-PR": [
+  [
+   "Santos",
+   "GOL",
+   36,
+   74
+  ],
+  [
+   "Mycael",
+   "GOL",
+   22,
+   72
+  ],
+  [
+   "Matheus Soares",
+   "GOL",
+   23,
+   63
+  ],
+  [
+   "Gilberto",
+   "LD",
+   33,
+   72
+  ],
+  [
+   "Léo Godoy",
+   "LD",
+   31,
+   71
+  ],
+  [
+   "Gastón Benavídez",
+   "LD",
+   27,
+   70
+  ],
+  [
+   "Thiago Heleno",
+   "ZAG",
+   37,
+   72
+  ],
+  [
+   "Arthur Dias",
+   "ZAG",
+   26,
+   72
+  ],
+  [
+   "Mateo Gamarra",
+   "ZAG",
+   25,
+   72
+  ],
+  [
+   "Dantas",
+   "ZAG",
+   24,
+   69
+  ],
+  [
+   "Lucas Esquivel",
+   "LE",
+   25,
+   73
+  ],
+  [
+   "Luiz Gustavo",
+   "VOL",
+   38,
+   73
+  ],
+  [
+   "Juan Portilla",
+   "VOL",
+   27,
+   73
+  ],
+  [
+   "Jadson",
+   "VOL",
+   32,
+   72
+  ],
+  [
+   "Felipinho",
+   "VOL",
+   25,
+   71
+  ],
+  [
+   "Alejandro García",
+   "MEI",
+   23,
+   71
+  ],
+  [
+   "Bruno Zapelli",
+   "MEI",
+   24,
+   73
+  ],
+  [
+   "Dudu",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Stiven Mendoza",
+   "PD",
+   34,
+   71
+  ],
+  [
+   "Jorge Rivaldo",
+   "PD",
+   24,
+   69
+  ],
+  [
+   "Kerwin Vargas",
+   "PE",
+   24,
+   72
+  ],
+  [
+   "Kevin Viveros",
+   "AC",
+   25,
+   74
+  ],
+  [
+   "Gonzalo Mastriani",
+   "AC",
+   33,
+   72
+  ],
+  [
+   "Renan Peixoto",
+   "AC",
+   28,
+   68
+  ]
+ ],
+ "Mirassol": [
+  [
+   "Walter",
+   "GOL",
+   38,
+   73
+  ],
+  [
+   "Muralha",
+   "GOL",
+   36,
+   68
+  ],
+  [
+   "Georgemy",
+   "GOL",
+   27,
+   65
+  ],
+  [
+   "Igor Formiga",
+   "LD",
+   27,
+   71
+  ],
+  [
+   "Elias",
+   "LD",
+   27,
+   69
+  ],
+  [
+   "Daniel Borges",
+   "LD",
+   33,
+   68
+  ],
+  [
+   "João Victor",
+   "ZAG",
+   28,
+   73
+  ],
+  [
+   "Luiz Otávio",
+   "ZAG",
+   32,
+   72
+  ],
+  [
+   "Willian Machado",
+   "ZAG",
+   31,
+   71
+  ],
+  [
+   "Lucas Oliveira",
+   "ZAG",
+   30,
+   70
+  ],
+  [
+   "Gabriel Knesowitsch",
+   "ZAG",
+   24,
+   68
+  ],
+  [
+   "Reinaldo",
+   "LE",
+   36,
+   73
+  ],
+  [
+   "Victor Luis",
+   "LE",
+   32,
+   70
+  ],
+  [
+   "Neto Moura",
+   "VOL",
+   30,
+   74
+  ],
+  [
+   "José Aldo",
+   "VOL",
+   34,
+   72
+  ],
+  [
+   "Denilson",
+   "VOL",
+   29,
+   70
+  ],
+  [
+   "Japa",
+   "VOL",
+   24,
+   70
+  ],
+  [
+   "Wallisson",
+   "VOL",
+   26,
+   68
+  ],
+  [
+   "Shaylon",
+   "MEI",
+   29,
+   72
+  ],
+  [
+   "Eduardo",
+   "MEI",
+   36,
+   72
+  ],
+  [
+   "Gabriel",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Negueba",
+   "PD",
+   33,
+   72
+  ],
+  [
+   "Gustavo Silva",
+   "PD",
+   28,
+   70
+  ],
+  [
+   "Alesson",
+   "PE",
+   28,
+   72
+  ],
+  [
+   "Fernandinho",
+   "PE",
+   29,
+   69
+  ],
+  [
+   "André Luis",
+   "AC",
+   30,
+   72
+  ]
+ ],
+ "Vitória": [
+  [
+   "Lucas Arcanjo",
+   "GOL",
+   28,
+   74
+  ],
+  [
+   "Thiago Couto",
+   "GOL",
+   23,
+   68
+  ],
+  [
+   "Yuri Sena",
+   "GOL",
+   24,
+   63
+  ],
+  [
+   "Mateusinho",
+   "LD",
+   30,
+   72
+  ],
+  [
+   "Nathan Mendes",
+   "LD",
+   22,
+   70
+  ],
+  [
+   "Fabiano Souza",
+   "LD",
+   25,
+   68
+  ],
+  [
+   "Camutanga",
+   "ZAG",
+   31,
+   72
+  ],
+  [
+   "Emanuel Brítez",
+   "ZAG",
+   34,
+   72
+  ],
+  [
+   "Riccieli",
+   "ZAG",
+   27,
+   71
+  ],
+  [
+   "Edu",
+   "ZAG",
+   29,
+   70
+  ],
+  [
+   "Jamerson",
+   "LE",
+   29,
+   71
+  ],
+  [
+   "Walace",
+   "VOL",
+   31,
+   74
+  ],
+  [
+   "Baralhas",
+   "VOL",
+   24,
+   72
+  ],
+  [
+   "Caíque Gonçalves",
+   "VOL",
+   22,
+   69
+  ],
+  [
+   "Matheuzinho",
+   "MEI",
+   26,
+   73
+  ],
+  [
+   "Tomás Pochettino",
+   "MEI",
+   30,
+   73
+  ],
+  [
+   "Osvaldo",
+   "PD",
+   39,
+   69
+  ],
+  [
+   "Lucas Silva",
+   "PD",
+   26,
+   69
+  ],
+  [
+   "Marinho",
+   "PE",
+   36,
+   72
+  ],
+  [
+   "I. Laquintana",
+   "PE",
+   27,
+   70
+  ],
+  [
+   "Renato Kayzer",
+   "AC",
+   30,
+   74
+  ],
+  [
+   "Fabri",
+   "AC",
+   30,
+   70
+  ]
+ ],
+ "Coritiba": [
+  [
+   "Pedro Morisco",
+   "GOL",
+   22,
+   73
+  ],
+  [
+   "Pedro Rangel",
+   "GOL",
+   24,
+   64
+  ],
+  [
+   "Benassi",
+   "GOL",
+   29,
+   63
+  ],
+  [
+   "Fabricio Bustos",
+   "LD",
+   30,
+   73
+  ],
+  [
+   "Tinga",
+   "LD",
+   33,
+   70
+  ],
+  [
+   "Maicon",
+   "ZAG",
+   37,
+   72
+  ],
+  [
+   "Tiago Cóser",
+   "ZAG",
+   28,
+   71
+  ],
+  [
+   "Thiago Santos",
+   "ZAG",
+   28,
+   70
+  ],
+  [
+   "Jacy",
+   "ZAG",
+   32,
+   69
+  ],
+  [
+   "Bruno Melo",
+   "LE",
+   34,
+   70
+  ],
+  [
+   "Felipe Jonatan",
+   "LE",
+   28,
+   70
+  ],
+  [
+   "Sebastián Gómez",
+   "VOL",
+   29,
+   72
+  ],
+  [
+   "Nicolás Fonseca",
+   "VOL",
+   28,
+   72
+  ],
+  [
+   "Richard",
+   "VOL",
+   32,
+   71
+  ],
+  [
+   "Vini Paulista",
+   "VOL",
+   26,
+   69
+  ],
+  [
+   "Josué",
+   "MEI",
+   36,
+   73
+  ],
+  [
+   "Gustavo",
+   "MEI",
+   27,
+   70
+  ],
+  [
+   "Lucas Ronier",
+   "PD",
+   20,
+   71
+  ],
+  [
+   "Brian Ocampo",
+   "PD",
+   27,
+   71
+  ],
+  [
+   "Keno",
+   "PE",
+   37,
+   69
+  ],
+  [
+   "Breno Lopes",
+   "PE",
+   30,
+   72
+  ],
+  [
+   "Pedro Rocha",
+   "AC",
+   31,
+   72
+  ],
+  [
+   "Joaquín Lavega",
+   "AC",
+   21,
+   71
+  ],
+  [
+   "Renato Marques",
+   "AC",
+   23,
+   68
+  ]
+ ],
+ "Chapecoense": [
+  [
+   "Anderson",
+   "GOL",
+   32,
+   70
+  ],
+  [
+   "Gabriel Werner",
+   "GOL",
+   24,
+   63
+  ],
+  [
+   "Matheus Cavichioli",
+   "GOL",
+   28,
+   62
+  ],
+  [
+   "Bruno Tubarão",
+   "LD",
+   31,
+   67
+  ],
+  [
+   "Heitor",
+   "LD",
+   24,
+   67
+  ],
+  [
+   "Rafael Thyere",
+   "ZAG",
+   33,
+   70
+  ],
+  [
+   "Eduardo Doma",
+   "ZAG",
+   30,
+   68
+  ],
+  [
+   "Bruno Leonardo",
+   "ZAG",
+   28,
+   67
+  ],
+  [
+   "Victor Caetano",
+   "ZAG",
+   25,
+   67
+  ],
+  [
+   "Bruno Pacheco",
+   "LE",
+   34,
+   68
+  ],
+  [
+   "Fernando",
+   "LE",
+   27,
+   68
+  ],
+  [
+   "Yago Felipe",
+   "VOL",
+   31,
+   70
+  ],
+  [
+   "Camilo",
+   "VOL",
+   27,
+   69
+  ],
+  [
+   "Rosivan",
+   "VOL",
+   25,
+   65
+  ],
+  [
+   "Miguel Carvalho",
+   "MEI",
+   24,
+   68
+  ],
+  [
+   "Robert",
+   "MEI",
+   22,
+   68
+  ],
+  [
+   "Max Alves",
+   "MEI",
+   25,
+   67
+  ],
+  [
+   "Giovanni Augusto",
+   "MEI",
+   36,
+   67
+  ],
+  [
+   "Dylan Borrero",
+   "PD",
+   24,
+   70
+  ],
+  [
+   "Maurício Garcez",
+   "PD",
+   29,
+   68
+  ],
+  [
+   "Yannick Bolasie",
+   "PE",
+   37,
+   69
+  ],
+  [
+   "Franco Rossi",
+   "AC",
+   24,
+   67
+  ],
+  [
+   "Ênio",
+   "AC",
+   26,
+   67
+  ],
+  [
+   "Tulio Eduardo",
+   "AC",
+   24,
+   64
+  ]
+ ],
+ "Remo": [
+  [
+   "Marcelo Rangel",
+   "GOL",
+   38,
+   71
+  ],
+  [
+   "Ivan",
+   "GOL",
+   29,
+   71
+  ],
+  [
+   "Léo Lang",
+   "GOL",
+   24,
+   62
+  ],
+  [
+   "João Lucas",
+   "LD",
+   28,
+   69
+  ],
+  [
+   "Marcelinho",
+   "LD",
+   30,
+   67
+  ],
+  [
+   "Léo Andrade",
+   "ZAG",
+   27,
+   69
+  ],
+  [
+   "Thalisson",
+   "ZAG",
+   25,
+   68
+  ],
+  [
+   "Tchamba",
+   "ZAG",
+   27,
+   69
+  ],
+  [
+   "Matheus Felipe",
+   "ZAG",
+   29,
+   68
+  ],
+  [
+   "Zé Ivaldo",
+   "ZAG",
+   29,
+   70
+  ],
+  [
+   "Mayk",
+   "LE",
+   27,
+   68
+  ],
+  [
+   "Marlon",
+   "LE",
+   29,
+   68
+  ],
+  [
+   "Zé Ricardo",
+   "VOL",
+   28,
+   69
+  ],
+  [
+   "Zé Welison",
+   "VOL",
+   31,
+   69
+  ],
+  [
+   "Edson Fernando",
+   "VOL",
+   27,
+   67
+  ],
+  [
+   "Leonel Picco",
+   "MEI",
+   27,
+   69
+  ],
+  [
+   "Franco Catarozzi",
+   "MEI",
+   26,
+   67
+  ],
+  [
+   "Patrick",
+   "MEI",
+   34,
+   68
+  ],
+  [
+   "David Braga",
+   "MEI",
+   28,
+   66
+  ],
+  [
+   "Yago Pikachu",
+   "PD",
+   34,
+   70
+  ],
+  [
+   "Nico Ferreira",
+   "PE",
+   24,
+   68
+  ],
+  [
+   "Gabriel Taliari",
+   "AC",
+   27,
+   68
+  ],
+  [
+   "Antonio Galeano",
+   "AC",
+   26,
+   68
+  ]
+ ],
+ "Fortaleza": [
+  [
+   "Brenno",
+   "GOL",
+   27,
+   69
+  ],
+  [
+   "Magrão",
+   "GOL",
+   30,
+   60
+  ],
+  [
+   "Vinícius Silvestre",
+   "GOL",
+   31,
+   64
+  ],
+  [
+   "Maílton",
+   "LD",
+   27,
+   67
+  ],
+  [
+   "Eros Mancuso",
+   "LD",
+   27,
+   69
+  ],
+  [
+   "Paulinho",
+   "LD",
+   26,
+   64
+  ],
+  [
+   "Benjamín Kuscevic",
+   "ZAG",
+   30,
+   70
+  ],
+  [
+   "Tobias Figueiredo",
+   "ZAG",
+   32,
+   69
+  ],
+  [
+   "Luan Freitas",
+   "ZAG",
+   24,
+   65
+  ],
+  [
+   "Neris",
+   "ZAG",
+   34,
+   66
+  ],
+  [
+   "Gabriel Fuentes",
+   "LE",
+   29,
+   68
+  ],
+  [
+   "Diogo Barbosa",
+   "LE",
+   33,
+   65
+  ],
+  [
+   "Lucas Sasha",
+   "VOL",
+   36,
+   67
+  ],
+  [
+   "Matheus Rossetto",
+   "VOL",
+   30,
+   68
+  ],
+  [
+   "Ronald",
+   "VOL",
+   24,
+   66
+  ],
+  [
+   "Ryan",
+   "VOL",
+   23,
+   65
+  ],
+  [
+   "Rodriguinho",
+   "MEI",
+   26,
+   67
+  ],
+  [
+   "Emmanuel Martínez",
+   "MEI",
+   27,
+   68
+  ],
+  [
+   "Kervin Andrade",
+   "PD",
+   21,
+   68
+  ],
+  [
+   "Paulo Baya",
+   "PD",
+   26,
+   66
+  ],
+  [
+   "Vitinho",
+   "PE",
+   27,
+   65
+  ],
+  [
+   "Juan Lucero",
+   "AC",
+   34,
+   70
+  ],
+  [
+   "Deyverson",
+   "AC",
+   35,
+   68
+  ],
+  [
+   "Nathan Fogaça",
+   "AC",
+   27,
+   67
+  ],
+  [
+   "Luiz Fernando",
+   "AC",
+   29,
+   65
+  ],
+  [
+   "Chico da Costa",
+   "AC",
+   26,
+   66
+  ]
+ ],
+ "Sport": [
+  [
+   "Gabriel",
+   "GOL",
+   33,
+   67
+  ],
+  [
+   "Caíque França",
+   "GOL",
+   30,
+   66
+  ],
+  [
+   "Halls",
+   "GOL",
+   26,
+   63
+  ],
+  [
+   "Matheus Alexandre",
+   "LD",
+   26,
+   66
+  ],
+  [
+   "Claudinho",
+   "LD",
+   26,
+   65
+  ],
+  [
+   "João Silva",
+   "ZAG",
+   31,
+   67
+  ],
+  [
+   "Zé Marcos",
+   "ZAG",
+   30,
+   66
+  ],
+  [
+   "M. Benevenuto",
+   "ZAG",
+   30,
+   66
+  ],
+  [
+   "Ramon Menezes",
+   "ZAG",
+   25,
+   64
+  ],
+  [
+   "Davi Gabriel",
+   "LE",
+   24,
+   63
+  ],
+  [
+   "Dalbert",
+   "LE",
+   32,
+   66
+  ],
+  [
+   "Christian Rivera",
+   "VOL",
+   28,
+   68
+  ],
+  [
+   "Zé Gabriel",
+   "VOL",
+   28,
+   66
+  ],
+  [
+   "Willian Oliveira",
+   "VOL",
+   32,
+   67
+  ],
+  [
+   "Murilo Rhikman",
+   "VOL",
+   22,
+   64
+  ],
+  [
+   "Carlos de Pena",
+   "MEI",
+   34,
+   68
+  ],
+  [
+   "Biel Fonseca",
+   "MEI",
+   22,
+   64
+  ],
+  [
+   "Gonçalo Paciência",
+   "AC",
+   32,
+   68
+  ],
+  [
+   "Clayson",
+   "PE",
+   31,
+   67
+  ],
+  [
+   "Marlon Douglas",
+   "PD",
+   29,
+   64
+  ],
+  [
+   "Iury Castilho",
+   "PE",
+   30,
+   66
+  ],
+  [
+   "Gustavo Coutinho",
+   "AC",
+   26,
+   68
+  ],
+  [
+   "Neto Pessoa",
+   "AC",
+   31,
+   66
+  ]
+ ],
+ "Ceará": [
+  [
+   "Bruno Ferreira",
+   "GOL",
+   31,
+   68
+  ],
+  [
+   "Jorge",
+   "GOL",
+   27,
+   64
+  ],
+  [
+   "Richard",
+   "GOL",
+   34,
+   62
+  ],
+  [
+   "Alex Silva",
+   "LD",
+   32,
+   66
+  ],
+  [
+   "Rafael Ramos",
+   "LD",
+   31,
+   67
+  ],
+  [
+   "Marcos Victor",
+   "ZAG",
+   23,
+   68
+  ],
+  [
+   "Ronald Carvalho",
+   "ZAG",
+   25,
+   64
+  ],
+  [
+   "Júlio César",
+   "ZAG",
+   26,
+   64
+  ],
+  [
+   "Luizão",
+   "ZAG",
+   28,
+   64
+  ],
+  [
+   "Matheus Bahia",
+   "LE",
+   26,
+   67
+  ],
+  [
+   "Dieguinho",
+   "VOL",
+   24,
+   67
+  ],
+  [
+   "Richardson",
+   "VOL",
+   35,
+   66
+  ],
+  [
+   "Lucas Mugni",
+   "MEI",
+   34,
+   69
+  ],
+  [
+   "Vina",
+   "MEI",
+   35,
+   68
+  ],
+  [
+   "Juan Alano",
+   "MEI",
+   28,
+   65
+  ],
+  [
+   "Giovanni Pavani",
+   "MEI",
+   26,
+   65
+  ],
+  [
+   "Matheusinho",
+   "PD",
+   28,
+   66
+  ],
+  [
+   "Galeano",
+   "PD",
+   28,
+   67
+  ],
+  [
+   "Pedro Raul",
+   "AC",
+   29,
+   70
+  ],
+  [
+   "Wendel Silva",
+   "AC",
+   26,
+   65
+  ],
+  [
+   "Renzo López",
+   "AC",
+   31,
+   67
+  ],
+  [
+   "Éder",
+   "ZAG",
+   29,
+   65
+  ],
+  [
+   "Matheus Araújo",
+   "MEI",
+   27,
+   64
+  ]
+ ],
+ "Juventude": [
+  [
+   "Gustavo",
+   "GOL",
+   30,
+   66
+  ],
+  [
+   "Pedro Rocha",
+   "GOL",
+   25,
+   63
+  ],
+  [
+   "Marcão",
+   "GOL",
+   30,
+   62
+  ],
+  [
+   "Raí Ramos",
+   "LD",
+   31,
+   64
+  ],
+  [
+   "Nathan Santos",
+   "LD",
+   25,
+   64
+  ],
+  [
+   "Messias",
+   "ZAG",
+   31,
+   65
+  ],
+  [
+   "Gabriel Pinheiro",
+   "ZAG",
+   23,
+   63
+  ],
+  [
+   "Rodrigo Sam",
+   "ZAG",
+   30,
+   65
+  ],
+  [
+   "Patryck Lanza",
+   "LE",
+   22,
+   64
+  ],
+  [
+   "Alan Ruschel",
+   "LE",
+   37,
+   63
+  ],
+  [
+   "Léo Oliveira",
+   "VOL",
+   24,
+   63
+  ],
+  [
+   "Iba Ly",
+   "VOL",
+   24,
+   63
+  ],
+  [
+   "Lucas Mineiro",
+   "VOL",
+   30,
+   66
+  ],
+  [
+   "Pablo Roberto",
+   "VOL",
+   25,
+   63
+  ],
+  [
+   "Gabriel Pires",
+   "MEI",
+   32,
+   65
+  ],
+  [
+   "Raí Silva",
+   "MEI",
+   25,
+   62
+  ],
+  [
+   "Nenê",
+   "MEI",
+   45,
+   63
+  ],
+  [
+   "Marcos Paulo",
+   "PD",
+   25,
+   64
+  ],
+  [
+   "Manuel Castro",
+   "PE",
+   25,
+   63
+  ],
+  [
+   "Juan Christian",
+   "PE",
+   24,
+   62
+  ],
+  [
+   "Ray Breno",
+   "PD",
+   23,
+   62
+  ],
+  [
+   "Alisson Safira",
+   "AC",
+   27,
+   64
+  ],
+  [
+   "Alan Kardec",
+   "AC",
+   37,
+   64
+  ],
+  [
+   "Fábio Lima",
+   "AC",
+   33,
+   63
+  ]
+ ],
+ "Goiás": [
+  [
+   "Tadeu",
+   "GOL",
+   34,
+   69
+  ],
+  [
+   "Thiago Rodrigues",
+   "GOL",
+   37,
+   64
+  ],
+  [
+   "Ezequiel",
+   "GOL",
+   24,
+   60
+  ],
+  [
+   "Rodrigo Soares",
+   "LD",
+   34,
+   64
+  ],
+  [
+   "Marcos Vinícius",
+   "LD",
+   28,
+   63
+  ],
+  [
+   "Luisão",
+   "ZAG",
+   24,
+   65
+  ],
+  [
+   "Lucas Ribeiro",
+   "ZAG",
+   27,
+   66
+  ],
+  [
+   "Messias Rodrigues",
+   "ZAG",
+   26,
+   64
+  ],
+  [
+   "Titi",
+   "ZAG",
+   38,
+   63
+  ],
+  [
+   "Nicolas",
+   "LE",
+   26,
+   63
+  ],
+  [
+   "Djalma Silva",
+   "LE",
+   28,
+   63
+  ],
+  [
+   "Gegê",
+   "VOL",
+   27,
+   64
+  ],
+  [
+   "Juninho",
+   "VOL",
+   28,
+   64
+  ],
+  [
+   "Filipe Machado",
+   "MEI",
+   35,
+   63
+  ],
+  [
+   "Lucas Lima",
+   "MEI",
+   35,
+   65
+  ],
+  [
+   "Lourenço",
+   "MEI",
+   23,
+   63
+  ],
+  [
+   "Jajá",
+   "PD",
+   23,
+   66
+  ],
+  [
+   "Kadu",
+   "PE",
+   24,
+   63
+  ],
+  [
+   "Bruno Sávio",
+   "PE",
+   31,
+   64
+  ],
+  [
+   "Pedrinho",
+   "PE",
+   27,
+   64
+  ],
+  [
+   "Anselmo Ramon",
+   "AC",
+   37,
+   64
+  ],
+  [
+   "Welliton",
+   "AC",
+   23,
+   65
+  ]
+ ],
+ "Atlético-GO": [
+  [
+   "Ronaldo",
+   "GOL",
+   29,
+   67
+  ],
+  [
+   "Paulo Vitor",
+   "GOL",
+   27,
+   62
+  ],
+  [
+   "Pedro Rangel",
+   "GOL",
+   25,
+   60
+  ],
+  [
+   "Matheus Ribeiro",
+   "LD",
+   32,
+   64
+  ],
+  [
+   "Felipe Guimarães",
+   "LD",
+   24,
+   64
+  ],
+  [
+   "Natã Felipe",
+   "ZAG",
+   27,
+   64
+  ],
+  [
+   "Junior Barreto",
+   "ZAG",
+   29,
+   64
+  ],
+  [
+   "Adriano Martins",
+   "ZAG",
+   30,
+   65
+  ],
+  [
+   "Luiz Felipe",
+   "ZAG",
+   28,
+   64
+  ],
+  [
+   "Guilherme Lopes",
+   "LE",
+   28,
+   64
+  ],
+  [
+   "Guilherme Romão",
+   "LE",
+   29,
+   64
+  ],
+  [
+   "Netinho",
+   "VOL",
+   29,
+   64
+  ],
+  [
+   "Geovane",
+   "VOL",
+   31,
+   65
+  ],
+  [
+   "Leandro Vilela",
+   "VOL",
+   29,
+   65
+  ],
+  [
+   "Rhaldney",
+   "VOL",
+   29,
+   64
+  ],
+  [
+   "Igor Henrique",
+   "MEI",
+   27,
+   63
+  ],
+  [
+   "Lima",
+   "MEI",
+   35,
+   63
+  ],
+  [
+   "Guilherme Marques",
+   "MEI",
+   27,
+   64
+  ],
+  [
+   "Kevin Ramírez",
+   "PE",
+   28,
+   64
+  ],
+  [
+   "Vitinho Lopes",
+   "PD",
+   25,
+   62
+  ],
+  [
+   "Jader",
+   "PD",
+   24,
+   62
+  ],
+  [
+   "Marrony",
+   "PE",
+   27,
+   65
+  ],
+  [
+   "Bruno José",
+   "PD",
+   28,
+   63
+  ],
+  [
+   "Léo Jacó",
+   "AC",
+   24,
+   63
+  ],
+  [
+   "Allanzinho",
+   "AC",
+   22,
+   61
+  ]
+ ],
+ "Criciúma": [
+  [
+   "Airton",
+   "GOL",
+   31,
+   64
+  ],
+  [
+   "Gustavo",
+   "GOL",
+   31,
+   65
+  ],
+  [
+   "Alisson",
+   "GOL",
+   34,
+   63
+  ],
+  [
+   "Willian Lepo",
+   "LD",
+   31,
+   64
+  ],
+  [
+   "Marcelo Hermes",
+   "LD",
+   30,
+   63
+  ],
+  [
+   "Rodrigo",
+   "ZAG",
+   33,
+   65
+  ],
+  [
+   "César Martins",
+   "ZAG",
+   33,
+   64
+  ],
+  [
+   "Wilker Ángel",
+   "ZAG",
+   33,
+   63
+  ],
+  [
+   "Rômulo",
+   "ZAG",
+   29,
+   64
+  ],
+  [
+   "Marcinho",
+   "LE",
+   29,
+   63
+  ],
+  [
+   "Jonathan",
+   "LE",
+   30,
+   64
+  ],
+  [
+   "Jean Irmer",
+   "VOL",
+   29,
+   64
+  ],
+  [
+   "Sandry",
+   "VOL",
+   23,
+   63
+  ],
+  [
+   "Barreto",
+   "VOL",
+   33,
+   64
+  ],
+  [
+   "Ronald Lopes",
+   "VOL",
+   20,
+   63
+  ],
+  [
+   "Matheusinho",
+   "MEI",
+   27,
+   65
+  ],
+  [
+   "Rómulo Otero",
+   "MEI",
+   33,
+   66
+  ],
+  [
+   "Fellipe Mateus",
+   "MEI",
+   34,
+   64
+  ],
+  [
+   "Romarinho",
+   "PD",
+   35,
+   64
+  ],
+  [
+   "Waguininho",
+   "PE",
+   33,
+   63
+  ],
+  [
+   "Yuri Tanque",
+   "AC",
+   29,
+   64
+  ],
+  [
+   "Felipe Vizeu",
+   "AC",
+   29,
+   64
+  ]
+ ],
+ "Cuiabá": [
+  [
+   "João Carlos",
+   "GOL",
+   30,
+   64
+  ],
+  [
+   "Marcelo Carné",
+   "GOL",
+   35,
+   62
+  ],
+  [
+   "Walter Gaspar",
+   "GOL",
+   30,
+   60
+  ],
+  [
+   "Raylan",
+   "LD",
+   26,
+   62
+  ],
+  [
+   "Edson",
+   "ZAG",
+   32,
+   63
+  ],
+  [
+   "Vitor Mendes",
+   "ZAG",
+   31,
+   64
+  ],
+  [
+   "Alan Empereur",
+   "ZAG",
+   32,
+   65
+  ],
+  [
+   "Eric Melo",
+   "LE",
+   24,
+   62
+  ],
+  [
+   "Luiz Otávio",
+   "VOL",
+   32,
+   65
+  ],
+  [
+   "Weverson",
+   "VOL",
+   25,
+   63
+  ],
+  [
+   "Raul",
+   "VOL",
+   34,
+   62
+  ],
+  [
+   "João Araújo",
+   "VOL",
+   25,
+   62
+  ],
+  [
+   "Pepê",
+   "MEI",
+   29,
+   65
+  ],
+  [
+   "Fernando Sobral",
+   "MEI",
+   32,
+   64
+  ],
+  [
+   "Rodrigo Rodrigues",
+   "PD",
+   25,
+   64
+  ],
+  [
+   "Vinicius Peixoto",
+   "PE",
+   24,
+   63
+  ],
+  [
+   "Hernandes",
+   "PE",
+   27,
+   62
+  ],
+  [
+   "Mateus Santos",
+   "AC",
+   23,
+   62
+  ],
+  [
+   "Derik Lacerda",
+   "AC",
+   25,
+   63
+  ],
+  [
+   "Pedro Henrique",
+   "AC",
+   35,
+   64
+  ],
+  [
+   "Marllon",
+   "ZAG",
+   34,
+   63
+  ],
+  [
+   "Lucas Fernandes",
+   "MEI",
+   28,
+   63
+  ]
+ ],
+ "América-MG": [
+  [
+   "Gustavo",
+   "GOL",
+   27,
+   66
+  ],
+  [
+   "William",
+   "GOL",
+   30,
+   64
+  ],
+  [
+   "Elias",
+   "GOL",
+   26,
+   60
+  ],
+  [
+   "Léo Alaba",
+   "LD",
+   23,
+   63
+  ],
+  [
+   "Artur",
+   "LD",
+   26,
+   62
+  ],
+  [
+   "Mateus Henrique",
+   "LD",
+   24,
+   62
+  ],
+  [
+   "Nathan Pelae",
+   "ZAG",
+   23,
+   63
+  ],
+  [
+   "Ricardo Silva",
+   "ZAG",
+   34,
+   64
+  ],
+  [
+   "Lucão",
+   "ZAG",
+   25,
+   63
+  ],
+  [
+   "Manoel",
+   "ZAG",
+   36,
+   64
+  ],
+  [
+   "Marlon",
+   "LE",
+   28,
+   63
+  ],
+  [
+   "Val Soares",
+   "VOL",
+   24,
+   63
+  ],
+  [
+   "Miqueias",
+   "VOL",
+   29,
+   64
+  ],
+  [
+   "Alê",
+   "VOL",
+   35,
+   64
+  ],
+  [
+   "Segovinha",
+   "MEI",
+   24,
+   63
+  ],
+  [
+   "Eduardo Person",
+   "MEI",
+   24,
+   64
+  ],
+  [
+   "Felipe Azevedo",
+   "MEI",
+   38,
+   63
+  ],
+  [
+   "Éverton Brito",
+   "PD",
+   29,
+   63
+  ],
+  [
+   "Adyson",
+   "PE",
+   29,
+   64
+  ],
+  [
+   "Fabinho",
+   "PE",
+   29,
+   64
+  ],
+  [
+   "Yarlen",
+   "AC",
+   25,
+   64
+  ],
+  [
+   "Paulo Victor",
+   "AC",
+   30,
+   63
+  ]
+ ],
+ "Avaí": [
+  [
+   "César",
+   "GOL",
+   35,
+   65
+  ],
+  [
+   "Vladimir",
+   "GOL",
+   37,
+   60
+  ],
+  [
+   "Igor Bohn",
+   "GOL",
+   26,
+   61
+  ],
+  [
+   "Wallison",
+   "LD",
+   24,
+   63
+  ],
+  [
+   "Gabriel Simples",
+   "LD",
+   22,
+   62
+  ],
+  [
+   "Wesley Gasolina",
+   "LD",
+   26,
+   63
+  ],
+  [
+   "Guilherme Aquino",
+   "ZAG",
+   28,
+   63
+  ],
+  [
+   "Allyson",
+   "ZAG",
+   24,
+   62
+  ],
+  [
+   "Nicolás Cabral",
+   "ZAG",
+   25,
+   62
+  ],
+  [
+   "João Maistro",
+   "ZAG",
+   22,
+   62
+  ],
+  [
+   "DG",
+   "LE",
+   24,
+   62
+  ],
+  [
+   "Wenderson",
+   "VOL",
+   27,
+   63
+  ],
+  [
+   "Paulo Vitor",
+   "VOL",
+   26,
+   62
+  ],
+  [
+   "Pedro Cuiabá",
+   "VOL",
+   27,
+   62
+  ],
+  [
+   "Zé Ricardo",
+   "VOL",
+   29,
+   64
+  ],
+  [
+   "Luiz Henrique",
+   "MEI",
+   30,
+   63
+  ],
+  [
+   "Cristiano",
+   "MEI",
+   32,
+   63
+  ],
+  [
+   "Daniel Penha",
+   "MEI",
+   27,
+   64
+  ],
+  [
+   "Hyan",
+   "MEI",
+   21,
+   61
+  ],
+  [
+   "Sorriso",
+   "PD",
+   23,
+   66
+  ],
+  [
+   "Filipinho",
+   "PE",
+   22,
+   62
+  ],
+  [
+   "Rafael Bilu",
+   "PE",
+   30,
+   63
+  ],
+  [
+   "Felipe Avenatti",
+   "AC",
+   33,
+   64
+  ],
+  [
+   "Walace França",
+   "AC",
+   26,
+   62
+  ]
+ ],
+ "Novorizontino": [
+  [
+   "César Augusto",
+   "GOL",
+   33,
+   64
+  ],
+  [
+   "Jordi",
+   "GOL",
+   32,
+   65
+  ],
+  [
+   "Gabriel Leite",
+   "GOL",
+   28,
+   61
+  ],
+  [
+   "Jhilmar Lora",
+   "LD",
+   25,
+   64
+  ],
+  [
+   "Nilson Castrillón",
+   "LD",
+   29,
+   63
+  ],
+  [
+   "Iván Alvariño",
+   "ZAG",
+   30,
+   64
+  ],
+  [
+   "Gabriel Silva",
+   "ZAG",
+   25,
+   63
+  ],
+  [
+   "Eduardo Brock",
+   "ZAG",
+   34,
+   64
+  ],
+  [
+   "Patrick",
+   "ZAG",
+   32,
+   65
+  ],
+  [
+   "Maykon Jesus",
+   "LE",
+   27,
+   63
+  ],
+  [
+   "Rômulo",
+   "MEI",
+   24,
+   65
+  ],
+  [
+   "Juninho",
+   "VOL",
+   28,
+   63
+  ],
+  [
+   "Léo Naldi",
+   "VOL",
+   26,
+   64
+  ],
+  [
+   "Luís Oyama",
+   "VOL",
+   29,
+   64
+  ],
+  [
+   "Matheus Bianqui",
+   "MEI",
+   26,
+   64
+  ],
+  [
+   "Titi Ortiz",
+   "MEI",
+   29,
+   64
+  ],
+  [
+   "Ronald Barcellos",
+   "PD",
+   30,
+   64
+  ],
+  [
+   "Jardiel",
+   "PD",
+   23,
+   63
+  ],
+  [
+   "Hélio Borges",
+   "PE",
+   26,
+   62
+  ],
+  [
+   "Vinícius Paiva",
+   "PE",
+   25,
+   63
+  ],
+  [
+   "Carlão",
+   "AC",
+   30,
+   64
+  ],
+  [
+   "Nicolas Careca",
+   "AC",
+   27,
+   64
+  ],
+  [
+   "Robson",
+   "AC",
+   35,
+   64
+  ]
+ ],
+ "Vila Nova": [
+  [
+   "Helton Leite",
+   "GOL",
+   35,
+   64
+  ],
+  [
+   "Gabriel Átila",
+   "GOL",
+   23,
+   62
+  ],
+  [
+   "Dalberson",
+   "GOL",
+   31,
+   61
+  ],
+  [
+   "Hayner",
+   "LD",
+   31,
+   63
+  ],
+  [
+   "Anderson Jesus",
+   "ZAG",
+   26,
+   63
+  ],
+  [
+   "Walisson Maia",
+   "ZAG",
+   28,
+   63
+  ],
+  [
+   "Rodrigo Andrade",
+   "ZAG",
+   28,
+   62
+  ],
+  [
+   "Tiago Pagnussat",
+   "ZAG",
+   35,
+   63
+  ],
+  [
+   "Igor Cariús",
+   "LE",
+   30,
+   64
+  ],
+  [
+   "Willian Formiga",
+   "LE",
+   30,
+   62
+  ],
+  [
+   "Dudu",
+   "VOL",
+   35,
+   63
+  ],
+  [
+   "Willian Maranhão",
+   "VOL",
+   33,
+   63
+  ],
+  [
+   "Nathan Camargo",
+   "VOL",
+   22,
+   62
+  ],
+  [
+   "Higor Meritão",
+   "VOL",
+   31,
+   64
+  ],
+  [
+   "Ralf",
+   "VOL",
+   41,
+   61
+  ],
+  [
+   "Marquinhos Gabriel",
+   "MEI",
+   35,
+   63
+  ],
+  [
+   "Dodô",
+   "MEI",
+   27,
+   62
+  ],
+  [
+   "Juninho",
+   "MEI",
+   27,
+   63
+  ],
+  [
+   "Janderson",
+   "PD",
+   27,
+   64
+  ],
+  [
+   "Rafa Silva",
+   "PE",
+   34,
+   63
+  ],
+  [
+   "Emerson Urso",
+   "PE",
+   32,
+   62
+  ],
+  [
+   "Dellatorre",
+   "AC",
+   34,
+   65
+  ],
+  [
+   "Alesson",
+   "AC",
+   25,
+   63
+  ]
+ ],
+ "CRB": [
+  [
+   "Matheus Albino",
+   "GOL",
+   29,
+   64
+  ],
+  [
+   "Vitor Caetano",
+   "GOL",
+   25,
+   62
+  ],
+  [
+   "Wallace",
+   "GOL",
+   30,
+   60
+  ],
+  [
+   "Hereda",
+   "LD",
+   34,
+   63
+  ],
+  [
+   "Bressan",
+   "ZAG",
+   33,
+   64
+  ],
+  [
+   "Lycon",
+   "ZAG",
+   25,
+   63
+  ],
+  [
+   "Fábio Alemão",
+   "ZAG",
+   35,
+   62
+  ],
+  [
+   "Henri",
+   "ZAG",
+   30,
+   63
+  ],
+  [
+   "Lucas Lovat",
+   "LE",
+   29,
+   63
+  ],
+  [
+   "Weverton",
+   "LE",
+   24,
+   62
+  ],
+  [
+   "Luizão",
+   "VOL",
+   29,
+   63
+  ],
+  [
+   "Pedro Castro",
+   "VOL",
+   32,
+   63
+  ],
+  [
+   "Higor Leite",
+   "VOL",
+   32,
+   63
+  ],
+  [
+   "Geovane",
+   "MEI",
+   23,
+   64
+  ],
+  [
+   "Guilherme Estrella",
+   "MEI",
+   27,
+   63
+  ],
+  [
+   "Gabriel Barros",
+   "MEI",
+   24,
+   62
+  ],
+  [
+   "Danielzinho",
+   "PD",
+   28,
+   63
+  ],
+  [
+   "Thiaguinho",
+   "PE",
+   24,
+   63
+  ],
+  [
+   "João Neto",
+   "PE",
+   20,
+   62
+  ],
+  [
+   "Mikael",
+   "AC",
+   27,
+   65
+  ],
+  [
+   "Luiz Phellype",
+   "AC",
+   32,
+   63
+  ],
+  [
+   "Guilherme Pato",
+   "AC",
+   27,
+   62
+  ]
+ ],
+ "Operário-PR": [
+  [
+   "Elias Curzel",
+   "GOL",
+   27,
+   64
+  ],
+  [
+   "Vagner",
+   "GOL",
+   39,
+   63
+  ],
+  [
+   "Rafael Santos",
+   "GOL",
+   28,
+   61
+  ],
+  [
+   "Mikael Doka",
+   "LD",
+   25,
+   63
+  ],
+  [
+   "Marcelo Kanoke",
+   "LD",
+   28,
+   62
+  ],
+  [
+   "José Cuenú",
+   "ZAG",
+   26,
+   63
+  ],
+  [
+   "Jhan Pool",
+   "ZAG",
+   27,
+   62
+  ],
+  [
+   "Joseph",
+   "ZAG",
+   28,
+   63
+  ],
+  [
+   "Gabriel Bahia",
+   "ZAG",
+   27,
+   63
+  ],
+  [
+   "Moraes Júnior",
+   "LE",
+   29,
+   62
+  ],
+  [
+   "Fabiano",
+   "LE",
+   29,
+   62
+  ],
+  [
+   "Vinícius Diniz",
+   "VOL",
+   27,
+   63
+  ],
+  [
+   "Índio",
+   "VOL",
+   33,
+   63
+  ],
+  [
+   "Neto Paraíba",
+   "VOL",
+   30,
+   62
+  ],
+  [
+   "Matheus Trindade",
+   "MEI",
+   28,
+   63
+  ],
+  [
+   "Gabriel Boschilia",
+   "MEI",
+   30,
+   64
+  ],
+  [
+   "Felipe Augusto",
+   "PD",
+   34,
+   62
+  ],
+  [
+   "Edwin Torres",
+   "PD",
+   23,
+   62
+  ],
+  [
+   "Aylon",
+   "PE",
+   33,
+   63
+  ],
+  [
+   "Pablo",
+   "AC",
+   34,
+   63
+  ],
+  [
+   "Vinicius Mingotti",
+   "AC",
+   27,
+   63
+  ],
+  [
+   "Allano",
+   "AC",
+   30,
+   62
+  ]
+ ],
+ "Athletic Club": [
+  [
+   "Jhonatan Siqueira",
+   "GOL",
+   34,
+   63
+  ],
+  [
+   "Glauco",
+   "GOL",
+   28,
+   62
+  ],
+  [
+   "Edson",
+   "GOL",
+   30,
+   60
+  ],
+  [
+   "Diogo Batista",
+   "LD",
+   29,
+   62
+  ],
+  [
+   "Ian",
+   "LD",
+   26,
+   61
+  ],
+  [
+   "Lucas Belezi",
+   "ZAG",
+   27,
+   62
+  ],
+  [
+   "Philipe Sampaio",
+   "ZAG",
+   31,
+   63
+  ],
+  [
+   "Sidimar",
+   "ZAG",
+   30,
+   61
+  ],
+  [
+   "Thiago Lopes",
+   "ZAG",
+   27,
+   61
+  ],
+  [
+   "Zeca",
+   "LE",
+   32,
+   63
+  ],
+  [
+   "Danilo Belão",
+   "LE",
+   27,
+   61
+  ],
+  [
+   "Kauan Rodrigues",
+   "VOL",
+   24,
+   62
+  ],
+  [
+   "Deyson Copete",
+   "VOL",
+   28,
+   62
+  ],
+  [
+   "Gian Cabezas",
+   "VOL",
+   26,
+   62
+  ],
+  [
+   "Wesley Pomba",
+   "VOL",
+   28,
+   61
+  ],
+  [
+   "Gustavinho",
+   "MEI",
+   22,
+   62
+  ],
+  [
+   "Ian Luccas",
+   "MEI",
+   27,
+   62
+  ],
+  [
+   "Léo Chú",
+   "PE",
+   26,
+   63
+  ],
+  [
+   "Ruan Assis",
+   "PD",
+   24,
+   61
+  ],
+  [
+   "Dixon Vera",
+   "PD",
+   25,
+   62
+  ],
+  [
+   "Pedro Bonolo",
+   "PE",
+   26,
+   61
+  ],
+  [
+   "Ronaldo Mendes",
+   "AC",
+   31,
+   62
+  ],
+  [
+   "Marcelinho",
+   "AC",
+   29,
+   61
+  ]
+ ],
+ "Botafogo-SP": [
+  [
+   "Jordan",
+   "GOL",
+   31,
+   63
+  ],
+  [
+   "Victor Souza",
+   "GOL",
+   29,
+   62
+  ],
+  [
+   "Matheus Nogueira",
+   "GOL",
+   24,
+   60
+  ],
+  [
+   "Jonathan Lemos",
+   "LD",
+   30,
+   62
+  ],
+  [
+   "Gabriel Inocêncio",
+   "LD",
+   30,
+   63
+  ],
+  [
+   "Gui Mariano",
+   "ZAG",
+   24,
+   62
+  ],
+  [
+   "Wallace",
+   "ZAG",
+   32,
+   63
+  ],
+  [
+   "Jean Victor",
+   "ZAG",
+   27,
+   62
+  ],
+  [
+   "Ericson",
+   "ZAG",
+   30,
+   62
+  ],
+  [
+   "Patrick Brey",
+   "LE",
+   28,
+   63
+  ],
+  [
+   "Felipe Vieira",
+   "LE",
+   30,
+   62
+  ],
+  [
+   "Thiaguinho",
+   "VOL",
+   27,
+   62
+  ],
+  [
+   "Matheus Sales",
+   "VOL",
+   30,
+   63
+  ],
+  [
+   "Leandro Maciel",
+   "VOL",
+   30,
+   62
+  ],
+  [
+   "Gustavo Bochecha",
+   "VOL",
+   29,
+   62
+  ],
+  [
+   "Rafael Gava",
+   "MEI",
+   33,
+   63
+  ],
+  [
+   "Everton Morelli",
+   "MEI",
+   26,
+   62
+  ],
+  [
+   "Hygor",
+   "PD",
+   34,
+   62
+  ],
+  [
+   "Kelvin",
+   "PE",
+   33,
+   63
+  ],
+  [
+   "Wesley Santos",
+   "PE",
+   25,
+   61
+  ],
+  [
+   "Márcio Maranhão",
+   "AC",
+   31,
+   62
+  ],
+  [
+   "Luizão",
+   "AC",
+   26,
+   62
+  ],
+  [
+   "Leandro Love",
+   "AC",
+   27,
+   61
+  ]
+ ],
+ "Ponte Preta": [
+  [
+   "Thiago Coelho",
+   "GOL",
+   24,
+   62
+  ],
+  [
+   "Pedro Rocha",
+   "GOL",
+   27,
+   61
+  ],
+  [
+   "Gabriel Mesquita",
+   "GOL",
+   29,
+   60
+  ],
+  [
+   "Thalys",
+   "LD",
+   23,
+   62
+  ],
+  [
+   "Lucas Justen",
+   "LD",
+   30,
+   62
+  ],
+  [
+   "David Braz",
+   "ZAG",
+   39,
+   62
+  ],
+  [
+   "Lucas Cunha",
+   "ZAG",
+   29,
+   62
+  ],
+  [
+   "Mateus Silva",
+   "ZAG",
+   27,
+   62
+  ],
+  [
+   "Saimon",
+   "ZAG",
+   29,
+   61
+  ],
+  [
+   "Diogo Porfírio",
+   "LE",
+   25,
+   62
+  ],
+  [
+   "Bryan Borges",
+   "LE",
+   24,
+   61
+  ],
+  [
+   "Kevyson",
+   "LE",
+   27,
+   61
+  ],
+  [
+   "Tárik",
+   "VOL",
+   27,
+   62
+  ],
+  [
+   "Murilo Cavalcante",
+   "VOL",
+   24,
+   61
+  ],
+  [
+   "Élvis",
+   "MEI",
+   35,
+   63
+  ],
+  [
+   "Emerson Santos",
+   "VOL",
+   28,
+   61
+  ],
+  [
+   "Rodrigo Souza",
+   "VOL",
+   38,
+   60
+  ],
+  [
+   "Danilo Barcelos",
+   "MEI",
+   34,
+   62
+  ],
+  [
+   "David da Hora",
+   "PD",
+   26,
+   62
+  ],
+  [
+   "Jonathan Cafu",
+   "PE",
+   35,
+   62
+  ],
+  [
+   "Luis Phelipe",
+   "PE",
+   23,
+   61
+  ],
+  [
+   "Brandão",
+   "AC",
+   30,
+   62
+  ],
+  [
+   "William Pottker",
+   "AC",
+   32,
+   63
+  ],
+  [
+   "Jeh",
+   "AC",
+   25,
+   61
+  ]
+ ],
+ "Náutico": [
+  [
+   "Gastón Guruceaga",
+   "GOL",
+   31,
+   63
+  ],
+  [
+   "Muriel",
+   "GOL",
+   39,
+   62
+  ],
+  [
+   "Vagner",
+   "GOL",
+   30,
+   60
+  ],
+  [
+   "Reginaldo",
+   "LD",
+   31,
+   62
+  ],
+  [
+   "Sander",
+   "LD",
+   30,
+   61
+  ],
+  [
+   "Arnaldo",
+   "ZAG",
+   31,
+   62
+  ],
+  [
+   "Wanderson",
+   "ZAG",
+   29,
+   61
+  ],
+  [
+   "Igor Fernandes",
+   "ZAG",
+   28,
+   61
+  ],
+  [
+   "Yuri",
+   "LE",
+   27,
+   62
+  ],
+  [
+   "Léo Jance",
+   "LE",
+   25,
+   61
+  ],
+  [
+   "Ramon Carvalho",
+   "VOL",
+   30,
+   62
+  ],
+  [
+   "Luiz Felipe",
+   "VOL",
+   26,
+   61
+  ],
+  [
+   "Wenderson",
+   "VOL",
+   31,
+   62
+  ],
+  [
+   "Jean Carlos",
+   "MEI",
+   34,
+   63
+  ],
+  [
+   "Dodô",
+   "MEI",
+   27,
+   62
+  ],
+  [
+   "Patrick Allan",
+   "MEI",
+   26,
+   61
+  ],
+  [
+   "Júnior Todinho",
+   "PD",
+   31,
+   62
+  ],
+  [
+   "Felipe Saraiva",
+   "PE",
+   31,
+   62
+  ],
+  [
+   "Jonas Toró",
+   "PE",
+   28,
+   62
+  ],
+  [
+   "Juninho",
+   "PE",
+   27,
+   61
+  ],
+  [
+   "Paulo Sérgio",
+   "AC",
+   31,
+   63
+  ],
+  [
+   "Vinícius",
+   "AC",
+   27,
+   61
+  ],
+  [
+   "Kayon",
+   "AC",
+   24,
+   60
+  ]
+ ],
+ "Londrina": [
+  [
+   "Maurício Kozlinski",
+   "GOL",
+   35,
+   62
+  ],
+  [
+   "Zanella",
+   "GOL",
+   28,
+   61
+  ],
+  [
+   "Luan Polli",
+   "GOL",
+   32,
+   60
+  ],
+  [
+   "André Dhominique",
+   "LD",
+   31,
+   62
+  ],
+  [
+   "Maurício",
+   "LD",
+   27,
+   61
+  ],
+  [
+   "Gabriel Lacerda",
+   "ZAG",
+   28,
+   62
+  ],
+  [
+   "Heron",
+   "ZAG",
+   26,
+   61
+  ],
+  [
+   "Lucas Ramires",
+   "ZAG",
+   28,
+   61
+  ],
+  [
+   "Matheus Bueno",
+   "ZAG",
+   24,
+   60
+  ],
+  [
+   "Rafael Monteiro",
+   "LE",
+   27,
+   61
+  ],
+  [
+   "Kevyn",
+   "LE",
+   24,
+   61
+  ],
+  [
+   "Murilo Chico",
+   "VOL",
+   24,
+   61
+  ],
+  [
+   "André Cardoso",
+   "VOL",
+   28,
+   61
+  ],
+  [
+   "Fabiano",
+   "VOL",
+   29,
+   61
+  ],
+  [
+   "André Luiz",
+   "VOL",
+   30,
+   62
+  ],
+  [
+   "Geovane Meurer",
+   "MEI",
+   24,
+   62
+  ],
+  [
+   "Chumbinho",
+   "MEI",
+   31,
+   62
+  ],
+  [
+   "Fabrício",
+   "PD",
+   26,
+   61
+  ],
+  [
+   "Paulinho Moccelin",
+   "PE",
+   31,
+   62
+  ],
+  [
+   "Gilberto",
+   "PD",
+   37,
+   61
+  ],
+  [
+   "Vitor Jacaré",
+   "PE",
+   26,
+   60
+  ],
+  [
+   "João Pedro",
+   "AC",
+   29,
+   62
+  ],
+  [
+   "Crysthyan",
+   "AC",
+   24,
+   61
+  ],
+  [
+   "Caio Maia",
+   "AC",
+   25,
+   60
+  ]
+ ],
+ "São Bernardo": [
+  [
+   "Alex Alves",
+   "GOL",
+   31,
+   64
+  ],
+  [
+   "Bruno Galvão",
+   "GOL",
+   31,
+   62
+  ],
+  [
+   "Rodolfo",
+   "GOL",
+   28,
+   60
+  ],
+  [
+   "Romário",
+   "LD",
+   29,
+   63
+  ],
+  [
+   "Gabriel Silva",
+   "LD",
+   25,
+   62
+  ],
+  [
+   "Pablo",
+   "ZAG",
+   34,
+   65
+  ],
+  [
+   "Jemerson",
+   "ZAG",
+   34,
+   65
+  ],
+  [
+   "Wellington Manzoli",
+   "ZAG",
+   25,
+   62
+  ],
+  [
+   "Helder",
+   "ZAG",
+   29,
+   62
+  ],
+  [
+   "Mário Sérgio",
+   "LE",
+   29,
+   62
+  ],
+  [
+   "Lucas Hipólito",
+   "LE",
+   26,
+   61
+  ],
+  [
+   "Dudu Miraíma",
+   "VOL",
+   27,
+   62
+  ],
+  [
+   "Rodrigo Andrade",
+   "VOL",
+   32,
+   63
+  ],
+  [
+   "Júnior Urso",
+   "VOL",
+   37,
+   63
+  ],
+  [
+   "Marcão",
+   "VOL",
+   29,
+   62
+  ],
+  [
+   "Felipe Rodrigues",
+   "MEI",
+   27,
+   63
+  ],
+  [
+   "Pedrinho",
+   "PE",
+   30,
+   63
+  ],
+  [
+   "Neto Costa",
+   "PD",
+   27,
+   62
+  ],
+  [
+   "Pedro Vitor",
+   "PE",
+   26,
+   62
+  ],
+  [
+   "Daniel Amorim",
+   "AC",
+   33,
+   63
+  ],
+  [
+   "Echaporã",
+   "AC",
+   31,
+   62
+  ],
+  [
+   "Silvinho",
+   "PD",
+   35,
+   61
+  ]
+ ]
+}
